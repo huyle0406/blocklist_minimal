@@ -9608,6 +9608,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.corusradionetwork.com
@@ -11857,7 +11858,6 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
-advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -15373,6 +15373,7 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -17086,6 +17087,7 @@ analytics.sexlikereal.com
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopgoodgrief.com
@@ -20222,7 +20224,6 @@ app.customerservice.royalmail.com
 app.datorama.com
 app.davision.ai
 app.dawsoncreekeventscentre.com
-app.deflliama.tech
 app.deliver.trendmicro.co.jp
 app.demand.nexsan.com
 app.dengage.com
@@ -21546,6 +21547,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -27234,7 +27236,6 @@ boggartinsiteuntruly.qpon
 bogmunchbeneath.com
 bogrex.com
 bogrodius.com
-bogus-disk.com
 bogusdrop.com
 bogustrouble.com
 bohcgusfdrmyt.site
@@ -28409,7 +28410,6 @@ buballmighty.com
 bubasocks-ss.checkoutera.com
 bubbi.ai
 bubblemayflowernephew.com
-bubblesmedia.ru
 bubblestat.com
 bubbly-sound.com
 bubblyaction.com
@@ -32080,6 +32080,7 @@ cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
 cdn.zampda.net
+cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -38847,7 +38848,6 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -39182,7 +39182,6 @@ csync.smartadserver.com
 csync.smartadserver.com.edgesuite.net
 csync.smilewanted.com
 cszlks.com
-cszz.ru
 ct-errs.cartrawler.com
 ct-ws-front.calltouch.ru
 ct.beslist.nl
@@ -40145,7 +40144,6 @@ d.everprint.co
 d.evilgreed.com
 d.evomarketing.it
 d.ew-ag.ch
-d.exito.fun
 d.exmed.net
 d.fabu-btq.com.ua
 d.feellovecoffee.com
@@ -45021,7 +45019,6 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
-data.info.solvenza.hn
 data.info.venetianlasvegas.com
 data.info.viking.com
 data.info.xpempresas.com.br
@@ -47491,11 +47488,9 @@ dewrain.life
 dewrain.site
 dewrain.world
 dex.screener-v3.cc
-dex.screener-v3.com
 dexakcontentq1.pxf.io
 dexchangegenius.com
 dexchangeinc.com
-dexcsreener.net
 dexpredict.com
 dexterrobbins.cf
 deycppnevpjax.online
@@ -49069,7 +49064,6 @@ dndvms.24s.com
 dndvms.24sevres.com
 dne6rbzy5csnc.cloudfront.net
 dnecea.vacances-lagrange.com
-dnemkhkbsdbl.com
 dneue.rufskin.com
 dnf06i4y06g13.cloudfront.net
 dnfs24.com
@@ -58204,7 +58198,6 @@ find.api.micloud.xiaomi.net.iberostar.com
 find.tjmartbd.com
 findandate.com
 findbetterresults.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -61122,7 +61115,6 @@ galainteractive.evergage.com
 galaksion.com
 galav-oxwy.mushroomtrack.com
 galaxiemedia.fr
-galaxien.com
 galaxy-love.com
 galaxy.bjcathay.com
 galaxy.bz.mgtv.com
@@ -63528,7 +63520,6 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
-go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -92244,7 +92235,6 @@ m9n6nht2evwh6h.cfd
 m9s3h265lq.com
 m9sz0hh3f7.com
 ma-adx.ctrip.com
-ma-code.ru
 ma-jin.jp
 ma-tag.com
 ma.a3.se
@@ -95840,7 +95830,6 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -106271,7 +106260,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -115127,6 +115115,7 @@ ping.instantsearchplus.com
 ping.paidy.com
 ping.pdst.fm
 ping.pinyin.sogou.com
+ping.reg.pf-d.ca
 ping.staticmoly.me
 ping.taplytics.com
 ping.texastribune.org
@@ -116919,6 +116908,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 post.xmlpost.xyz
@@ -130208,6 +130198,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -132200,7 +132191,6 @@ scorchsorchic.com
 score.im-apps.net
 scoreaisle.com
 scorecardresearch.com
-scoredconnect.com
 scornfacultative.com
 scornfulleg.com
 scornfulsalary.pro
@@ -134708,6 +134698,7 @@ server.admfinanceira.com.br
 server.adornadasjoias.com
 server.adrianobernardesadv.com.br
 server.adrianoleonardi.com.br
+server.advantere.org
 server.advisi.com.br
 server.advogadopro.adv.br
 server.aecmateriais.com.br
@@ -185610,7 +185601,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
