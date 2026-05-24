@@ -1,3 +1,4 @@
+0.al.com
 0.avmarket.rs
 0.myikas.com
 0.net.easyjet.com
@@ -14499,6 +14500,8 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -17662,7 +17665,6 @@ analyticsmumbai.abbeyroadinstitute.in
 analyticsnarc.ro.ing.net
 analyticsnew.overwolf.com
 analyticsnorth.weber.com
-analyticsoverzicht.com
 analyticspixel.microsoft.com
 analyticsplus.classlink.com
 analyticsplusdev.clientify.net
@@ -21553,7 +21555,6 @@ arvim.monkeywrenchutah.com
 arvister.showheroes.com
 arvwwu.stepstone.be
 arwdcrdpiwinc.site
-arwzyuzkblj.com
 aryana.io
 aryancrack.com
 arzawaswarfpratt.qpon
@@ -44547,7 +44548,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -45106,6 +45106,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.venetianlasvegas.com
 data.info.viking.com
 data.info.xpempresas.com.br
@@ -56853,7 +56854,6 @@ falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconsanywiseunmaze.cfd
-falcopartners.com
 falcopeacing.com
 falcoware.com
 falhcegbmvooc.site
@@ -58482,6 +58482,7 @@ firqacv.com
 first-hufu.oss-cn-shanghai.aliyuncs.com
 first-id.fr
 first-rate.com
+first-vay.com
 first.aquatime.ro
 first.beefmagic.com
 first.checkmybodyhealth.com
@@ -62820,7 +62821,6 @@ git55share.autos
 gitads.dev
 gitajwl.com
 gitak.top
-gitam.1host.co.il
 gitam.co.il
 gitcrumbs.com
 github.co.com
@@ -63669,6 +63669,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -81783,7 +81784,6 @@ koifrz.tvc-mall.com
 koitay.cyou
 kok.eroterest.net
 kokmwwsshmhup.online
-kokos.click
 kokotrokot.com
 kokuminfounderredlegs.qpon
 kokzjh29wnttolm.cfd
@@ -103503,6 +103503,7 @@ napgamevn.net
 napgamezing.com
 napgarena.vn
 napiujsag.hu
+napkc.net
 napkcffx5.com
 napkimcuongfreefire.net
 napkimcuongx5.com
@@ -106569,6 +106570,7 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -109392,7 +109394,6 @@ oceancloudhosts.com
 oceanfall.xyz
 oceango.net
 oceanicdreamcove.com
-oceanmedia.co.il
 ocellusdearer.shop
 ocelot.anthroquiches.fr
 ocelot.arcspire.io
@@ -112570,7 +112571,6 @@ p2kdjk34dd.com
 p2muoczf5.com
 p2p-punch-v6.xxpkg.com
 p2p-punch.xxpkg.com
-p2p.huya.com
 p2p.qq.com
 p2pdh.com
 p2perrorlog.douyucdn.cn
@@ -117186,7 +117186,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 post.xmlpost.xyz
@@ -132904,7 +132903,6 @@ sdk.open.phone.igexin.com
 sdk.open.talk.igexin.com
 sdk.optimove.net
 sdk.out.usbla.net
-sdk.persona.ly
 sdk.postscript.io
 sdk.ptqy.gitv.tv
 sdk.pulse.schibsted.com
@@ -135838,6 +135836,7 @@ server.fence-line.dk
 server.fenvo.shop
 server.ferazao.com.br
 server.feriola.shop
+server.fernandapiton.com.br
 server.fernandaruschel.com.br
 server.fernandayoga.com
 server.fh-mittelstand.de
@@ -151604,6 +151603,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -164540,6 +164540,7 @@ tagging.numafa.com
 tagging.o2.fr
 tagging.oceansideseafood.com
 tagging.omix.nl
+tagging.on-route.nl
 tagging.paintedforever.com
 tagging.plissehordeurenwebshop.nl
 tagging.poederbaas.com
@@ -169151,7 +169152,6 @@ tpush.html5.qq.com
 tpv-analytics.com
 tpwtgyw.com
 tpx.everquote.com
-tpx.tesseradigital.com
 tpxhrwevqwdft.site
 tpxludqpybpkx.store
 tpxxgiegfobee.website
@@ -178036,6 +178036,7 @@ userreplay.com
 userreplay.net
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.luckycrush.live
 users.quantumgraph.com
@@ -193249,7 +193250,6 @@ zonupiza.com
 zoologicalmanufacture.com
 zoologist00.com
 zoologyfibre.com
-zoom.zshu.net
 zoomanalytics.co
 zoomcflhjpiou.site
 zoomd.com
@@ -193697,7 +193697,6 @@ zwnoeqzsuz.com
 zwnqc.twinliquors.com
 zwodit.sporti.pl
 zwokia.aigle.com
-zworker11.me
 zwqzxh.com
 zws.avvo.com
 zwszd.drzenovia.com
