@@ -7123,7 +7123,6 @@ admaru.com
 admaru.net
 admarvel.com
 admarvel.s3.amazonaws.com
-admaster.cc
 admaster.com.cn
 admaster.cz
 admasters.media
@@ -11018,8 +11017,6 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 allhorseracing.ag
@@ -15552,6 +15549,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -19347,7 +19345,6 @@ biologylog.com
 biome.chumuk.store
 biome.krrishibd.com
 biome.medicalplus.com.bd
-bional-dested.icu
 bioncrocketleos.cfd
 bionicclick.com
 biopsypainless.com
@@ -19747,7 +19744,6 @@ blockmetrics.com
 blocksfeathers.com
 blocksly.org
 blocscarates.shop
-blog-o-rama.de
 blog-stat.com
 blog-webkatalog.de
 blog.americaupdates.com
@@ -23466,7 +23462,6 @@ cdn.bapi.adsafeprotected.com
 cdn.batmobi.net
 cdn.beaverads.com
 cdn.beesads.com
-cdn.bescore.com
 cdn.betrad.com
 cdn.bidadx.com
 cdn.bidgear.com
@@ -41915,7 +41910,6 @@ ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
 epa.news
-epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -49436,6 +49430,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.informhcp.the-health-minute.com
@@ -53491,7 +53486,6 @@ gtm.terrasdeparagon.com.br
 gtm.tessile.ro
 gtm.testegabrielrios.com.br
 gtm.testmottagningen.se
-gtm.tetobroker.com.br
 gtm.thalassea.com.au
 gtm.thausarquitetura.com
 gtm.the-page.co.uk
@@ -62788,7 +62782,6 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
-jordan.qunis.ru
 jornal.tesouros-da-julia.com
 joryvztqojsig.space
 josephclassics.com
@@ -76548,7 +76541,6 @@ mcoreads.com
 mcppsh.com
 mcprofits.com
 mcpuwpsh.com
-mcpuwpush.com
 mcrai.helvetia.cz
 mcs-ie.tiktokw.eu
 mcs-ie2.tiktokw.eu
@@ -88091,6 +88083,7 @@ padgzdbyelrca.online
 padinventoryvile.com
 padlockmanners.com
 pads.cdnads.com
+pads.com
 padsabs.com
 padsans.com
 padsatz.com
@@ -89124,6 +89117,7 @@ passeura.com
 passfixx.com
 passiacnews.com
 passingcounselrueful.com
+passion-4.net
 passion-industry-game.com
 passionatenormally.com
 passirdrowns.com
@@ -101726,6 +101720,7 @@ scoldeclipseillusion.com
 scoldselfemployedlong.com
 scomcluster.cxense.com
 scontent-lax1-3.cdnthreads.com
+scontent-nrt1-1.cdnthreads.com
 scontent-sin1-2.cdnthreads.com
 scontent.services.tvn.pl
 sconvtrk.com
@@ -112182,7 +112177,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -129757,7 +129751,6 @@ taiverturena.com
 taiwanlottery.com.tw
 taiwin79.win
 taixiumomo.com
-taixiusunwin.games
 tajmphyzk.com
 tajsq.fairmont-sonoma.com
 takadefine.cfd
@@ -140417,6 +140410,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersegment.wpdigital.net
 userstat.net
@@ -147947,7 +147941,6 @@ www.duffelblog.com
 www.dunder.com
 www.duongdenkhungthanh.com
 www.dxp-data.celonis.com
-www.e-loterie.ma
 www.e-lotto.be
 www.e-stave.com
 www.eas2020-mylansymposium.com
