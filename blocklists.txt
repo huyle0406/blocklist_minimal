@@ -1,4 +1,5 @@
 0.0.0.0.hpyrdr.com
+0.0.0api-adservices.apple.com
 0.ackzany.com
 0.athwartwhoafat.com
 0.avmarket.rs
@@ -9532,6 +9533,7 @@ ads.boerse-express.com
 ads.botbanhang.vn
 ads.boylesports.com
 ads.brand.net
+ads.brazzers.com
 ads.bridgebase.com
 ads.bridgetrack.com.edgesuite.net
 ads.bsplayer.com
@@ -10852,6 +10854,7 @@ adserver.co.il
 adserver.com
 adserver.corusradionetwork.com
 adserver.creative-asia.com
+adserver.creativeinspire.com
 adserver.cxad.cxense.com
 adserver.dbusiness.com
 adserver.ddev.site
@@ -14247,8 +14250,6 @@ allergycenter.info
 alleron.andree.free.fr
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfet.info
 allfreecounter.com
@@ -15158,6 +15159,7 @@ analytics-cds.mobiedu.vn
 analytics-chi-nfl.yinzcam.com
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-digit-in.cdn.ampproject.org
 analytics-egain.com
@@ -23332,7 +23334,6 @@ bd.blossomgarden.xyz
 bd.czxuexi.com
 bd.dailyneeds-bd.com
 bd.khukumonishop.xyz
-bd.komeshop.com
 bd.littleheavenbd.com
 bd.lujaain.com
 bd.muslinbd.com
@@ -31424,7 +31425,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.spoutable.com
 cdn.sprida.se
 cdn.springboard.gorillanation.com
@@ -38005,7 +38005,6 @@ csdsp.admanmedia.com
 cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfuiuwdubtyr.online
@@ -62477,7 +62476,6 @@ globalscopedispatch.com
 globalsignalwire.com
 globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
-globalstars.ru
 globalteaser.com
 globaltechchronicle.com
 globaltizer.ru
@@ -64255,6 +64253,7 @@ grfx.mp3.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
+grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -71885,7 +71884,6 @@ hyipmanager.in
 hyjxtz.com
 hyjxuvsklboyu.online
 hykaqn.dormideo.com
-hykbzmkdp.com
 hylasdozens.com
 hyldaxiyvidxg.online
 hylrncjzgdtgi.site
@@ -91797,7 +91795,6 @@ ma1169-r.analytics.edgekey.net
 ma1275-r.analytics.edgekey.net
 ma1310-r.analytics.edgekey.net
 ma135-r.analytics.edgekey.net
-ma13nta13nc3.dynv6.net
 ma1498-r.analytics.edgekey.net
 ma156-r.analytics.edgekey.net
 ma193-r.analytics.edgekey.net
@@ -91978,6 +91975,7 @@ magna.ru
 magnatejuicier.qpon
 magnetadservices.com
 magnetic.com
+magnetic.t.domdex.com
 magnetisemedia.com
 magnificentdeedsenses.com
 magnificentmanlyyeast.com
@@ -102113,6 +102111,7 @@ neoss.pytcolombia.com
 neoss.qenido.pe
 neoss.rdmegashop.com
 neoss.realestaterocket.io
+neoss.rifaloscompa.com
 neoss.salchichapro.com
 neoss.saramarstore.com
 neoss.scenehunters.com
@@ -112844,7 +112843,6 @@ pointofaim.net
 pointroll.com
 points2shop.com
 pointsanyway.com
-pointsstyle.myboldletter.com
 pointyalonelatent.com
 pointyglareproven.com
 poiqvjvfigtej.space
@@ -137539,6 +137537,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -142733,7 +142732,6 @@ ss.thehumanapi.com
 ss.thelongevitystore.com
 ss.themythwys.com
 ss.thenurafix.com
-ss.thepawspoint.com
 ss.thepiercingclub.com
 ss.thepolorvision.com
 ss.thera-flow.de
@@ -144778,7 +144776,6 @@ sst.faarupsommerland.dk
 sst.fabglassandmirror.com
 sst.fabuwellness.com
 sst.facebookads-master.com
-sst.facerosee.com
 sst.facts.be
 sst.fahimulkhan.com
 sst.fahrrad-online-verkaufen.de
@@ -155135,6 +155132,7 @@ t.dilling.se
 t.dincomoditate.ro
 t.ding.jobs
 t.distart.de
+t.domdex.com
 t.doublemax.net
 t.dreizinnen.com
 t.dsp-prod.demandbase.com
@@ -169810,7 +169808,6 @@ urpbte.theresheis.kr
 urqpvwovevlni.site
 urssff.fr
 urssjrxrosknm.website
-urstats.de
 urulwxikmmaer.space
 urvaldexin.shop
 urvlentoki-de.live
@@ -175010,7 +175007,6 @@ waterensignbelieving.com
 waterfall33.com
 waterfall90.top
 waterfallmont.cmpwatch.com
-waterfallsdiff.myboldletter.com
 waterfrontmedia.112.2o7.net
 waterlogged-boy.com
 waterproofgranitegag.com
@@ -185382,7 +185378,6 @@ www.nobletycraft.shop
 www.noblevest.shop
 www.nobodys.com
 www.nobrain.dk
-www.noclegi-kozienice.pl
 www.noebank.pl
 www.noelyuhanna.com
 www.nofora.shop
