@@ -5948,6 +5948,7 @@ ad1.girls-affiliate.com
 ad1.kde.cz
 ad1.missyusa.com
 ad1.on.cc
+ad1.ru
 ad1.sportschosun.com
 ad1.udn.com
 ad11.adfarm1.adition.com
@@ -6283,6 +6284,7 @@ adcamp.ru
 adcannyxml.com
 adcash.com
 adcast.deviantart.com
+adcast.ru
 adcdn.gamemeca.com
 adcdn.goo.ne.jp
 adcdn.pingan.com
@@ -10661,6 +10663,7 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11242,7 +11245,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15107,7 +15109,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -21132,6 +21133,7 @@ c81.ipanocloud.com
 c815mg3lrb6646kl.cfd
 c81mm9t4tkxxk815n2kgwi1twl8.cfd
 c83ff46cc3.com
+c8d9e11a82.031dcf857c.com
 c8q27tqnaw.com
 c8y.crazyporn.xxx
 c921a8d3e5.com
@@ -22090,7 +22092,6 @@ cassette.planetecycle.com
 cast-js-j.adtdp.com
 cast.innity.com
 cast.net.anwalt.de
-cast.ru
 castfilly.com
 castify-trk.playitviral.com
 casual-flirt-hub1.com
@@ -22948,6 +22949,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.srxy.xyz
 cdn.starseed.fr
@@ -43688,7 +43690,6 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -44463,7 +44464,6 @@ followmurmuringsquealing.com
 followsscaringcarrier.com
 folnpqyqxwdhl.space
 folsksjofpuum.online
-fombgqws.com
 fomhr.superlash.pl
 fomirpggopead.site
 fond-problem.pro
@@ -52518,7 +52518,6 @@ gurgleupstandingexist.com
 gurgleyodlers.cfd
 gurglystannid.cyou
 gurkabiuret.qpon
-gururevenue.com
 gurussniddle.cyou
 guruwittal.shop
 gus.corinnavondermuehlen.de
@@ -56269,7 +56268,6 @@ illogicalinvitationexaltation.com
 illumenix.com
 illuminateastonishing.com
 illuminatedrecollection.com
-illuminatelocks.com
 illuminous.xyz
 illusionpool.com
 illusivecleavepsychopath.com
@@ -73709,7 +73707,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -79078,6 +79075,7 @@ my.11teamsports.hr
 my.11teamsports.hu
 my.11teamsports.ie
 my.11teamsports.lt
+my.11teamsports.pl
 my.11teamsports.pt
 my.11teamsports.se
 my.11teamsports.si
@@ -79323,6 +79321,7 @@ mystat.hu
 mystat.it
 mystat.pl
 mystats.flixfiend.top
+mystats.nl
 mysterious-emotion.com
 mystery.vfmleonardo.com
 mysterysaunaawkward.com
@@ -82018,6 +82017,7 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
+nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -88409,6 +88409,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -91534,6 +91535,7 @@ qualaroo.com
 qualiclicks.com
 qualificationgarland.com
 qualified-beach.pro
+qualifiedact.com
 qualifiedbillion.com
 qualigo.de
 qualitiessnoutdestitute.com
@@ -96523,6 +96525,7 @@ s.jobmeal.se
 s.jomla.ae
 s.jomla.sa
 s.jorinde-shop.com
+s.josshub.pro
 s.jpush.cn
 s.juicer.cc
 s.juno.lv
@@ -96782,6 +96785,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -101474,6 +101478,7 @@ server.sainafashionhouse.com
 server.salecitybd.com
 server.salesleadersgroup.com.br
 server.salutarenutri.com
+server.samftc.edu.bd
 server.sammymenswear.com
 server.samratcarcare.ae
 server.sandaugroup.com
@@ -119234,7 +119239,6 @@ stape.janainarruda.com.br
 stape.japantourteam.com
 stape.jaquemiranda.com
 stape.jarnalmensal.com
-stape.jayacademy.com.br
 stape.jcnpiscinas.com.br
 stape.jeandalrio.com.br
 stape.jeetslots9.com
@@ -123674,7 +123678,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetstudents.com
 swelen.com
 swellstocking.com
@@ -124678,6 +124681,7 @@ t.metrilo.com
 t.metrivo.website
 t.metrotix.com
 t.mgoblue.com
+t.mhwigs.com.au
 t.miamiredhawks.com
 t.mindbodycheck.com
 t.mktg.genesys.com
@@ -129977,7 +129981,6 @@ tr.serviceclient.thermogaz.fr
 tr.serviceclient.younited-coach.com
 tr.serviceclient.younited-credit.com
 tr.servicerisque.bforbank.com
-tr.services.alinea.com
 tr.services.caradisiac.com
 tr.servicesclients.canalplus.ch
 tr.servicesclients.canalplus.fr
@@ -136193,6 +136196,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -141420,7 +141424,6 @@ wishjus.com
 wishloop.com
 wisingcilia.qpon
 wispierconceal.cyou
-wispycarts-ss.topashopo.com
 wispycity.com
 wispyflane.shop
 wissekeygroup.com
@@ -142696,7 +142699,7 @@ www.djaxadserver.com
 www.dnps.com
 www.dogpile.com
 www.donglogs.com
-www.doubleclic8d9e11a82.031dcf857c.com
+www.doubleclick.net
 www.doubleclickbygoogle.com
 www.doublemax.net
 www.doublepimp.com
