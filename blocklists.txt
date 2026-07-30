@@ -2163,6 +2163,7 @@
 83b016defa.com
 83c62d9964.com
 83cbda598a.com
+83z19h37fj.com
 84029188ab.339f59c980.com
 84067f6a2e.com
 84149f947f.065b6e69b5.com
@@ -4757,7 +4758,6 @@ abc.can-doc.de
 abc.capinifirenze.com
 abc.cda-hd.co
 abc.citygame.com
-abc.colayun.cn
 abc.decorationathome.fr
 abc.devries-home.de
 abc.douguo.com
@@ -7531,6 +7531,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -8669,6 +8670,7 @@ advantage.digitalsunray.com
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
+advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -10667,8 +10669,8 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11254,7 +11256,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -14440,6 +14441,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -14548,7 +14550,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -15119,7 +15120,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -17268,6 +17268,7 @@ barkanneumeseuro.cyou
 barkequilibrium.com
 barkfactor.com
 barkin.jubileescents.co.uk
+barkleelectee.qpon
 barnabaslinger.com
 barnacle.big-in-japan.com
 barnacle.natalieandmikeyb.com
@@ -20798,6 +20799,7 @@ byirzeamuu.com
 byjpsr.bobags.com.br
 bykamfod.com
 bykwtf.victoriassecret.ae
+byl73zv9pvtj76.cfd
 bylmfilfswasy.website
 byntfingkclsq.space
 bynvhb.godiva.com
@@ -27590,6 +27592,7 @@ crow.voracious.dev
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -32661,6 +32664,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -33196,6 +33200,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -41396,6 +41401,7 @@ evaluationgrievedaudacity.com
 evanescentedge.com
 evania.de
 evanstubules.cyou
+evaptarlies.qpon
 evasiuywadnox.space
 evasivejar.com
 evdni.littlesleepies.com
@@ -42753,6 +42759,7 @@ fastview.co.kr
 fastwavehilltop.com
 fatal-mouse.pro
 fatal-package.pro
+fatal-police.pro
 fatal-scratch.pro
 fatalityplatinumthing.com
 fatchilli.media
@@ -46023,6 +46030,7 @@ galactify.unrulymedia.com
 galaksion.com
 galapeequoniam.qpon
 galaxiemedia.fr
+galaxien.com
 galaxy.reachifyinnovations.in
 galaxymeet.ru
 galaxypush.com
@@ -46476,6 +46484,7 @@ gejxhiimncfxu.site
 gejzgq.gehaltsvergleich.com
 gekeebsirs.com
 gekko.spiceworks.com
+gekkotappthu.cyou
 gekpjfmuzimlg.online
 gekwhplfmbvuz.online
 gelatiainvars.qpon
@@ -47320,7 +47329,6 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -48721,7 +48729,6 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
-grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -49624,7 +49631,6 @@ gtm.chsbrasilengenharia.com.br
 gtm.cidadaniaevisto.com.br
 gtm.cidoejuliana.com.br
 gtm.cincogrowth.com.br
-gtm.ciptaland.com
 gtm.ciruvale.com.br
 gtm.cites-immersives.fr
 gtm.cittadilucca.com.br
@@ -56113,6 +56119,7 @@ ihsbmqrwmehki.online
 ihsicrdmfeexu.space
 ihtfj.cozycartcats.com
 ihtnxu.tannergoods.com
+ihudqkqk.com
 ihuxptfrsqjqv.space
 ihvnk.irisandromeo.com
 ihykcymyocpvw.site
@@ -59855,6 +59862,7 @@ jaavnacsdw.com
 jab88.com
 jabgbmoddpmjp.site
 jaborinmeltage.qpon
+jabwahehe.cfd
 jac.yahoosandbox.com
 jacalwoollen.cfd
 jaccsvn.com
@@ -71627,6 +71635,7 @@ m86x5owlft7j19uc.cfd
 m886.kmbc.com
 m8h5qjmlb3.com
 m8qk101065.com
+m9sm6th48c.com
 m9sz0hh3f7.com
 m9ylqs5rn.com
 ma-adx.ctrip.com
@@ -73745,6 +73754,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -74508,6 +74518,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -82055,6 +82066,7 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
+nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -88329,7 +88341,6 @@ populateaccommodatingmart.com
 populationeverydaygale.com
 populr.me
 popunder.bid
-popunder.ru
 popunderoctober.store
 popunderstar.com
 popunderz.com
@@ -92277,7 +92288,6 @@ rammishruinous.com
 ramp.purch.com
 rampanel.com
 rampfat.com
-rampidads.com
 rampikeroseine.cyou
 rampjs-cdn.system1.com
 ramplorskyugle.shop
@@ -94487,7 +94497,6 @@ rlnvbmsxrreot.store
 rlog-api.under9.co
 rlog.9gag.com
 rlog.popin.cc
-rlogcejfsgtar.site
 rlogscbdafnjf.site
 rlovoa.duckcamp.com
 rlpbld.icu
@@ -96826,7 +96835,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -101239,7 +101247,6 @@ server.oanimarketing.com.br
 server.obag.com.tr
 server.oceanicabd.com
 server.odontologiabiomimetica.com.br
-server.oficinadasemocoesbr.com
 server.oficinaderecursos.com.br
 server.ogastronomo.com.br
 server.oguiadocontroleinfinito.com.br
@@ -121385,6 +121392,7 @@ statowl.com
 stats-api.skylum.com
 stats-blog.lewsion.com
 stats-bq.stylight.net
+stats-cdn.polyspeak.ai
 stats-cluster.mediaforge.com
 stats-connect.comet.it
 stats-dc1.frz.io
@@ -123726,6 +123734,7 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
+sweetslope.com
 sweetstudents.com
 swelen.com
 swellstocking.com
@@ -129336,6 +129345,7 @@ tr.drh-holding.lvmh.fr
 tr.ds.kakao.com
 tr.dulsco.com
 tr.e-mail.axa.fr
+tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -132399,7 +132409,6 @@ traffic.nvcms.net
 traffic.outbrain.com
 traffic.prod.cobaltgroup.com
 traffic.pubexchange.com
-traffic.ru
 traffic.shareaholic.com
 traffic.spot.im
 traffic.styria.hr
@@ -133889,6 +133898,7 @@ ttoc8ok.com
 ttoejmxwlecin.site
 ttokd.greatlakeskidsapparel.com
 ttoyfmexbpwhj.online
+ttoylkurecvdq.site
 ttp.dishsavings.com
 ttpbpjxcpdcep.website
 ttr.villaciniz.com.tr
@@ -141997,7 +142007,6 @@ woxbnkonxwvrk.site
 wozdcc.vidaxl.at
 wp-cdn.cityads.com
 wp-log.api.useinsider.com
-wp-worthy.de
 wp.alcmpn.com
 wp.lockmysneaker.com
 wpadmngr.com
@@ -142497,6 +142506,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -147899,6 +147909,7 @@ zrnslcqbtovnv.site
 zrnsri.vogacloset.com
 zrofz.spectacularacademy.com
 zrosq6dsha.com
+zrouaxrohyvha.online
 zrouimweexxno.online
 zrpfi.cheershealth.com
 zrprgcqjqjtkz.space
@@ -147914,6 +147925,7 @@ zrw1.destinia.jp
 zrxdzq.levelshoes.com
 zrygvvxyadvro.site
 zrz0c0sh7e.com
+zrzdjoeeyabmg.website
 zrzgsdocqm.com
 zrzhsb.lascana.sk
 zrzrujresjuqm.space
@@ -148063,6 +148075,7 @@ zumobi.com
 zumrieth.com
 zuobs.rollinghillsmemorialpark.com
 zuoiig.noreve.com
+zuoxtrkqwyfmp.website
 zupcrxfechrmx.store
 zuppelzockt.com
 zuqjug.nutrabay.com
