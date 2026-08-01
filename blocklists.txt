@@ -10679,8 +10679,6 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11269,6 +11267,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -14565,6 +14564,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -15135,7 +15135,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -33272,6 +33271,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -42653,6 +42653,7 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
 falcoware.com
 falhcegbmvooc.site
@@ -64008,6 +64009,7 @@ layouthonouredbuyer.com
 laytroops.com
 lazada.bet
 lazada1688.com
+lazada77.com
 lazadaapp.shop
 lazesheitelprawner.qpon
 laziedqaidpavy.cfd
@@ -69685,7 +69687,6 @@ load.tagging.todev.nl
 load.tagging.vordingborgnet.dk
 load.tags.learnwithtutoria.com
 load.tags.sandravongneisenau.de
-load.taritanakvadrat.hr
 load.tatu.letseatit.com.br
 load.tbyvvwvv.plasmatreatment.cn
 load.tbyvvwvv.tantec.com
@@ -97033,7 +97034,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -108836,6 +108836,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -116926,6 +116927,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -142761,6 +142763,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -145150,7 +145153,6 @@ xn--momovints1-o8a64b3904adea8q.weebly.com
 xn--nhantienonline1k87s1-6hf.weebly.com
 xn--nhnqumomouimomo-bjb0d67cq5glw6t.weebly.com
 xn--w9q675dm1p7em.net
-xn--wgvp78a61swpe6zdozj.cn
 xnbjsc.travelwith.jp
 xncyme.chungsosin.com
 xnemz1rc5j.com
