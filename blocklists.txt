@@ -2605,7 +2605,6 @@ a.ants.vn
 a.apkpure.com
 a.apkpures.xyz
 a.appbaqend.com
-a.applovin.com
 a.applvn.com
 a.arbadah.com
 a.arbona.hr
@@ -5928,7 +5927,6 @@ ad.us.sinaimg.cn
 ad.usatoday.com
 ad.ust-ad.com
 ad.utop.ir
-ad.velomania.ru
 ad.video-mech.ru
 ad.vidver.to
 ad.vidverto.io
@@ -8037,6 +8035,7 @@ adsassets-ipv6.waze.com
 adsassets.waze.com
 adsave.co
 adsbanner.game.zing.vn
+adsbanner.game.zing.vnin.com
 adsbar.online
 adsbetnet.com
 adsbingo.com
@@ -8774,7 +8773,6 @@ advertpay.net
 advertpro.ya.com
 advertronic.io
 advertserve.com
-advertshot.ru
 advertsource.co.uk
 advertstar.net
 advertstar.ru
@@ -14585,7 +14583,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -23154,7 +23151,6 @@ cdn.yld.is
 cdn.yodimedia.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zamunda.ru
 cdn.zx-adnet.com
 cdn.zxclan.com
 cdn00.sanko.ac.jp
@@ -40793,6 +40789,7 @@ ep.umobile.pl
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
+epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -42722,9 +42719,7 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -43886,6 +43881,7 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -46601,7 +46597,6 @@ gdmelqact.gartner.com
 gdmev.noonlash.com
 gdmgsecure.com
 gdmserver.graodemelo.com.br
-gdn.bigfishgames.com
 gdn.socdm.com
 gdonm.alpinulin.com
 gdonqrdtzhvfq.space
@@ -47521,6 +47516,7 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -53387,6 +53383,7 @@ hasdarot.info
 hasdarot.life
 hasdarot.net
 hasdarot.tv
+hasdarot.vip
 hashing.win
 hasidimprowess.cyou
 hasj23h.adblock360.com
@@ -61033,6 +61030,7 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
+jordan.qunis.ru
 jornal.tesouros-da-julia.com
 joryvztqojsig.space
 josephclassics.com
@@ -64110,7 +64108,6 @@ layouthonouredbuyer.com
 laytroops.com
 lazada.bet
 lazada1688.com
-lazada77.com
 lazadaapp.shop
 lazesheitelprawner.qpon
 laziedqaidpavy.cfd
@@ -74031,6 +74028,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -80162,7 +80160,6 @@ nboclympics.com
 nbohze.thenorthface.ru
 nbqeoezniykhm.space
 nbrngg.rinkaiseminar.co.jp
-nbryb.com
 nbsdi.minisplitsystemsdirect.com
 nbsdk-baichuan.taobao.com
 nbtfiehtgxhvv.site
@@ -88110,7 +88107,6 @@ play.aniview.com
 play.funspace.fr
 play.leadzu.com
 play.milly-style.co.il
-play.nbryb.com
 play.rooski.net
 play.selectmedia.asia
 play.showheroes.com
@@ -97216,7 +97212,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -99904,7 +99899,6 @@ seret.live
 sergttaproot.cfd
 sergurning.com
 serialfull.info
-serialinfo.ru
 serie-vostfr.com
 serinusnymphos.cfd
 serinuspotions.com
@@ -105370,7 +105364,6 @@ sicknessbingo.com
 sickshareping.com
 sicksmash.com
 siclikeinhumepick.cfd
-sicqybon.com
 sid.nordstrom.com
 sid.starstudd.com
 siddik.indianbookshopbd.com
@@ -109027,7 +109020,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -111368,7 +111360,6 @@ spoluprace.fotozde.cz
 spoluprace.frike.cz
 spoluprace.galaxy.cz
 spoluprace.gprooms.eu
-spoluprace.h2world.store
 spoluprace.hyla.cz
 spoluprace.imagemakersforyou.cz
 spoluprace.inkahome.cz
@@ -117124,7 +117115,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -135904,7 +135894,6 @@ unddeliv.com
 undefined.fls.doubleclick.net
 underclick.ru
 underdog.media
-underdone.ru
 undere.com
 underestimateomelettesimilar.com
 undergobuffalowharf.com
@@ -143000,6 +142989,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -143499,7 +143489,6 @@ www.myadsystem.com
 www.mykingsevents.com
 www.mymediaindex.com
 www.navdmp.com
-www.nbryb.com
 www.ncaudienceexchange.com
 www.net.kg
 www.newscatalanaoccidente.com
