@@ -7542,6 +7542,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -8678,6 +8679,7 @@ advantage.digitalsunray.com
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
+advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -10690,7 +10692,7 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11290,7 +11292,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -14474,6 +14475,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -14582,7 +14584,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -15152,6 +15153,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -23112,6 +23114,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.starseed.fr
 cdn.stat-rock.com
@@ -27792,6 +27795,7 @@ crow.voracious.dev
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -30936,8 +30940,10 @@ data-1ba1afb625.leinfelden-echterdingen.de
 data-1bc9d87af9.ahgz.de
 data-1bc9d87af9.ahgzimmo.de
 data-1be5adcd69.apps.iocnt.de
-data-1c0a3d83e3.transfermarkt.co.za
-data-1c0a3d83e3.transfermarkt.jp
+data-1c0a3d83e3.transfermarkt.co.in
+data-1c0a3d83e3.transfermarkt.co.uk
+data-1c0a3d83e3.transfermarkt.com.br
+data-1c0a3d83e3.transfermarkt.pt
 data-1c70f16ae2.newsflix.at
 data-1caddf134b.move-online.de
 data-1ce541951d.apps.iocnt.de
@@ -31569,6 +31575,7 @@ data-8468e8ebc5.laola1.at
 data-849004cc69.radio-regenbogen.de
 data-849004cc69.regenbogen.de
 data-84926a5f67.energie-und-management.de
+data-84a0f3455d.transfermarkt.be
 data-84bc7eaa45.kabelmail.de
 data-84bc7eaa45.vodafone.de
 data-84bc7eaa45.vodafonemail.de
@@ -32836,7 +32843,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -40902,7 +40908,6 @@ ep.umobile.pl
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
-epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -44006,6 +44011,7 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -46335,6 +46341,7 @@ galactify.unrulymedia.com
 galaksion.com
 galapeequoniam.qpon
 galaxiemedia.fr
+galaxien.com
 galaxymeet.ru
 galaxypush.com
 galeaeevovae.com
@@ -47644,7 +47651,6 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -49052,7 +49058,6 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
-grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -75197,6 +75202,7 @@ mellowads.com
 mellowhush.com
 mellowtel.com
 mellowwatch.pro
+melodic-mess.com
 melodiouschorus.com
 melodiouscomposition.com
 melodiousharmony.com
@@ -77178,6 +77184,7 @@ metricsadobe.hollandandbarrett.nl
 metricsdirect.com
 metricsinfo.edc.ca
 metricsinfoqac.edc.ca
+metricskey.com
 metricslinks.com
 metricsnadtc.haworth.com
 metricssecure.empiretoday.com
@@ -83136,7 +83143,6 @@ oekkuthy.com
 oeknzzjvrsjia.site
 oeko.immergruen-energie.de
 oelctjbbdajev.site
-oeldtgynjxqbe.online
 oelhofejacqod.website
 oempafnyfiexpe.com
 oepahvkqvihnh.space
@@ -89053,6 +89059,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -89790,6 +89797,7 @@ pro-web-metrics.alias.s24cloud.net
 pro.chopdawg.com
 pro.clickpeel.com
 pro.crossroads-nijmegen.cc
+pro.darido.net
 pro.drinkkamello.com
 pro.duepezzi.com
 pro.easyshomadhan.com
@@ -99197,7 +99205,6 @@ scutesneatest.com
 scuzgq.greencell.global
 scveilwglczse.online
 scvgzt.onequince.com
-scvmljhzcdfyj.store
 scvzzypvcveio.online
 scw.systems
 scwinfo.secondcity.com
@@ -100671,7 +100678,6 @@ server.bigtruckhoods.com
 server.bikedecorbd.com
 server.bikiniprivatelabel.com
 server.bilaslifestyle.com
-server.billbazar.com.bd
 server.biofarmmanipulacao.com.br
 server.bionera-kosmetik.de
 server.bioshifabd.com
@@ -124447,6 +124453,7 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
+sweetslope.com
 sweetstudents.com
 swelen.com
 swellstocking.com
@@ -137043,7 +137050,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -146086,7 +146092,6 @@ xvenqhybvuwqw.online
 xvezfj.racetools.fr
 xvfarnkhampqi.space
 xvfihpbojtftl.website
-xvhcuw.kabu-ac.com
 xvhttu3c9.com
 xviggvimgldin.website
 xviperonec.com
@@ -147211,7 +147216,6 @@ ypbfjo.paulsmith.co.jp
 ypbvyc.mpa-pro.fr
 ypfrqqgjhaxqk.space
 ypgfrdasphgre.online
-yphmaqcyhpfyz.store
 ypiohesltiqrj.space
 ypirlqn.icu
 ypjihx.homemarkt.gr
@@ -148184,7 +148188,6 @@ zgumwv.stepstone.de
 zgusk.easytogrowbulbs.com
 zgvaicjdorgqa.website
 zgvyjrzusfonn.site
-zgwgoxzayjmqc.store
 zgwoziiwdhuhi.online
 zgwxoy.autoscout24.ro
 zgxzeicunptms.store
