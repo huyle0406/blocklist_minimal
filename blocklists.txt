@@ -2629,7 +2629,6 @@ a.betterincome.cc
 a.bfking.cn
 a.bids.ws
 a.bigtennetwork.com
-a.binpartner.com
 a.bizible.com
 a.blendernation.com
 a.blueserving.com
@@ -6303,6 +6302,7 @@ adcamp.ru
 adcannyxml.com
 adcash.com
 adcast.deviantart.com
+adcast.ru
 adcdn.gamemeca.com
 adcdn.goo.ne.jp
 adcdn.pingan.com
@@ -7541,7 +7541,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -10690,6 +10689,7 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -14606,6 +14606,7 @@ appboy.com
 appboycdn.com
 appcast.io
 appclick.co
+appclick.net
 appclick.rqmob.com
 appcpi.net
 appdraft.link
@@ -15151,7 +15152,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -15249,7 +15249,6 @@ asepourioter.com
 aseptolidaho.cyou
 aserve1.net
 asewlfjqwlflkew.com
-asextube.net
 asf-tm.everesttech.net
 asf4f.us
 asg.aphex.me
@@ -22877,6 +22876,7 @@ cdn.gv924.com
 cdn.hadronid.net
 cdn.haocaa.com
 cdn.hbbtv.smartclip.net
+cdn.hbplatform.directnative.com
 cdn.headlinesmart.com
 cdn.heapanalytics.com
 cdn.hhmako.cloud
@@ -30311,6 +30311,7 @@ d4rxxm6ig.com
 d4xmm7es84.com
 d5.adsplay.net
 d5092moci.com
+d55b071143.03c4e4cc73.com
 d580eca1d1.com
 d58bdec688.com
 d5935-1dea9.api.pushwoosh.com
@@ -32840,6 +32841,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -33371,7 +33373,6 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
-data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -35115,7 +35116,6 @@ demolitionculpritrape.com
 demolitionnutsgrease.com
 demolitionzerostomach.com
 demon.lojauniformes.com.br
-demonicclanstarch.com
 demonincreasevacancy.com
 demopage.me
 demorewards.com
@@ -39097,7 +39097,6 @@ ecommerce.fluidofactory.com
 ecommhpi.ext.hp.com
 ecommstats.com
 ecommstats.s3.amazonaws.com
-ecommunication.mti.com
 econda-monitor.de
 economicadvantage.midamerican.com
 economies.adp.ca
@@ -47785,7 +47784,6 @@ globaloffers.link
 globalorders.net
 globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
-globalstars.ru
 globalteaser.com
 globaltizer.ru
 globaltrack.com
@@ -48206,7 +48204,6 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
-go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.informhcp.the-health-minute.com
@@ -56662,6 +56659,7 @@ ilgpscfvwohwr.space
 ilgt04vkw4.com
 ilhangrnyaubr.site
 ilhbimergjlfx.website
+ilhmewufmj.com
 ilhtossuwjwcg.online
 iliaufrtcostive.qpon
 iliauoncia.cfd
@@ -59622,7 +59620,6 @@ iqzjdpmkzglge.online
 iqzone.com
 ir-br.amazon-adsystem.com
 ir-ca.amazon-adsystem.com
-ir-cn.amazon-adsystem.com
 ir-de.amazon-adsystem.com
 ir-es.amazon-adsystem.com
 ir-fr.amazon-adsystem.com
@@ -61218,7 +61215,6 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
-jordan.qunis.ru
 jornal.tesouros-da-julia.com
 joryvztqojsig.space
 josephclassics.com
@@ -75230,7 +75226,6 @@ member.oewa.at
 member.usenix.org
 member12a.luxbridgecloud.com
 membernook.com
-members.popcash.net
 members.simplicity.coop
 members.yadro.ru
 membership.mortonarb.org
@@ -88960,6 +88955,7 @@ popup.taboola.com
 popupblockergold.com
 popupblockermax.app
 popupclick.ru
+popupdl.ir
 popupdomination.com
 popupgoldblocker.net
 popupmaker.com
@@ -93697,7 +93693,6 @@ redirectbandarxlsafest.com
 redirectbisnis4dsafest.com
 redirecthitnspin.com
 redirectingat.com
-redirectnative.com
 redirectpopads.com
 redirectvoluum.com
 redistats.com
@@ -97514,6 +97509,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -109339,6 +109335,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -142035,6 +142032,7 @@ whos.amung.us
 whosclickingwho.com
 whoseesyou.com
 whoson.com
+whosthat.ssl2.duapps.com
 whouseem.com
 whowiwhwijnfa.site
 whpgbplalfntt.site
@@ -143356,6 +143354,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
