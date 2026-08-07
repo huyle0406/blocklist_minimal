@@ -7514,7 +7514,6 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
-ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -7540,6 +7539,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -10687,8 +10687,7 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11287,6 +11286,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -14579,6 +14579,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -30930,9 +30931,6 @@ data-1c0a3d83e3.transfermarkt.be
 data-1c0a3d83e3.transfermarkt.co.id
 data-1c0a3d83e3.transfermarkt.co.in
 data-1c0a3d83e3.transfermarkt.co.uk
-data-1c0a3d83e3.transfermarkt.co.za
-data-1c0a3d83e3.transfermarkt.com.ar
-data-1c0a3d83e3.transfermarkt.com.br
 data-1c0a3d83e3.transfermarkt.com.tr
 data-1c0a3d83e3.transfermarkt.es
 data-1c0a3d83e3.transfermarkt.fr
@@ -31574,12 +31572,8 @@ data-8468e8ebc5.laola1.at
 data-849004cc69.radio-regenbogen.de
 data-849004cc69.regenbogen.de
 data-84926a5f67.energie-und-management.de
-data-84a0f3455d.transfermarkt.at
 data-84a0f3455d.transfermarkt.be
-data-84a0f3455d.transfermarkt.ch
-data-84a0f3455d.transfermarkt.co
 data-84a0f3455d.transfermarkt.co.in
-data-84a0f3455d.transfermarkt.co.kr
 data-84a0f3455d.transfermarkt.es
 data-84a0f3455d.transfermarkt.fr
 data-84a0f3455d.transfermarkt.jp
@@ -47664,6 +47658,7 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -51200,7 +51195,6 @@ gtm.medicinepark.com.ro
 gtm.medicinepark.ro
 gtm.medicoagora.fun
 gtm.mediconline.se
-gtm.medinaturo.com
 gtm.meeting-hub.net
 gtm.megabazar.pro
 gtm.megaeletronicostdai.com
@@ -82605,7 +82599,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -89064,7 +89057,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -96691,7 +96683,6 @@ rvbmvjzymhmai.website
 rvcwmg.torbs.pl
 rvddgeuqhxfvu.website
 rvdkjn.icu
-rveedktku.com
 rvemexwmttrcs.website
 rvericwazosuy.website
 rverxn.autosphere.fr
@@ -97506,7 +97497,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -109332,6 +109322,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -130108,6 +130099,7 @@ tr.drh-holding.lvmh.fr
 tr.ds.kakao.com
 tr.dulsco.com
 tr.e-mail.axa.fr
+tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -137053,7 +137045,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
