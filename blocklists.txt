@@ -5969,7 +5969,6 @@ ad1.girls-affiliate.com
 ad1.kde.cz
 ad1.missyusa.com
 ad1.on.cc
-ad1.ru
 ad1.sportschosun.com
 ad1.udn.com
 ad11.adfarm1.adition.com
@@ -6305,7 +6304,6 @@ adcamp.ru
 adcannyxml.com
 adcash.com
 adcast.deviantart.com
-adcast.ru
 adcdn.gamemeca.com
 adcdn.goo.ne.jp
 adcdn.pingan.com
@@ -8682,6 +8680,7 @@ advantage.digitalsunray.com
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
+advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -8865,7 +8864,6 @@ adwist.ru
 adwitserver.com
 adwmab.card-db.com
 adwmg.com
-adwo.com
 adwolf.ru
 adwooo.fs.ak-is2.net
 adword.ge
@@ -10695,8 +10693,8 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11296,7 +11294,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -12772,6 +12769,7 @@ anteater.slyvon.com
 anteater.stella-projects.de
 anteater.ttbwsd.com
 anteater.webitize.com
+anteaterdriftrecast.com
 antelope.gabriellaroche.dev
 antelope.hoap.dev
 antelope.johndbeatty.com
@@ -14480,6 +14478,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -14588,7 +14587,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -15160,7 +15158,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -20380,7 +20377,6 @@ bt.cheqzone.com
 bt.dns-finder.com
 bt.goolbd.com
 bt.mediaimpact.de
-bt.murfcoin66v234gh8.cyou
 bt1.patexplorer.com
 bt2pt.com
 bt4.o7mtmyik4ucqefhq.cyou
@@ -27825,6 +27821,7 @@ crow.voracious.dev
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -33077,7 +33074,6 @@ data.eldiariomontanes.es
 data.electra-lifestyle.co.il
 data.elevoria.io
 data.eliveshop.de
-data.elna-service.pl
 data.elnortedecastilla.es
 data.eltrox.pl
 data.elu.nespresso.com
@@ -33402,7 +33398,6 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
-data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -42889,7 +42884,9 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -44243,7 +44240,6 @@ fittomniku.com
 fitwear.szfitwear.com.br
 fitwithalpine.com
 fitzpaiwari.shop
-fiu07050kl.com
 fiu07060kl.com
 fiu07061kl.com
 fiu07070kl.com
@@ -48247,7 +48243,6 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
-go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.informhcp.the-health-minute.com
@@ -48493,7 +48488,6 @@ go1.trakit19.com
 go1.trakit22.com
 go1.trakit23.com
 go1.trakit24.com
-go1.trakit25.com
 go1.trakit26.com
 go1.trakit27.com
 go1.trakit28.com
@@ -64351,6 +64345,7 @@ layouthonouredbuyer.com
 laytroops.com
 lazada.bet
 lazada1688.com
+lazada77.com
 lazadaapp.shop
 lazesheitelprawner.qpon
 laziedqaidpavy.cfd
@@ -74294,6 +74289,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -75064,6 +75060,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -80927,7 +80924,6 @@ new-adtest.pages.dev
 new-cdn.blueseed.tv
 new-collect.albacross.com
 new-incoming.email
-new-pressroom.com
 new-programmatic.com
 new-sentry.digikala.com
 new-twinks.com
@@ -91195,7 +91191,6 @@ px.mountain.com
 px.onlygal.es
 px.pocpoc.io
 px.quantserve.com
-px.sharethis.com
 px.srvcs.tumblr.com
 px.staticfiles.at
 px.steelhousemedia.com
@@ -93761,7 +93756,6 @@ redirectbandarxlsafest.com
 redirectbisnis4dsafest.com
 redirecthitnspin.com
 redirectingat.com
-redirectnative.com
 redirectpopads.com
 redirectvoluum.com
 redistats.com
@@ -96980,7 +96974,6 @@ s-clk.rmp.rakuten.com
 s-cs.rmp.rakuten.com
 s-data-home360.home360.lt
 s-eu-1.pushpushgo.com
-s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
 s-img.adskeeper.co.uk
 s-img.adskeeper.com
@@ -97582,7 +97575,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -103644,6 +103636,7 @@ sgtm.blomer.nl
 sgtm.bluebeni.com.br
 sgtm.blume2000.de
 sgtm.blurbmedia.co
+sgtm.boardsox.com.au
 sgtm.bobgerace.com
 sgtm.bohomoon.com
 sgtm.boletea.com.mx
@@ -105721,7 +105714,6 @@ shxubwa.xyz
 shy-clothes.com
 shydastidu.com
 shydinosaurs.com
-shylibrary.com
 shyspiritual.com
 shzzzz.dftoutiao.com
 si.hikerfaquirs.com
@@ -117520,6 +117512,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -124545,7 +124538,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetstudents.com
 swelen.com
 swellstocking.com
