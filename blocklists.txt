@@ -10700,6 +10700,7 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -14486,7 +14487,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -14595,6 +14595,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -14619,7 +14620,6 @@ appboy.com
 appboycdn.com
 appcast.io
 appclick.co
-appclick.net
 appclick.rqmob.com
 appcpi.net
 appdraft.link
@@ -15166,7 +15166,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -24856,7 +24855,6 @@ client.vads.net.vn
 client2009x25.xcdn.ovh
 clientcdn.pushengage.com
 clientengagement.ehpartners.com
-clientinfo.phimmoizz.net
 clientlog.midomi.com
 clientlog.perfectworldgames.com
 clientlog.portal.office.com
@@ -28018,7 +28016,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csghyg.reginaclinic.jp
@@ -42911,7 +42908,9 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -52406,7 +52405,6 @@ gtm.useupdate.com.br
 gtm.usewellfiit.com.br
 gtm.usjoblink.com
 gtm.uticket.com.br
-gtm.vaaptycampogrande.com
 gtm.vaaptylondrina.com.br
 gtm.valcele.eu
 gtm.valentinahomedecor.com.br
@@ -64392,6 +64390,7 @@ layouthonouredbuyer.com
 laytroops.com
 lazada.bet
 lazada1688.com
+lazada77.com
 lazadaapp.shop
 lazesheitelprawner.qpon
 laziedqaidpavy.cfd
@@ -73589,6 +73588,7 @@ marketing.nace.org
 marketing.nacsescrow.com
 marketing.nada.org
 marketing.naf.no
+marketing.nagaworld.com
 marketing.naniaenergy.com
 marketing.nanthealth.net
 marketing.napatech.com
@@ -75118,7 +75118,6 @@ mediaiqdigital.com
 mediakraft.se
 medialand.ru
 medialets.com
-medialytics.com
 mediamath.com
 mediameter.by
 mediametrics.mpsa.com
@@ -89071,7 +89070,6 @@ popupgoldblocker.net
 popupmaker.com
 popupmoney.com
 popupnation.com
-popupplus.ir
 popupsblocker.org
 popuptraffic.com
 popuserapparatus.com
@@ -89177,7 +89175,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -96364,7 +96361,6 @@ rtb.mts.ru
 rtb.nowsrv.com
 rtb.nuismak.com
 rtb.openx.net
-rtb.pclick.yahoo.com
 rtb.prnteen.com
 rtb.prod.carbonatixaudio.com
 rtb.recoilnetwork.com
@@ -97638,7 +97634,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -101879,7 +101874,6 @@ server.mayerkouta.com
 server.mazefragrance.com
 server.mazzonnature.com.br
 server.mcmoney24.de
-server.mdrscom.net
 server.mecanismo6d.leomacieira.com.br
 server.mecca.edialoguec.org.sa
 server.mechamorenatinho.com.br
@@ -117580,6 +117574,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -126266,7 +126261,6 @@ taggyad.jp
 taghike.com
 taginova.xyz
 tagivi.com
-tagjsirw.com
 tagjunction.com
 tagm.tchibo.de
 tagm.uneedcomms.com
@@ -137216,7 +137210,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -143511,6 +143504,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
