@@ -7525,6 +7525,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -10705,6 +10706,7 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -11306,7 +11308,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -14600,6 +14601,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -23172,7 +23174,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.starseed.fr
 cdn.stat-rock.com
@@ -27860,6 +27861,7 @@ crow.voracious.dev
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -28036,7 +28038,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csghyg.reginaclinic.jp
@@ -33437,6 +33438,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -44114,6 +44116,7 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -46457,6 +46460,7 @@ galactify.unrulymedia.com
 galaksion.com
 galapeequoniam.qpon
 galaxiemedia.fr
+galaxien.com
 galaxymeet.ru
 galaxypush.com
 galeaeevovae.com
@@ -48326,6 +48330,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.informhcp.the-health-minute.com
@@ -49182,6 +49187,7 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
+grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -72064,6 +72070,7 @@ lysinerbiums.qpon
 lyssapebble.com
 lytdjv.oculosworld.com.br
 lyticaframeofm.com
+lytics.com
 lytics.fileditch.com
 lytics.io
 lytiks.com
@@ -74414,6 +74421,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -75188,6 +75196,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -75198,7 +75207,6 @@ mediaiqdigital.com
 mediakraft.se
 medialand.ru
 medialets.com
-medialytics.com
 mediamath.com
 mediameter.by
 mediametrics.mpsa.com
@@ -82797,7 +82805,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -88002,6 +88009,7 @@ pinniped.quarantinecup.live
 pinniped.resist.bot
 pinniped.spacecountdown.com
 pinnulepagedom.com
+pinptg.milleni.com.tr
 pinsonsnunnari.qpon
 pintanoembaysohmic.cfd
 pintfunnel.com
@@ -89282,6 +89290,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -96483,7 +96492,6 @@ rtb.mts.ru
 rtb.nowsrv.com
 rtb.nuismak.com
 rtb.openx.net
-rtb.pclick.yahoo.com
 rtb.prnteen.com
 rtb.prod.carbonatixaudio.com
 rtb.recoilnetwork.com
@@ -97758,7 +97766,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -103490,7 +103497,6 @@ sffsgi.miele.com.tr
 sfft.conwindo.es
 sfft.finstral.com
 sfft.finstral.studio
-sffyrc.ruparupa.com
 sfgbobrkfliph.website
 sfgtm.imagroup.com
 sfgysl.carguy.kr
@@ -109595,6 +109601,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -113024,6 +113031,7 @@ ss.easyredmine.com
 ss.ebaren.dk
 ss.ebeltoftstrandcamping.dk
 ss.ebrand.hu
+ss.echosofamsterdam.nl
 ss.ecobio.fi
 ss.ecocasse.fr
 ss.ecologiavital.com
@@ -113679,7 +113687,6 @@ ss.myinvestingclub.com
 ss.mylondonpharmacy.co.uk
 ss.mynewart.fr
 ss.mynewart.nl
-ss.mysticgardenfestival.nl
 ss.nadeci.pl
 ss.nadzwyczajnie.pl
 ss.nakanpets.com
@@ -114234,6 +114241,7 @@ ss.tiempodenegocios.com
 ss.tiendapharmaris.com
 ss.tiendavocal.cl
 ss.tigerfunded.com
+ss.tijdmasjien.nl
 ss.tikraysas.com
 ss.ting55.com
 ss.tipshi.com
@@ -114414,6 +114422,7 @@ ss.wifiboostpro.com
 ss.wiggydogshop.com
 ss.wikinggulve.dk
 ss.winbance.com
+ss.wintergardenfestival.nl
 ss.wisdify.com
 ss.wisperbikes.com
 ss.wisprflow.ai
@@ -124734,6 +124743,7 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
+sweetslope.com
 sweetstudents.com
 swelen.com
 swellstocking.com
@@ -137357,7 +137367,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
