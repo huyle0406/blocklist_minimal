@@ -1,3 +1,4 @@
+0.0.z.asia
 0.avmarket.rs
 0.myikas.com
 0.net.easyjet.com
@@ -5975,7 +5976,6 @@ ad1.girls-affiliate.com
 ad1.kde.cz
 ad1.missyusa.com
 ad1.on.cc
-ad1.ru
 ad1.sportschosun.com
 ad1.udn.com
 ad11.adfarm1.adition.com
@@ -6311,7 +6311,6 @@ adcamp.ru
 adcannyxml.com
 adcash.com
 adcast.deviantart.com
-adcast.ru
 adcdn.gamemeca.com
 adcdn.goo.ne.jp
 adcdn.pingan.com
@@ -6840,7 +6839,6 @@ admaru.com
 admaru.net
 admarvel.com
 admarvel.s3.amazonaws.com
-admaster.cc
 admaster.com.cn
 admaster.cz
 admaster.net
@@ -7552,6 +7550,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -8871,7 +8870,6 @@ adwist.ru
 adwitserver.com
 adwmab.card-db.com
 adwmg.com
-adwo.com
 adwolf.ru
 adwooo.fs.ak-is2.net
 adword.ge
@@ -10701,6 +10699,7 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11303,7 +11302,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -13653,7 +13651,6 @@ api.mobula.sd.duapps.com
 api.mobula.sdk.duapps.com
 api.modernmulher.com.br
 api.momijewel.com
-api.monaxagency.com
 api.monedata.io
 api.moneyoyo.org
 api.moodlr.co
@@ -15280,6 +15277,7 @@ asg.irontube.net
 asg.javhoho.com
 asg.likexxxtube.com
 asg.moviesex.org
+asg.pht.ru
 asg.phukienthoitranggiare.com
 asg.pienude.com
 asg.poplink.info
@@ -25991,7 +25989,6 @@ comms.cigna.com.sg
 comms.cigna.es
 comms.cignaglobalhealth.com
 comms.cision.com
-comms.dfsco.com
 comms.hello.global.ntt
 comms.services.global.ntt
 comms.supplychain.nhs.uk
@@ -28059,6 +28056,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csghyg.reginaclinic.jp
@@ -33459,6 +33457,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -39228,6 +39227,7 @@ ecommerce.fluidofactory.com
 ecommhpi.ext.hp.com
 ecommstats.com
 ecommstats.s3.amazonaws.com
+ecommunication.mti.com
 econda-monitor.de
 economicadvantage.midamerican.com
 economies.adp.ca
@@ -47750,7 +47750,6 @@ gjv7fg.ru
 gjvgp.contactlensking.com
 gjvyboaabepyl.online
 gjwos.org
-gjxmcla.pro
 gjxoqgdozssvh.website
 gjxqkypxmgevy.website
 gjxwrn.nettilamppu.fi
@@ -49222,6 +49221,7 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
+grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -82858,7 +82858,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -83876,7 +83875,6 @@ olhuaebuicnfr.site
 olineman.pro
 olivedinflats.space
 oliveiralima.anunciojuridico.com.br
-oliver.pub
 oljqmw.icu
 olklgn.jh-profishop.de
 ollksunixlltx.space
@@ -89347,7 +89345,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -91421,7 +91418,6 @@ px.mountain.com
 px.onlygal.es
 px.pocpoc.io
 px.quantserve.com
-px.sharethis.com
 px.srvcs.tumblr.com
 px.staticfiles.at
 px.steelhousemedia.com
@@ -106478,6 +106474,7 @@ skadnetwork.singular.net
 skadnetworks.fyber.com
 skadsdk.appsflyer.com
 skadsdk.appsflyersdk.com
+skadsdk.appsflyersdk.com.cc
 skaldicclat.cfd
 skaqaz.witt-weiden.ch
 skarhkcpnjaky.website
@@ -109677,7 +109674,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -122645,7 +122641,6 @@ stats.fragment-studio.com
 stats.frankfurterneuepresse.de
 stats.franklincovey.com
 stats.fromyouflowers.com
-stats.g.doubleclick.net
 stats.g.doubleclick.net.iberostar.com
 stats.galaxyexperte.de
 stats.gastronom.ru
@@ -143762,7 +143757,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
