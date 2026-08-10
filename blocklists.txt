@@ -6643,6 +6643,7 @@ adhouse.pro
 adhub.digital
 adhub.media
 adhub.porcino-kinoko.workers.dev
+adhub.ru
 adhudg.nec-lavie.jp
 adhunt.net
 adhunter.media
@@ -7525,6 +7526,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -7550,7 +7552,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -10701,6 +10702,7 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11303,7 +11305,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -13761,7 +13762,6 @@ api.pubfinity.com
 api.publytics.net
 api.pubnative.net
 api.puhlmannprinting-dental.de
-api.pulsebreathe.shop
 api.purpleads.io
 api.pushdi.com
 api.pushwoosh.com
@@ -16057,7 +16057,6 @@ aumarketing.sedgwick.com
 aums.celsiusherbs.com
 aunehofyojgfq.space
 aunnnuvegyzfm.website
-aunstollarinets.com
 auntiesurfeatable.com
 auntpercoct.shop
 aunuu.gorjana.com
@@ -18720,6 +18719,7 @@ biminibliss.rwbimini.com
 bimlocal.com
 bimouecctgacs.store
 bin-layer.de
+bin-layer.ru
 bin-tds.site
 binaqathh.com
 binarycrest.com
@@ -21246,6 +21246,7 @@ c1exchange.com
 c1qm3mg41.com
 c2.adalyser.com
 c2.app-adforce.jp
+c2.gdt.qq.com
 c2.gostats.vn
 c2.taboola.com
 c20700ec5a.com
@@ -22422,7 +22423,6 @@ cautiouscherries.com
 cautiouscrate.com
 cautiouscredit.com
 cautiouslyanalysecrystal.com
-cautommityring.com
 cavatesignory.cfd
 cavdiacameistsnapped.cfd
 cavecurtain.com
@@ -23183,6 +23183,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.starseed.fr
 cdn.stat-rock.com
@@ -23274,6 +23275,7 @@ cdn.yld.is
 cdn.yodimedia.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zamunda.ru
 cdn.zx-adnet.com
 cdn.zxclan.com
 cdn00.sanko.ac.jp
@@ -32924,6 +32926,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -33455,7 +33458,6 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
-data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -35728,6 +35730,7 @@ di2.zooplus.es
 di2e2m1cmrtc9.cloudfront.net
 di2xlfgjbl0v7.cloudfront.net
 di2xwvxz1jrvu.cloudfront.net
+di7stero.com
 diagmon-serviceapi.samsungdm.com
 diagnose.igstatic.com
 diagnosisintriguingorganizer.com
@@ -39424,6 +39427,7 @@ edgersoptimes.qpon
 edgevertise.com
 edggfqqsbycwo.store
 edgrmtracking.com
+edhmnn.com
 edible-sort.pro
 edictsbovids.qpon
 edictumolympia.cyou
@@ -41039,6 +41043,7 @@ ep.umobile.pl
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
+epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -42892,7 +42897,6 @@ facilitatebreakfast.com
 facilityannounced.com
 facingostensible.com
 facingturtle.com
-facisespess.com
 fackhfindvaqz.space
 factortg.com
 factory.redbull.racing
@@ -47803,6 +47807,7 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -48357,6 +48362,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.informhcp.the-health-minute.com
@@ -61397,6 +61403,7 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
+jordan.qunis.ru
 jornal.tesouros-da-julia.com
 joryvztqojsig.space
 josephclassics.com
@@ -72428,6 +72435,7 @@ madmini.com
 madnessbuzz.com
 madnesscoupon.com
 madnessjadegraceful.com
+madnet.ru
 madnet.yadro.ru
 madoverpricey.com
 madoverrice.com
@@ -75392,7 +75400,6 @@ megadeliveryn.com
 megago.com
 megaihargi.com
 megaopen.ru
-megapopads.com
 megarafiddly.com
 megastats.com
 megavisites.com
@@ -75616,7 +75623,6 @@ metaapi.communityca.com.br
 metaapi.estudioabrassear.com.br
 metabase.petametrics.com
 metabase.taplytics.com
-metabatted.com
 metaconex.io
 metaffiliation.com
 metagtm.devicepandora.com
@@ -77861,7 +77867,6 @@ miraclethisaddicted.com
 miragyflix.com
 miragysoft.qpon
 mirando.de
-miredindeedeisas.info
 mirfakpersei.top
 mirifelon.com
 mirthconfidence.com
@@ -79056,7 +79061,6 @@ mpkcabinnyaab.site
 mpkfjptigpown.site
 mpkip.boostmediagroup.com
 mplat-ppcprotect.com
-mplayeranyd.info
 mplaylist-ads.zadn.vn
 mplaylist-ads.zascdn.me
 mpliq.affordabledentistnearme.com
@@ -80413,7 +80417,6 @@ napcard.net
 napeinigobeamage.cyou
 naperyumlauts.cfd
 napff.vn
-napffx5.com
 napfreefire.vn
 napfreefirex5.com
 napgame.mobi
@@ -80847,7 +80850,6 @@ neocounter.neoworx-blog-tools.net
 neodatagroup.com
 neoffic.com
 neofield.click
-neoftheownouncillo.info
 neojge.luxeol.com
 neolf.theadventurechallenge.com
 neon.today
@@ -81102,7 +81104,6 @@ neutro.thermas.com.br
 never2never.com
 nevercoll.com
 neverforgettab.com
-neverthelessdepression.com
 nevfbf.icu
 neviju.netmonet.co
 nevoidinanely.shop
@@ -82141,7 +82142,6 @@ nothalresided.cfd
 nothering.com
 nothingpetwring.com
 nothotdog.firstimpression.io
-nothycantyo.com
 noti-asia.adsmoloco.com
 noti-us.adsmoloco.com
 noticeclockdroop.com
@@ -82566,7 +82566,6 @@ ntmzw.boudoirnoir.com
 ntnfiubxkrufo.store
 ntobfyzxjkatt.space
 ntofinaukncec.org
-ntoftheusysia.info
 ntoftheusysianedt.info
 ntopcd.underarmour.nl
 ntphyl.milan-jeunesse.com
@@ -82845,6 +82844,7 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
+nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -83085,7 +83085,6 @@ obetgtqx.calumet.de
 obeupjqqrjhvg.store
 obeus.com
 obevdmnrwgfai.online
-obeyedortostr.cc
 obeyeosaviouraxised.qpon
 obeyroman.com
 obeysatman.com
@@ -84901,7 +84900,6 @@ orjlsopkbtieb.store
 orlglnaldates.net
 orlobozvlrryl.space
 orlovskyi.com
-orlowedonhisdhilt.info
 orlqtz.lampenwelt.ch
 ormatenqron.com
 ormhyvwciiqqg.space
@@ -86022,7 +86020,6 @@ painlessassumedbeing.com
 painlessspill.com
 painlessvatmoonlight.com
 painsacomousuintjie.cyou
-painsdire.com
 painsko.com
 painspleasebuilds.com
 painstakingpickle.com
@@ -86878,6 +86875,7 @@ pasta.dec.duapps.com
 pasta.df.duapps.com
 pasta.dl.duapps.com
 pasta.dp.duapps.com
+pasta.ds.duapps.com
 pasta.durecorder.duapps.com
 pasta.dutube.duapps.com
 pasta.ep.duapps.com
@@ -92276,7 +92274,6 @@ qpvrutah.com
 qpweyjmudecjc.online
 qpzlrn.obio.ro
 qpzmi.grandecosmetics.com
-qq.com
 qq2tdd0xx.com
 qqcddg.henkelauto.com
 qqcvdfytarpbw.site
@@ -92805,6 +92802,7 @@ qxlshnvo.7oh.com
 qxlshnvo.try7hydro.com
 qxn9qlvmca.com
 qxnuan.noo-paris.com
+qxplus.ru
 qxpxrbettkskb.space
 qxqjccxfiihvf.online
 qxsfaj.caloo.jp
@@ -97817,7 +97815,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -109662,6 +109659,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -113034,6 +113032,7 @@ ss.diemlegal.co.uk
 ss.dierkla.com
 ss.diffbeautyksa.com
 ss.differentshopbd.com
+ss.digiformats.com
 ss.digitalestates.dk
 ss.digitalguest.com
 ss.diipsecret.com
@@ -140089,6 +140088,7 @@ volumesundue.com
 volumntime.com
 voluntaryboy.com
 volutehewgag.cfd
+voluumtlkrnarketing.com
 voluumtrk.com
 voluumtrk2.com
 voluumtrk3.com
@@ -143740,7 +143740,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
