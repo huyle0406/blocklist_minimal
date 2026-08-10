@@ -1,4 +1,3 @@
-0.0.igin-c0.anthill.vn
 0.avmarket.rs
 0.myikas.com
 0.net.easyjet.com
@@ -5977,6 +5976,7 @@ ad1.girls-affiliate.com
 ad1.kde.cz
 ad1.missyusa.com
 ad1.on.cc
+ad1.ru
 ad1.sportschosun.com
 ad1.udn.com
 ad11.adfarm1.adition.com
@@ -7553,6 +7553,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -10706,7 +10707,7 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -14496,6 +14497,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -14604,7 +14606,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -15178,7 +15179,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -23285,7 +23285,6 @@ cdn.yld.is
 cdn.yodimedia.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zamunda.ru
 cdn.zx-adnet.com
 cdn.zxclan.com
 cdn00.sanko.ac.jp
@@ -28066,7 +28065,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csghyg.reginaclinic.jp
@@ -28144,6 +28142,7 @@ csymrm.24mx.fr
 csyn-r.cxense.com
 csyn.cxense.com
 csync.loopme.me
+csync.smartadserver.com
 csync.smilewanted.com
 ct-errs.cartrawler.com
 ct.beslist.nl
@@ -32938,6 +32937,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -35934,6 +35934,7 @@ digithalo.com
 digitru.st
 digitsreenact.qpon
 digneabrus.cyou
+dignow.org
 digreality.com
 diguver.com
 dihiv.kloraneusa.com
@@ -37136,6 +37137,7 @@ doswwi.caringlasses.com
 dot-com-stats.sladewatkins.net
 dot.texastribune.org
 dot.wp.pl
+dotandad.com
 dotaudiences.com
 dotcounter.douyucdn.cn
 dotherteacake.shop
@@ -39233,7 +39235,6 @@ ecommerce.fluidofactory.com
 ecommhpi.ext.hp.com
 ecommstats.com
 ecommstats.s3.amazonaws.com
-ecommunication.mti.com
 econda-monitor.de
 economicadvantage.midamerican.com
 economies.adp.ca
@@ -48383,6 +48384,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.informhcp.the-health-minute.com
@@ -53998,7 +54000,6 @@ hditsv.ragenjewels.com
 hdjoi.omniluxled.com
 hdjthzg.cn
 hdjyhh.heartpercent.co.kr
-hdmory.bestwestern.it
 hdmtools.com
 hdmxutcrtereb.online
 hdnagl.womensecret.com
@@ -56001,7 +56002,6 @@ i-ready.curriculumassociates.com
 i-reklama.sk
 i-sacombank.com
 i-sdk.mediation.unity3d.com
-i-stream.com
 i-vengo.com
 i-vietcombank.com
 i.360in.com
@@ -61328,7 +61328,6 @@ jocgl.ruggable.de
 jockeyaloofefluky.qpon
 joda.corriereadriatico.it
 joda.ilgazzettino.it
-joda.ilmattino.it
 joda.leggo.it
 joda.quotidianodipuglia.it
 jodcvjpnvcmua.website
@@ -63284,7 +63283,6 @@ kmijmx.bobshop.com
 kmikh.kassaria.com
 kmikz.nerverenew.com
 kmindex.ru
-kminhi.mutuionline.it
 kmjczp.onyoumall.com
 kmjpxj.musement.com
 kmkfk.gld.com
@@ -73481,7 +73479,6 @@ marketing.gpatpa.com
 marketing.gradientfg.com
 marketing.gramener.com
 marketing.grandecheese.com
-marketing.greatgunsmarketing.co.uk
 marketing.greenbay.com
 marketing.greenbrierwv.com
 marketing.greycon.com
@@ -82891,7 +82888,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -94205,6 +94201,7 @@ regimentchat.com
 regio.adup-tech.com
 region1.analytics.google.com
 region1.app-measurement.com
+region1.google-analytics.com
 regionads.ru
 regionalavouchcreeping.com
 regionconfig.amplitude.com
@@ -97271,6 +97268,7 @@ s-clk.rmp.rakuten.com
 s-cs.rmp.rakuten.com
 s-data-home360.home360.lt
 s-eu-1.pushpushgo.com
+s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
 s-img.adskeeper.co.uk
 s-img.adskeeper.com
@@ -106431,7 +106429,6 @@ sixsigmatraffic.com
 sixthlybromate.com
 sixtieschanduy.com
 sixytpaxhbgoq.space
-sixzszlayuzrba.com
 siz.sizwater.com
 sizablechosing.cfd
 sizcsi.eobuv.cz
@@ -115863,6 +115860,7 @@ sst.cane-line.us
 sst.caneculture.ca
 sst.cannapoli.de
 sst.cannonballfestival.dk
+sst.canvasbagbd.com
 sst.capalbosonline.com
 sst.capecodcannabis.com
 sst.capitalcatchcompetitions.co.uk
@@ -119646,7 +119644,6 @@ stape.carolinevalentearq.com.br
 stape.carolrache.com.br
 stape.carouselcleaners.ca
 stape.carreiradiamante.com.br
-stape.carsalescuritiba.com.br
 stape.cartonaria.com.br
 stape.cartrend.hu
 stape.casaaltior.com.br
@@ -130534,7 +130531,6 @@ tr.drh-holding.lvmh.fr
 tr.ds.kakao.com
 tr.dulsco.com
 tr.e-mail.axa.fr
-tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -143484,6 +143480,7 @@ wrysrtitoqbgn.online
 wrztsf.dasique.co.kr
 ws-br-cdn.kwai.net.iberostar.com
 ws-eu.amazon-adsystem.com
+ws-fe.amazon-adsystem.com
 ws-fe.assoc-amazon.com
 ws-goguardian.pusher.com
 ws-in.amazon-adsystem.com
