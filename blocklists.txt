@@ -1,7 +1,6 @@
 0.avmarket.rs
 0.myikas.com
 0.net.easyjet.com
-0.www.0ul1wlo58s-vu69us-r1u.xyz
 0.www.2wu0m0ms098w7148.xyz
 0.www.425kmk7n9wn21pwvl18.xyz
 0.www.4tr3sopq592o7svp1q6mn3.xyz
@@ -10706,6 +10705,7 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -11310,6 +11310,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -14496,6 +14497,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -27228,7 +27230,6 @@ counter9.stat.ovh
 counterbot.com
 countercentral.com
 countercity.de
-countercity.net
 counterfeitlearnedpacify.com
 countergeo.com
 counterimageawoke.com
@@ -35143,6 +35144,7 @@ delivery.m.ambient-platform.com
 delivery.m.ambientplatform.vn
 delivery.mediawayss.com
 delivery.momentummedia.com.au
+delivery.playallvideos.com
 delivery.porn.com
 delivery.preprod.trafficjunky.net
 delivery.pryzmads.com
@@ -38587,7 +38589,6 @@ dynsrvtyu.com
 dynssp.com
 dyntrk.com
 dyodrs1kxvg6o.cloudfront.net
-dyosluubp.com
 dypeizqkapgoz.site
 dyqebg.aboutyou.hr
 dyqzjfpmlkwsv.website
@@ -38632,6 +38633,7 @@ dzlawmilngfcp.space
 dzmrbjehnpkah.site
 dznhlb.thezam.co.kr
 dzpu6za66svjl.cloudfront.net
+dzqtn.lesbianbliss.com
 dzqxwy.com
 dzr4v2ld8fze2.cloudfront.net
 dzrifgpbvyiar.site
@@ -39282,7 +39284,6 @@ ecommerce.fluidofactory.com
 ecommhpi.ext.hp.com
 ecommstats.com
 ecommstats.s3.amazonaws.com
-ecommunication.mti.com
 econda-monitor.de
 economicadvantage.midamerican.com
 economies.adp.ca
@@ -44427,6 +44428,7 @@ fixingcreepingstarter.com
 fixionhyleg.cfd
 fixionmedia.com
 fixtures.onet.pl
+fixwap.net
 fiyhtmlymxizd.online
 fizopp.duluthtrading.com
 fizzledesire.com
@@ -48423,6 +48425,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.informhcp.the-health-minute.com
@@ -77612,7 +77615,6 @@ mfzjiodzpsjdk.space
 mfzrr.mixperfume.com
 mg.32r.com
 mg.adskeeper.co.uk
-mg.dt00.net
 mg.glwxw.net
 mg.maisons-begi.fr
 mg.mgid.com
@@ -82959,6 +82961,7 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
+nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -89460,7 +89463,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -96812,7 +96814,6 @@ rthm.1rx.io
 rthpetahceiol.space
 rtibriolhapk.com
 rtip4abjv3.com
-rtjodijvjirb.com
 rtk.falalima.com.br
 rtk.fullsalessystem.com
 rtk.io
@@ -97360,6 +97361,7 @@ s-clk.rmp.rakuten.com
 s-cs.rmp.rakuten.com
 s-data-home360.home360.lt
 s-eu-1.pushpushgo.com
+s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
 s-img.adskeeper.co.uk
 s-img.adskeeper.com
@@ -97961,7 +97963,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -109811,7 +109812,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -111368,6 +111368,7 @@ somethingprecursorfairfax.com
 somethingrealisticzero.com
 sometimecheerlessauditorium.com
 sometimegoreproduce.com
+sometired.com
 sometrics.com
 sometrics.netapp.com
 somewhatsunduke.com
@@ -129109,6 +129110,7 @@ tizerbank.com
 tizerbox.ru
 tizerclik.com
 tizerfly.net
+tizermedias.com
 tizermy.net
 tizernaya-reklama.ru
 tizofvtuqo.com
@@ -129913,6 +129915,7 @@ tools.niania.pl
 tools.opiekaseniora.pl
 tools.party.pl
 tools.polki.pl
+tools.pomocedomowe.pl
 tools.przyslijprzepis.pl
 tools.ranker.com
 tools.ricoh.co.uk
@@ -129952,6 +129955,7 @@ top100-images.rambler.ru
 top100.ezar.ru
 top100.rambler.ru
 top100.vkirove.ru
+top100bloggers.com
 top100webshops.com
 top10sportsites.com
 top123.ro
@@ -143903,6 +143907,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
