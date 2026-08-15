@@ -5965,6 +5965,7 @@ ad.us.sinaimg.cn
 ad.usatoday.com
 ad.ust-ad.com
 ad.utop.ir
+ad.velomania.ru
 ad.video-mech.ru
 ad.vidver.to
 ad.vidverto.io
@@ -8906,7 +8907,6 @@ adwist.ru
 adwitserver.com
 adwmab.card-db.com
 adwmg.com
-adwo.com
 adwolf.ru
 adwooo.fs.ak-is2.net
 adword.ge
@@ -10748,6 +10748,7 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -14653,6 +14654,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -23329,7 +23331,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.starseed.fr
 cdn.stat-rock.com
@@ -39515,6 +39516,7 @@ ecommerce.fluidofactory.com
 ecommhpi.ext.hp.com
 ecommstats.com
 ecommstats.s3.amazonaws.com
+ecommunication.mti.com
 econda-monitor.de
 economicadvantage.midamerican.com
 economies.adp.ca
@@ -48193,6 +48195,7 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -49619,7 +49622,6 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
-grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -53434,7 +53436,6 @@ guppy.ironmic.fm
 guppy.omana.me
 guppymedia.com
 guqpe.oceanmosaics.com
-guqwjxedurdjv.com
 gurgle.zdbb.net
 gurgleupstandingexist.com
 gurgleyodlers.cfd
@@ -75193,7 +75194,6 @@ mbltzqounmuzh.space
 mbmar.wtf.tv
 mbn-1.com
 mbn.com.ua
-mbn.su
 mbn6duism5.com
 mbna.bruker.com
 mbns.bruker.com
@@ -83438,7 +83438,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -85052,7 +85051,6 @@ oos4l.com
 oosbocswffckr.website
 ooslg.veryspecialgames.com
 oosmj.swimsuitsforall.com
-oossod.potterybarn.ae
 oot59rxrwm.com
 ootsthreave.cfd
 ootypetouched.cyou
@@ -86115,7 +86113,6 @@ oxtsale1.com
 oxu24.com
 oxvdjvdteyeai.online
 oxvmctwdsernj.site
-oxvqvbspesgzz.com
 oxvzxk.carriere-info.fr
 oxwlhazto.com
 oxworttousche.cfd
@@ -89998,7 +89995,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -92090,7 +92086,6 @@ px.mountain.com
 px.onlygal.es
 px.pocpoc.io
 px.quantserve.com
-px.sharethis.com
 px.srvcs.tumblr.com
 px.staticfiles.at
 px.steelhousemedia.com
@@ -94679,7 +94674,6 @@ redirectbandarxlsafest.com
 redirectbisnis4dsafest.com
 redirecthitnspin.com
 redirectingat.com
-redirectnative.com
 redirectpopads.com
 redirectvoluum.com
 redistats.com
@@ -110173,7 +110167,6 @@ smetrics.potterybarn.ca
 smetrics.potterybarn.co.uk
 smetrics.potterybarn.com
 smetrics.potterybarnkids.ca
-smetrics.potterybarnkids.co.uk
 smetrics.potterybarnkids.com
 smetrics.power97.com
 smetrics.powertogrowphx.com
@@ -125102,7 +125095,6 @@ sunshinegates.com
 sunshinepint.com
 sunstrokeeastcookie.com
 suntanswam.qpon
-suntcontent.se
 suntrustoverdraftclassaction.e.epiqnotification.com
 sunuabuahgfsd.space
 sunwayspulianunstiff.qpon
@@ -130611,7 +130603,6 @@ tools.islive.nl
 tools.kobieta.pl
 tools.mamotoja.pl
 tools.mojegotowanie.pl
-tools.mojpieknyogrod.pl
 tools.national-geographic.pl
 tools.niania.pl
 tools.opiekaseniora.pl
@@ -143038,7 +143029,6 @@ wendssirloin.com
 weneor.europcar.co.nz
 wenhua.jiaoshou.com
 wenog.com
-wenoolgo.icu
 wensixuetang.com
 wensjussel.shop
 wensonk.com
@@ -144702,7 +144692,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
