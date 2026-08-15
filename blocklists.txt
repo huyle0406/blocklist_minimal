@@ -1247,7 +1247,6 @@
 4.afs.googleadservices.com
 4.grc4lulcygf1mz7.cyou
 4.gukj8k9h8oxi44c.cyou
-4.www.0ul1wlo58s-vu69us-r1u.xyz
 4.www.2wu0m0ms098w7148.xyz
 4.www.425kmk7n9wn21pwvl18.xyz
 4.www.4tr3sopq592o7svp1q6mn3.xyz
@@ -3053,7 +3052,6 @@ a2.xinhuanet.com
 a2424xe80.com
 a24help.ru
 a26e7bb99f.com
-a273656d15.com
 a29f24b2a6.com
 a2gp.diveinthebluesky.biz
 a2pfs5k90i.com
@@ -5953,6 +5951,7 @@ ad.us.sinaimg.cn
 ad.usatoday.com
 ad.ust-ad.com
 ad.utop.ir
+ad.velomania.ru
 ad.video-mech.ru
 ad.vidver.to
 ad.vidverto.io
@@ -6665,7 +6664,6 @@ adhouse.pro
 adhub.digital
 adhub.media
 adhub.porcino-kinoko.workers.dev
-adhub.ru
 adhudg.nec-lavie.jp
 adhunt.net
 adhunter.media
@@ -8712,7 +8710,6 @@ advantage.digitalsunray.com
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
-advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -9077,7 +9074,6 @@ ae.alcmpn.com
 ae.brand-display.com
 ae.cobweb.com
 ae35oceb.eulerian.io
-ae4a30136a.com
 ae5e473975.com
 ae888vip.com
 aeacusexpoundcolones.cyou
@@ -10728,7 +10724,7 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.all.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -14631,6 +14627,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -17809,7 +17806,6 @@ be09b02191.com
 be0ef76ec5.com
 be1d40e516.com
 be33c66794.com
-be3b287535.cf9e789bf0.com
 be880990f9.com
 be8f770864.5e9cb65c2c.com
 bea-s.dinghuoche.com
@@ -21872,7 +21868,6 @@ capi.centralvalleydentistry.com
 capi.changingfacesandsmiles.co.uk
 capi.cityhubbd.com
 capi.clicktocartbd.com
-capi.cmsouza.com.br
 capi.collaro.co
 capi.comfortsdream.com
 capi.connatix.com
@@ -23274,7 +23269,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.starseed.fr
 cdn.stat-rock.com
@@ -23366,7 +23360,6 @@ cdn.yld.is
 cdn.yodimedia.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zamunda.ru
 cdn.zx-adnet.com
 cdn.zxclan.com
 cdn00.sanko.ac.jp
@@ -24898,7 +24891,6 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -27316,7 +27308,6 @@ counter9.stat.ovh
 counterbot.com
 countercentral.com
 countercity.de
-countercity.net
 counterfeitlearnedpacify.com
 countergeo.com
 counterimageawoke.com
@@ -48851,7 +48842,7 @@ go1.trakit22.com
 go1.trakit23.com
 go1.trakit24.com
 go1.trakit25.com
-go1.trakit26.com
+go1.trakit26.c.oncustomer.asia
 go1.trakit27.com
 go1.trakit28.com
 go1.trakit29.com
@@ -54026,6 +54017,7 @@ haxddr.crocieraonline.com
 haxdym.min-breeder.com
 haxrkdicbviay.online
 hayboxleukondebowel.cyou
+haychalk.com
 hayfetidterminal.com
 haymarketstat.de
 hayrackreflow.qpon
@@ -74783,7 +74775,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -75564,6 +75555,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -102732,7 +102724,6 @@ server.oitocodigosdoouro.com.br
 server.okaypal.com
 server.okvirtual.com.br
 server.oldsiller.com.br
-server.olesyanovik.com
 server.ominestore.com
 server.omydisc.com
 server.onecrowd.de
@@ -114383,7 +114374,6 @@ ss.pianetaferra.com
 ss.pielboutiquecr.com
 ss.piethein.dk
 ss.pillowdaddy.de
-ss.pimientonegro.com
 ss.pisuchytre.cz
 ss.pitaya.dk
 ss.pjfashionbd.com
@@ -131759,6 +131749,7 @@ tr.welcome.unaoffertaalgiorno.com
 tr.welcome.vipmag.fr
 tr.whoopsee.it
 tr.win.moethennessy.com
+tr.www.0ul1wlo58s-vu69us-r1u.xyz
 tr.www.cloudflare.com
 tr.wycena-companeo.pl
 tr.xlead.digital
@@ -144302,6 +144293,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
