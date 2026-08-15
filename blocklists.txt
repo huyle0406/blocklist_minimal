@@ -7589,7 +7589,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -14546,6 +14545,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -14654,7 +14654,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -15230,7 +15229,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -18630,7 +18628,6 @@ bicolourprepossessstrong.com
 biconcave43.com
 bicp-analytics.postscript.io
 bicyclebusgrave.work
-bid-algorix.com
 bid-apac.onetag-sys.com
 bid-eu.onetag-sys.com
 bid-g.onetag-sys.com
@@ -23331,7 +23328,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.starseed.fr
 cdn.stat-rock.com
@@ -24961,7 +24957,6 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -28265,7 +28260,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csghyg.reginaclinic.jp
@@ -33146,6 +33140,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -41446,7 +41441,6 @@ eqidtjiskmjoo.site
 eqilyppdackel.website
 eqingl.ivet.bg
 eqizpgutcgers.online
-eqjxnkbemrecr.com
 eqkltgnbbygnv.website
 eqkwat.histoiredor.com
 eql.mondaymerch.com
@@ -43298,7 +43292,9 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -73955,6 +73951,7 @@ marketing.gpatpa.com
 marketing.gradientfg.com
 marketing.gramener.com
 marketing.grandecheese.com
+marketing.greatgunsmarketing.co.uk
 marketing.greenbay.com
 marketing.greenbrierwv.com
 marketing.greycon.com
@@ -86091,7 +86088,6 @@ oxtsale1.com
 oxu24.com
 oxvdjvdteyeai.online
 oxvmctwdsernj.site
-oxvqvbspesgzz.com
 oxvzxk.carriere-info.fr
 oxwlhazto.com
 oxworttousche.cfd
@@ -90218,7 +90214,6 @@ practicablepancakevisual.com
 practical-associate.pro
 practical-interest.com
 practicalboil.com
-practice1.bongoshri.com
 practicecash.com
 practicedrectification.com
 practicemanagement.securitiesamerica.com
@@ -98522,6 +98517,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -101560,6 +101556,7 @@ server.amamentacaosempalpites.com.br
 server.amandanunespsi.com.br
 server.amarasta.com
 server.amari-hochwasser.at
+server.amarshoishob.com
 server.amataspeventos.com.br
 server.amatobackstage.com.br
 server.amazonisunglasses.com.br
@@ -114215,7 +114212,6 @@ ss.influencemedia.info
 ss.informationplanet.be
 ss.instant-culture.com
 ss.institutpeausaine.fr
-ss.intobrasconstrucciones.com.ar
 ss.inv.quantior-france.com
 ss.inversionracional.com
 ss.investieredichfrei.de
@@ -118541,6 +118537,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -122088,7 +122085,6 @@ stape.transformeseupoderfeminino.com.br
 stape.transkriptor.com
 stape.tranzacaomodas.com.br
 stape.traveltec.com.br
-stape.travuscapital.com.br
 stape.treinamentoskronos.com.br
 stape.triadeflow.com.br
 stape.triopadilhao.com.br
@@ -138298,7 +138294,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -141070,7 +141065,6 @@ vplrvf.icu
 vpltf.poplin.co
 vpmarga.shop
 vpmdiq.propertyfinder.qa
-vpn-europe.conversantmedia.com
 vpn-explained.com
 vpn-us-west.conversantmedia.com
 vpnonly.site
