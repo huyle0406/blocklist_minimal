@@ -7552,7 +7552,6 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
-ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -8713,6 +8712,7 @@ advantage.digitalsunray.com
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
+advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -11338,6 +11338,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -14526,6 +14527,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -14634,7 +14636,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -22042,7 +22043,6 @@ capicst.ia-atendente.com
 capicst.pretzeladv.online
 capidm.cocoons.com
 capifb.kidzfunbd.com
-capifb.raidobd.com
 capig.10fitness.com
 capig.adaptorclothing.com
 capig.altlifeagency.com
@@ -24860,7 +24860,6 @@ clickagents.com
 clickagy.com
 clickaider.com
 clickaine.com
-clickallow.net
 clickalyzer.com
 clickattr.wayup.com
 clickaval.com
@@ -24909,6 +24908,7 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -45228,7 +45228,6 @@ forbidcrenels.com
 forcapi.naturesnestgoa.com
 force24.co.uk
 forcefulbeginning.com
-forcefulpacehauled.com
 fordjuly.com
 fordletze.com
 fordlouse.com
@@ -48221,6 +48220,7 @@ globeofnews.com
 globerotate.com
 globity.xyz
 globlemath.com
+globus-inter.com
 globwo.online
 gloealcolloq.cfd
 glofiflfnmeiw.online
@@ -65556,7 +65556,6 @@ lhtgm.cymbiotika.ca
 lhuckewm.tacoshop.it
 lhuvxiezozkjg.online
 lhvavsdsnhxgz.website
-lhvduqlahiakt.site
 lhvlkgbkjmrnc.com
 lhvptjkotfnkm.website
 lhvzh.vvsjewelry.com
@@ -75601,6 +75600,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -79809,6 +79809,7 @@ mto.cgv.vn
 mtowxcwnvhrnr.store
 mtoxbwtcklqlx.website
 mtoxtg.tezenis.com
+mtp.kredytnachwilowki.pl
 mtpc.se
 mtqqni.toebox.com
 mtr.disolvium.com
@@ -83240,6 +83241,7 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
+nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -83446,7 +83448,6 @@ oaphoace.net
 oar.smu.edu.sg
 oardilin.com
 oariallimed.qpon
-oaritnrthm.com
 oarweedtaigas.cfd
 oas.benchmark.fr
 oas.repubblica.it
@@ -89783,7 +89784,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -92879,7 +92879,6 @@ qstdgyhrnvyij.space
 qsuper.ecomms.qsuper.qld.gov.au
 qsvdftnuckecq.site
 qswdme.modnakiecka.pl
-qsydjlvebcnhs.site
 qszftkiylgowv.site
 qtaocw.shadestation.co.uk
 qtbaye.mona.ch
@@ -98301,6 +98300,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -101513,7 +101513,6 @@ server.bigtruckhoods.com
 server.bikedecorbd.com
 server.bikiniprivatelabel.com
 server.bilaslifestyle.com
-server.billbazar.com.bd
 server.biofarmmanipulacao.com.br
 server.bionera-kosmetik.de
 server.bioshifabd.com
@@ -103143,7 +103142,6 @@ server.skyautokool.ee
 server.slimove.store
 server.slingshotstorebd.com
 server.sloul.com.br
-server.smartbabyshop.com.bd
 server.smartgedget.com
 server.smartradiologia.com.br
 server.smartshoping.com.bd
@@ -110179,7 +110177,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -125339,7 +125336,6 @@ swesomepop.com
 swetrix.org
 swhqcerqyqejk.website
 swidgenoetian.cfd
-swidprxaafwha.store
 swift.avenue.so
 swift.ciudadanob.com
 swift.jos.ht
@@ -138019,7 +138015,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -144228,7 +144223,6 @@ wuxhettgdwgfe.online
 wuxhiy.wenz.at
 wuyjtew.icu
 wuytb.com
-wuytk.com
 wuytl.com
 wuzbhjpvsf.com
 wuzzledmaul.cyou
