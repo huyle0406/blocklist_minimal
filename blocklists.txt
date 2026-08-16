@@ -4211,7 +4211,6 @@ a8cv.ococorozashi.com
 a8cv.off-site.jp
 a8cv.ogaland.com
 a8cv.oisix.com
-a8cv.omakase-cyber-mimamori.net
 a8cv.omni7.jp
 a8cv.omobic.com
 a8cv.omtogether.jp
@@ -7595,7 +7594,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -10758,6 +10756,8 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -14559,7 +14559,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -24994,7 +24993,6 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -48804,7 +48802,6 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
-go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.informhcp.the-health-minute.com
@@ -53595,7 +53592,6 @@ gw.vixenplus.com
 gw.wifey.com
 gw5.push.mcp.weibo.cn
 gw7jpuouik.com
-gwaevffiiyj.com
 gwallet.com
 gwaqanrpzkknt.website
 gwbb1p2t9s.com
@@ -101866,6 +101862,7 @@ server.batismodejava.dev
 server.bawalescoladeconfeitaria.com.br
 server.bazarhistorias.co
 server.bazarhistorias.pe
+server.bazzela.com
 server.bchomedecor.com.br
 server.bdallpro.com
 server.bdgadgetscorner.com
@@ -106919,7 +106916,6 @@ sidewalkamazingly.com
 sidewalkboiling.com
 sidewaydorlach.shop
 sidewayreddenbehind.com
-sidewaysinjure.com
 sidlerduplon.qpon
 sieclesreagins.com
 sieniewicz.pl
@@ -125157,6 +125153,7 @@ suiteenvelopetyran.com
 suiteneutral.qpon
 suivi.eben.fr
 sujgsrsppqoij.site
+sukienfreefire.ezyro.com
 sukienhanghieuskin.weebly.com
 sukienhhlmht.weebly.com
 sukienlienminh2022.weebly.com
@@ -138487,6 +138484,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -147452,7 +147450,6 @@ xrnyhc.dongasisa.com
 xrnyhc.hktimes.kr
 xrnyhc.hwasunnews.co.kr
 xrnyhc.ispacenews.co.kr
-xrnyhc.itmeca.net
 xrnyhc.journalnet.co.kr
 xrnyhc.kjfocus.co.kr
 xrnyhc.meil.kr
