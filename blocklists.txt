@@ -4211,7 +4211,6 @@ a8cv.ococorozashi.com
 a8cv.off-site.jp
 a8cv.ogaland.com
 a8cv.oisix.com
-a8cv.omakase-cyber-mimamori.net
 a8cv.omni7.jp
 a8cv.omobic.com
 a8cv.omtogether.jp
@@ -6016,7 +6015,6 @@ ad1.girls-affiliate.com
 ad1.kde.cz
 ad1.missyusa.com
 ad1.on.cc
-ad1.ru
 ad1.sportschosun.com
 ad1.udn.com
 ad11.adfarm1.adition.com
@@ -6351,7 +6349,6 @@ adcamp.ru
 adcannyxml.com
 adcash.com
 adcast.deviantart.com
-adcast.ru
 adcdn.gamemeca.com
 adcdn.goo.ne.jp
 adcdn.pingan.com
@@ -8736,6 +8733,7 @@ advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
 advbroker.ru
+advclicks.net
 advconversion.com
 adveasy.ru
 advendi.de
@@ -8913,7 +8911,6 @@ adwist.ru
 adwitserver.com
 adwmab.card-db.com
 adwmg.com
-adwo.com
 adwolf.ru
 adwooo.fs.ak-is2.net
 adword.ge
@@ -10758,6 +10755,7 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11433,7 +11431,6 @@ analytics.365scores.com
 analytics.3c5.com
 analytics.3q.sa
 analytics.7-herbs.com
-analytics.74.ru
 analytics.a-f.io
 analytics.ad.daum.net
 analytics.adfreetime.com
@@ -11691,7 +11688,6 @@ analytics.dugun.com
 analytics.dv.socure.io
 analytics.dvidshub.net
 analytics.dx.ohio.gov
-analytics.e1.ru
 analytics.e2estudios.com
 analytics.ecosia.org
 analytics.edaily.co.kr
@@ -11763,7 +11759,6 @@ analytics.fnbnp.com
 analytics.fnbplattevalley.com
 analytics.fnbsd.com
 analytics.fnsouthwest.com
-analytics.fontanka.ru
 analytics.foodanddrinkstyling.com
 analytics.foresee.com
 analytics.formstack.com
@@ -12062,7 +12057,6 @@ analytics.morphe.software
 analytics.motherhood.se
 analytics.motoemotostore.it
 analytics.move.ru
-analytics.msk1.ru
 analytics.msnbc.msn.com
 analytics.muhiku.com
 analytics.muses.org
@@ -12091,7 +12085,6 @@ analytics.newscred.com
 analytics.newsifier.nl
 analytics.newtonoffices.com
 analytics.nextopia.net
-analytics.ngs55.ru
 analytics.nhattao.com
 analytics.nianticlabs.com
 analytics.nianticspatial.com
@@ -15246,7 +15239,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -18650,7 +18642,6 @@ bicolourprepossessstrong.com
 biconcave43.com
 bicp-analytics.postscript.io
 bicyclebusgrave.work
-bid-algorix.com
 bid-apac.onetag-sys.com
 bid-eu.onetag-sys.com
 bid-g.onetag-sys.com
@@ -27392,7 +27383,6 @@ counter.mirohost.net
 counter.mojgorod.ru
 counter.monkeybanana3.com
 counter.musicsweb.ir
-counter.nn.ru
 counter.nope.dk
 counter.ntdvn.com
 counter.nv.ua
@@ -37713,7 +37703,6 @@ dreepygeckoes.com
 dremdwbfeofrb.site
 dremlloves.com
 dremp.xyz
-drenchdeprivation.com
 drenchedtidyarticle.com
 drenix50kp.com
 dressedoutrageousrun.com
@@ -39569,7 +39558,6 @@ ecommerce.fluidofactory.com
 ecommhpi.ext.hp.com
 ecommstats.com
 ecommstats.s3.amazonaws.com
-ecommunication.mti.com
 econda-monitor.de
 economicadvantage.midamerican.com
 economies.adp.ca
@@ -44922,7 +44910,6 @@ flatjeep.com
 flatmengrimace.cfd
 flattendollar.com
 flattenembrawnuvrou.cyou
-flattenpliable.com
 flattermonumentsbarren.com
 flattervillage.qpon
 flavg.drinkfreespirits.com
@@ -48256,7 +48243,6 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -48536,11 +48522,8 @@ gmt.liguelead.com.br
 gmt.modema.com.br
 gmtdmp.mookie1.com
 gmtr.gargiuloemaiello.com
-gmufag.e1.ru
 gmufag.fontanka.ru
 gmufag.marieclaire.ru
-gmufag.ngs.ru
-gmufag.nn.ru
 gmufag.starhit.ru
 gmufag.wday.ru
 gmufag.woman.ru
@@ -48815,6 +48798,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.informhcp.the-health-minute.com
@@ -58402,7 +58386,6 @@ indefinitelytonsil.com
 indefinitemantle.com
 indelicateexcept.com
 indentsrondels.com
-independentacceptable.com
 index.ru
 indexad.net
 indexeseconomicsenrage.com
@@ -61333,7 +61316,6 @@ jestbiases.com
 jestcompelledcalligraphy.com
 jesuistdefines.shop
 jesuitsborateddirham.cyou
-jet.zbp.ru
 jethromothery.cyou
 jethvihccnc3um4khepei.cfd
 jetour.altosandes.com.pe
@@ -79603,7 +79585,6 @@ mountainous-it.pro
 mountainrood.com
 mountainsubmerge.com
 mountedbattery.com
-mountedblueberrytall.com
 mournenterprise.com
 mouse.anthony-noel.com
 mouse.seekingtv.com
@@ -85514,7 +85495,6 @@ orchidgenius.com
 orchilspupal.cyou
 orckdewf.com
 orcvupxik.com
-ord-ae.conversantmedia.com
 ord.aqbeds.co.uk
 ordbng.extra.com.br
 order.compressionstockingsonline.com.au
@@ -98682,7 +98662,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -101425,7 +101404,6 @@ serenepebble.com
 serenesurf.com
 serenezenith.com
 serenezephyr.com
-serenitymareaffection.com
 seresedenite.cfd
 seret.live
 sergttaproot.cfd
@@ -110580,6 +110558,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -112471,7 +112450,6 @@ source-66584305d5.mainpost.de
 source-ed91a21bf0.dastelefonbuch.de
 source.advisible.com
 source.bidgear.com
-sourceactivelydared.com
 sourceauditoriumassure.com
 sourcecodeapp.com
 sourcecodeinfo.com
@@ -114716,7 +114694,6 @@ ss.newurtopia.com
 ss.nexcon.io
 ss.nexifocus.com
 ss.nexogi.com
-ss.nexum.com.ar
 ss.nfbio.se
 ss.nfkino.no
 ss.nibblish.co.nz
@@ -114896,7 +114873,6 @@ ss.purvival.com
 ss.quaggadesigns.com
 ss.quantior.infocompares.com
 ss.quickdeeds.com
-ss.quickoffice.ae
 ss.quickparts.dk
 ss.quiksilver.com.br
 ss.quokkabeds.com.au
@@ -119159,6 +119135,7 @@ sst.trtmethod.com
 sst.truclothing.com
 sst.truefollowrs.com
 sst.trustallred.com
+sst.tryamm.ro
 sst.trymyfirmtech.com
 sst.tryperiod.com
 sst.tryvytadose.com
@@ -125128,7 +125105,6 @@ suezbonuses.shop
 suezs.tiffany.it
 sufesj.shop4runners.com
 sufetv.chefuniforms.com
-sufferpounceo.com
 sufferwalkersilliness.com
 suffocatedeliberatelyslid.com
 suffocatefried.com
@@ -125247,7 +125223,6 @@ sunshinegates.com
 sunshinepint.com
 sunstrokeeastcookie.com
 suntanswam.qpon
-suntcontent.se
 suntrustoverdraftclassaction.e.epiqnotification.com
 sunuabuahgfsd.space
 sunwayspulianunstiff.qpon
@@ -128442,7 +128417,6 @@ tbaqje.zadig-et-voltaire.com
 tbbvb.lyleandscott.com
 tbbzc.trtltravel.com
 tbdhap.gamesonly.at
-tbe.tom.ru
 tbedl.knix.ca
 tbex.ru
 tbezwqeyyioqa.site
@@ -130733,7 +130707,6 @@ tonletshoihere.qpon
 tonletsmucosaetoyshop.cyou
 tonnfrilal.qpon
 tonngmhhvemqr.space
-tonsilresolvedbark.com
 tonsvewbbofzi.site
 tontent.powv1deo.cc
 tontrinevengre.com
@@ -130761,7 +130734,6 @@ tools.islive.nl
 tools.kobieta.pl
 tools.mamotoja.pl
 tools.mojegotowanie.pl
-tools.mojpieknyogrod.pl
 tools.national-geographic.pl
 tools.niania.pl
 tools.opiekaseniora.pl
@@ -138493,6 +138465,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -141424,7 +141397,6 @@ vssid.cc
 vsspdabuuewzo.space
 vst.c.appier.net
 vst.dfn-network.pro
-vst.sibnet.ru
 vstat.borderlessbd.com
 vstixgqbvxdlq.site
 vstserv.com
@@ -142200,7 +142172,6 @@ waulzelnvh.com
 wauqomhjliawq.store
 waust.at
 wauymtjmufunv.site
-wavedgrill.com
 wavedindifferenceharm.com
 wavedprincipal.com
 waveetiquette.com
@@ -143207,7 +143178,6 @@ wendssirloin.com
 weneor.europcar.co.nz
 wenhua.jiaoshou.com
 wenog.com
-wenoolgo.icu
 wensixuetang.com
 wensjussel.shop
 wensonk.com
@@ -144875,6 +144845,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -145758,6 +145729,7 @@ www2s.storage.com
 www2s.usautoparts.net
 www3.autopartsdeal.com
 www3.bimobject.com
+www3.doubleclic.com
 www3.doubleclick.net
 www3.faxsuite.de
 www3.gfa.org
