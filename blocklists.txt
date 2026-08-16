@@ -8734,7 +8734,6 @@ advantagesclotblend.com
 advard.com
 advariant.com
 advarkads.com
-advast.sibnet.ru
 advbanners.global.ssl.fastly.net
 advbroker.ru
 advclicks.net
@@ -10760,7 +10759,9 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -14665,6 +14666,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -15243,6 +15245,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -21346,6 +21349,7 @@ c.sayhi.360.cn
 c.security.org
 c.seksohub.com
 c.seznam.cz
+c.sibnet.ru
 c.siteswithcontent.com
 c.sonnentor.com
 c.statcounter.com
@@ -23357,6 +23361,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.starseed.fr
 cdn.stat-rock.com
@@ -27391,7 +27396,6 @@ counter.mirohost.net
 counter.mojgorod.ru
 counter.monkeybanana3.com
 counter.musicsweb.ir
-counter.nn.ru
 counter.nope.dk
 counter.ntdvn.com
 counter.nv.ua
@@ -28301,6 +28305,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csghyg.reginaclinic.jp
@@ -33183,6 +33188,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -33715,7 +33721,6 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
-data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -43356,9 +43361,7 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -61917,6 +61920,7 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
+jordan.qunis.ru
 jornal.tesouros-da-julia.com
 joryvztqojsig.space
 josephclassics.com
@@ -90123,6 +90127,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -104130,7 +104135,6 @@ service-dev.idsync.analytics.yahoo.com
 service-ens.sueddeutsche.de
 service.arredamentopari.com
 service.athlon.com
-service.bechtle.com
 service.charitiesaidfoundation.org.uk
 service.e-volution.ai
 service.fastaxol.net
@@ -110588,7 +110592,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -114394,6 +114397,7 @@ ss.influencemedia.info
 ss.informationplanet.be
 ss.instant-culture.com
 ss.institutpeausaine.fr
+ss.intobrasconstrucciones.com.ar
 ss.inv.quantior-france.com
 ss.inversionracional.com
 ss.investieredichfrei.de
@@ -118717,7 +118721,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -141438,6 +141441,7 @@ vssid.cc
 vsspdabuuewzo.space
 vst.c.appier.net
 vst.dfn-network.pro
+vst.sibnet.ru
 vstat.borderlessbd.com
 vstixgqbvxdlq.site
 vstserv.com
