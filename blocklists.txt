@@ -5655,6 +5655,7 @@ actscattydecode.com
 actstrialssuper.com
 actualdeals.com
 actuallyforeheadconsent.com
+actuallyfrustration.com
 actuallyhierarchyjudgement.com
 actuallysheep.com
 actuallysnake.com
@@ -6510,7 +6511,6 @@ adcamp.ru
 adcannyxml.com
 adcash.com
 adcast.deviantart.com
-adcast.ru
 adcct.advancecctvbd.com
 adcdn.gamemeca.com
 adcdn.goo.ne.jp
@@ -7767,7 +7767,6 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
-ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -7793,6 +7792,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -11690,7 +11690,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15534,6 +15533,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -16272,7 +16272,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -19930,7 +19929,6 @@ bhs.novagloresearch.com
 bhs.novapeptidesupply.com
 bhs.nusciencepeptides.com
 bhs.olympexsolutions.com
-bhs.onyxbiolabs.com
 bhs.optimal-pep.com
 bhs.orbitrexpeptide.is
 bhs.orosresearch.com
@@ -23376,7 +23374,6 @@ campaigns.ambientplatform.vn
 campaigns.ashfieldengage.com
 campaigns.biochek.com
 campaigns.clevertap.com
-campaigns.conversantmedia.com
 campaigns.deepbluedigital.nl
 campaigns.engage.cebglobal.com
 campaigns.glory-global.com
@@ -25222,7 +25219,6 @@ cdn.premiumads.net
 cdn.premiumtag.net
 cdn.proadscdn.com
 cdn.prod.euid.eu
-cdn.prod.metrics.imdb.a2z.com
 cdn.prod.uidapi.com
 cdn.promotionengine.com
 cdn.providercheck.nl
@@ -25305,7 +25301,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -30765,7 +30760,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -58683,6 +58677,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -104388,7 +104383,6 @@ prevoteglimmer.cyou
 preyerattame.cyou
 prezna.com
 prf.vagnt.com
-prfbwjonfameiu.com
 prfctmney.com
 prfkmbwvryamw.store
 prft.profession.ai
@@ -113250,6 +113244,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -127997,6 +127992,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -140405,6 +140401,7 @@ sstl.tammylobatowigs.com.au
 sstlive.drbrunolimoeiro.com.br
 sstm.chgroup.eu
 sstm.frechdachs-hotel.de
+sstm.grupothink.com.br
 sstm.haslinger-hof.de
 sstm.ibs.it
 sstm.lafeltrinelli.it
@@ -160603,7 +160600,6 @@ udpbkh.wildfashion.ro
 udplgiotjursc.website
 udppercfezmis.online
 udqkf.ogio.com
-udrbgoiyqzii.com
 udrnks.vedder-vedder.com
 udrojwrd.brau.ae
 udrojwrd.brau.sa
@@ -162197,7 +162193,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
