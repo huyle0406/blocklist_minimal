@@ -5971,7 +5971,6 @@ ad.us.sinaimg.cn
 ad.usatoday.com
 ad.ust-ad.com
 ad.utop.ir
-ad.velomania.ru
 ad.video-mech.ru
 ad.vidver.to
 ad.vidverto.io
@@ -7570,7 +7569,6 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
-ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -10760,8 +10758,6 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -21349,7 +21345,6 @@ c.sayhi.360.cn
 c.security.org
 c.seksohub.com
 c.seznam.cz
-c.sibnet.ru
 c.siteswithcontent.com
 c.sonnentor.com
 c.statcounter.com
@@ -33188,7 +33183,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -70089,7 +70083,6 @@ load.sst.chicome.co.uk
 load.sst.chivonygardens.com
 load.sst.cilantro.london
 load.sst.cinderellaeco.se
-load.sst.claireetmia.com
 load.sst.clementcombes.com
 load.sst.clementi-vuurovens.nl
 load.sst.clever-talents.de
@@ -73134,7 +73127,6 @@ mahfrwpkcnjcv.space
 mahid.hatbazar.online
 mahim.certifymeonline.net
 mahimeta.com
-mahin.brillondeco.com
 mahin.mahinagro.com
 mahjongdrabspatia.qpon
 mahjouwwbezzg.online
@@ -90127,7 +90119,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -98694,7 +98685,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -100926,6 +100916,7 @@ securecookiesdustininfo.dustinhome.no
 securecookiesdustininfo.dustinhome.se
 secured.bitcoinira.com
 secured.online.avon.com
+securedata.aiper.com
 securedata.aiper.store
 securedata.berlook.com
 securedata.bestellen-mijnspar.be
@@ -104135,6 +104126,7 @@ service-dev.idsync.analytics.yahoo.com
 service-ens.sueddeutsche.de
 service.arredamentopari.com
 service.athlon.com
+service.bechtle.com
 service.charitiesaidfoundation.org.uk
 service.e-volution.ai
 service.fastaxol.net
@@ -128453,6 +128445,7 @@ tbaqje.zadig-et-voltaire.com
 tbbvb.lyleandscott.com
 tbbzc.trtltravel.com
 tbdhap.gamesonly.at
+tbe.tom.ru
 tbedl.knix.ca
 tbex.ru
 tbezwqeyyioqa.site
@@ -138509,6 +138502,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -141441,7 +141435,6 @@ vssid.cc
 vsspdabuuewzo.space
 vst.c.appier.net
 vst.dfn-network.pro
-vst.sibnet.ru
 vstat.borderlessbd.com
 vstixgqbvxdlq.site
 vstserv.com
