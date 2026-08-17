@@ -6354,6 +6354,7 @@ adcamp.ru
 adcannyxml.com
 adcash.com
 adcast.deviantart.com
+adcast.ru
 adcdn.gamemeca.com
 adcdn.goo.ne.jp
 adcdn.pingan.com
@@ -7571,6 +7572,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -7596,7 +7598,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -8732,7 +8733,6 @@ advantage.digitalsunray.com
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
-advariant.com
 advarkads.com
 advbanners.global.ssl.fastly.net
 advbroker.ru
@@ -9601,6 +9601,7 @@ affiliates.thrixxx.com
 affiliates.treasureisland.com
 affiliates.ultrahosting.com
 affiliates.videoslots.com
+affiliates.vpn.ht
 affiliates.xapads.com
 affiliatesensor.com
 affiliatestonybet.com
@@ -10699,7 +10700,6 @@ alikeaddition.com
 aliloveyousaidthe.com
 alimama.alicdn.com
 alimama.com
-alime-pic.oss-cn-hangzhou.aliyuncs.com
 aline.alinecantarelli.com.br
 aline.institutoalinepinho.com
 alinerbespin.qpon
@@ -10758,7 +10758,8 @@ allergy.thermo.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11370,7 +11371,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -14557,6 +14557,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -14665,6 +14666,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.your.csc.com
 app.your.level3.com
 app.yrotary.com
@@ -15243,6 +15245,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -18859,7 +18862,6 @@ bindsthea.cyou
 binexceptingward.com
 bingads.microsoft.com
 binglecrimpy.cyou
-binh-chonthang7.weebly.com
 binhchon-gionghatvietnhi-2022.weebly.com
 binhchon-gionghatvietnhi-vong1-nam2022.weebly.com
 binhchonanhduthicuabe2022.weebly.com
@@ -23360,6 +23362,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.starseed.fr
 cdn.stat-rock.com
@@ -23451,6 +23454,7 @@ cdn.yld.is
 cdn.yodimedia.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zamunda.ru
 cdn.zx-adnet.com
 cdn.zxclan.com
 cdn00.sanko.ac.jp
@@ -28127,7 +28131,6 @@ crow.voracious.dev
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -31367,7 +31370,6 @@ data-28d1f65bc5.bnn.de
 data-28e246ff03.esquire.de
 data-29fb12b42c.prosiebensat1puls4.com
 data-2a012df8d7.alpenverein.de
-data-2af9963ee4.computerbild.de
 data-2af9963ee4.wieistmeineip.de
 data-2b120c98f2.azonline.de
 data-2ccf0ea3cc.esquire.de
@@ -32306,7 +32308,6 @@ data-ba652c7ba3.springerpflege.de
 data-bab9a31794.shz.de
 data-bae5a0a55a.apps.iocnt.de
 data-bb21a2f11b.bild.de
-data-bb21a2f11b.bz-berlin.de
 data-bb21a2f11b.fitbook.de
 data-bb21a2f11b.myhomebook-magazine.com
 data-bb21a2f11b.myhomebook.de
@@ -32316,7 +32317,6 @@ data-bb21a2f11b.sportbild.de
 data-bb21a2f11b.stylebook.de
 data-bb21a2f11b.techbook.de
 data-bb21a2f11b.travelbook.de
-data-bb4ada6163.travelbook.de
 data-bc153aec3e.radioguetersloh.de
 data-bc153aec3e.radiogueterslohhilft.de
 data-bc16fafbba.stadtbibliothek-reutlingen.de
@@ -32462,7 +32462,6 @@ data-d0d624845f.hcm-magazin.de
 data-d0efcc98f4.apps.iocnt.de
 data-d10cac15a4.onpulson.de
 data-d167bd4c4e.regenbogen.de
-data-d1cd281a03.myhomebook.de
 data-d29d7a3de4.apps.iocnt.de
 data-d3553711cd.firmenwissen.de
 data-d3ad057ab7.firmenauto.de
@@ -36092,7 +36091,6 @@ dibtk.medtronic.com
 dic9vgwbkxd8r.cloudfront.net
 dicecandies.com
 diceresembleshudder.com
-dichvuchuyentien-ind.weebly.com
 dichvucong-gov.com
 dichvucong-govvn.com
 dichvucong.hgov.cc
@@ -43371,9 +43369,7 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -44135,7 +44131,6 @@ fgmbp.txfowlers.com
 fgmpq.21scents.com
 fgnvnqsoqehlp.space
 fgoqfrzcwdmrh.online
-fgosob.unhcr.it
 fgp.philacct.com
 fgqcg.promixx.com
 fgqxcz.thehipstore.co.uk
@@ -44563,7 +44558,6 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -48028,7 +48022,6 @@ gif.brealtime.com
 gifsandbox.ssl2.duapps.com
 gift.skmshopbd.com
 giftandgamecentral.com
-giftbangbangtank.weebly.com
 giftclothings.com
 gifted-dealer.pro
 giftedhazelsecond.com
@@ -48093,7 +48086,6 @@ giongcatrienvong-gionghatvietnhi-mua3.weebly.com
 gionghatviet2021nhi.weebly.com
 gionghatvietnhi-mua01-nam2022.weebly.com
 gionghatvietnhi2022-thevoicekids.weebly.com
-gionghatvietnhinam.weebly.com
 gionghatvietnhinew.weebly.com
 gionghatvietnhithisinh2021.weebly.com
 gionghatvietnhivietnam2022.weebly.com
@@ -49435,6 +49427,7 @@ govn.cc
 govzzpzvfwctr.site
 gownbea.icu
 gowofhdmdtdhi.online
+gowoman.ru
 goxfyr.popy.jp
 goxuptilts.cyou
 gozdf.doctordutch.co
@@ -55424,7 +55417,6 @@ hnytelomic.qpon
 hnytrd.ssfshop.com
 hnzjwtcajadzi.space
 hoafot.itoman.com
-hoakhoithanhlichmamnon9999.weebly.com
 hoamt60fa.com
 hoanxhazxowrv.site
 hoaqzs.manier.ro
@@ -57556,7 +57548,6 @@ images.e.pcm.com
 images.e.realtor.com
 images.e.transunion.com
 images.e.xtelligentmedia.com
-images.e2.aig.com
 images.e3.aig.com
 images.edgenuity.com
 images.edm.carnivalaustralia.com
@@ -65900,7 +65891,6 @@ lieforepawsado.com
 liegelygosport.com
 liegelygothism.shop
 liejowler.com
-lienketkiemtien.weebly.com
 lienminhshop.vn
 lienphunu.com
 lienquanvip.com
@@ -75102,7 +75092,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -81800,7 +81789,6 @@ nevfbf.icu
 neviju.netmonet.co
 nevoidinanely.shop
 new-access802.net
-new-adtest.pages.dev
 new-cdn.blueseed.tv
 new-collect.albacross.com
 new-incoming.email
@@ -82170,14 +82158,11 @@ nhancoder.com
 nhanquanrofreene.weebly.com
 nhanquatruykichmienphi.blogspot.com
 nhanskinnam-2015.weebly.com
-nhantien-playonline.weebly.com
-nhantien-quocte-to-western-union-online.weebly.com
 nhantien120s-ollbankingz.weebly.com
 nhantiendichvu247.weebly.com
 nhantienipaymobile-247.weebly.com
 nhantienngoaiteusd.weebly.com
 nhantienonlinemoneygram.weebly.com
-nhantienquocte-nhanh-westernunion.weebly.com
 nhantienquocte249.weebly.com
 nhantienquocte275.weebly.com
 nhantienquoctev3.vercel.app
@@ -89444,6 +89429,7 @@ play.aniview.com
 play.funspace.fr
 play.leadzu.com
 play.milly-style.co.il
+play.nbryb.com
 play.rooski.net
 play.selectmedia.asia
 play.showheroes.com
@@ -90085,6 +90071,7 @@ pornogrund.com
 pornoheat.com
 pornojux.com
 pornomasse.com
+pornorunet.ru
 porntrack.com
 pornvideos.casa
 porojo.net
@@ -90152,6 +90139,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -97799,7 +97787,6 @@ rum-metrics.bunny.net
 rum-openway.guance.com
 rum-reporter-prod.exp.bn.nr
 rum-static.pingdom.net
-rum.aliyuncs.com
 rum.api.intuit.com
 rum.azion.com
 rum.azioncdn.net
@@ -98730,6 +98717,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -100178,6 +100166,7 @@ scendeogaea.cfd
 scenicapparel.com
 scenicchicago.com
 scenicdrops.com
+sceno.ru
 scented-cash.pro
 scented-leather.com
 scentedkindly.com
@@ -106750,7 +106739,6 @@ shopgamerobux.com
 shopgcaothu.vn
 shopgem.net
 shophaoquang.com
-shophkt294.weebly.com
 shophungakira.com
 shopify-fast-tags.deliverr.com
 shopify-webhooks.sailthru.com
@@ -110629,6 +110617,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -118759,7 +118748,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -124149,7 +124137,6 @@ std.stdrapidtestkits.com
 std72yw0s.com
 stdirection.com
 stdm.ayudante.jp
-stdnelfzald.com
 ste.siemens-healthineers.cloud
 ste.siemens-healthineers.com
 ste000u5mk.com
@@ -125804,7 +125791,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetsoul.net
 sweetstudents.com
 swelen.com
@@ -134175,7 +134161,6 @@ tracking.seton.it
 tracking.seura.com
 tracking.sexcash.com
 tracking.seysara.com
-tracking.sezzle.com
 tracking.shaadi.com
 tracking.shanmart.com.bd
 tracking.sharplink.us
@@ -138550,7 +138535,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -142176,7 +142160,6 @@ warymoment.pro
 warypool.com
 warypress.pro
 was.epson.com
-was.stubhub.com
 was.vodafone.de
 was.vodafone.nl
 wasangomartens.com
@@ -143294,7 +143277,6 @@ westcapitalbank.com
 westcoa.com
 western-unions24h.weebly.com
 westernonionvietnam24-24.weebly.com
-westernunion-247online-banking.weebly.com
 westernunion-onlinebanking.weebly.com
 westernunionbankvn.wixsite.com
 westernunions6886z.weebly.com
@@ -147327,7 +147309,6 @@ xmxhyz.markenbaumarkt24.de
 xmyvhu.soxo.pl
 xmzppziqajevl.site
 xn--2ss830adjbqy7h.xn--fiqs8s
-xn--momovints1-o8a64b3904adea8q.weebly.com
 xn--nhantienonline1k87s1-6hf.weebly.com
 xn--nhnqumomouimomo-bjb0d67cq5glw6t.weebly.com
 xn--w9q675dm1p7em.net
@@ -150632,7 +150613,6 @@ zvhct.zorrata.com
 zvhjk.petite-plume.com
 zvhkzb.ambiendo.de
 zvhtzl.icu
-zvietnakello.weebly.com
 zvjbgsqpcnlku.site
 zvjinchjnsjje.site
 zvjsiihwctudv.online
