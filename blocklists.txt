@@ -7769,7 +7769,6 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
-ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -7795,6 +7794,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -8940,7 +8940,6 @@ advantage.rsabroker.ca
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
-advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -11031,8 +11030,7 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11692,6 +11690,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15249,7 +15248,6 @@ app.enable.atmel.com
 app.energiedirect.at
 app.engineering.sae.org
 app.entertainment.comcast-spectacor.com
-app.etsumartincenter.org
 app.events.ticketswest.com
 app.eventsinfo.semo.edu
 app.exponential.com
@@ -15658,6 +15656,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -25307,6 +25306,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -48803,7 +48803,6 @@ falcon.useinsider.com
 falconduties.shop
 falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -48923,7 +48922,6 @@ farflung-permission.com
 farflung-switch.com
 farflunglong.pro
 fargwyn.com
-farha.farhahijabfashion.com
 farhp.nadaderm.com
 faris.stape.monster
 farm-cn.plista.com
@@ -50150,7 +50148,6 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -52915,7 +52912,6 @@ galactify.unrulymedia.com
 galaksion.com
 galapeequoniam.qpon
 galaxiemedia.fr
-galaxien.com
 galaxymeet.ru
 galaxypush.com
 galeaeevovae.com
@@ -58683,7 +58679,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -83636,7 +83631,6 @@ lxadqdidnsnzd.online
 lxbwquyuoovrx.space
 lxckra.lottemart.com
 lxfiflqhawqzr.space
-lxgiykiqe.com
 lxgnfvnuagkua.website
 lxhwfufvlksxl.site
 lxisvvxfdqozy.site
@@ -86422,7 +86416,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -87362,7 +87355,6 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -103802,6 +103794,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -113250,6 +113243,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -127996,6 +127990,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -132294,7 +132289,6 @@ ss.elevaite.com.au
 ss.elevhalsan.se
 ss.elewell.shop
 ss.elifozoglucollection.com
-ss.elitedigitalzone.store
 ss.elitefootball.com.au
 ss.elixamd.com
 ss.elmeholm.dk
@@ -137326,7 +137320,6 @@ sst.indojunkie.com
 sst.ineko.de
 sst.infectious.com.au
 sst.inferriate.it
-sst.infinitebundles.com
 sst.infinityorganicbd.com
 sst.inflowkids.com.br
 sst.inflowsofa.com.br
@@ -138904,7 +138897,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -147807,7 +147799,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetsoul.net
 sweetstudents.com
 swelen.com
@@ -156075,7 +156066,6 @@ tracker-proxy.getmimo.com
 tracker-rec.smart-bdash.com
 tracker-remp.active.radio
 tracker-server.high-cdn.com
-tracker-tds.info
 tracker-v4.gamedock.io
 tracker-zlivestream.zapps.vn
 tracker.3dissue.com
@@ -162200,7 +162190,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -169151,6 +169140,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
