@@ -7249,7 +7249,6 @@ adobe-analytics-dc.amlc.eu
 adobe-analytics-dc.amlc.nl
 adobe-analytics-dc.belastingdienst.nl
 adobe-analytics-dc.douane.nl
-adobe-analytics-dc.fiod.nl
 adobe-analytics.vionicshoes.com
 adobe-dev-landingpageprefix.descubre.interbank.pe
 adobe-ep.cms.gov
@@ -7769,6 +7768,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -15533,7 +15533,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -15656,7 +15655,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -16273,7 +16271,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -22479,7 +22476,6 @@ buysellads.net
 buysyngas-ss.primeshopers.com
 buyt.in
 buytraf.ru
-buyturbodrain-sst.shopperfocas.com
 buytvantenna-ss.checkoutera.com
 buytvantenna-sst.primeshopers.com
 buyvoltcore-sst.dealshopa.com
@@ -25306,7 +25302,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -30765,7 +30760,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -48803,6 +48797,7 @@ falcon.useinsider.com
 falconduties.shop
 falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -50148,6 +50143,7 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -52912,6 +52908,7 @@ galactify.unrulymedia.com
 galaksion.com
 galapeequoniam.qpon
 galaxiemedia.fr
+galaxien.com
 galaxymeet.ru
 galaxypush.com
 galeaeevovae.com
@@ -71978,7 +71975,6 @@ js.wpnsrv.com
 js.xemkqxs.com
 js.xz6d.com
 js.yjbys.com
-js1.122cha.com
 js1.haoge500.com
 js154azzn.com
 js2.ad-score.com
@@ -90993,7 +90989,6 @@ miscopycorellaaxmaker.qpon
 miscreantmoon.com
 miscropsite.qpon
 miserableconcept.com
-miserly-apple.pro
 miserly-wrap.com
 miseshogglerstrit.cyou
 miseventos.orem.com.mx
@@ -103794,7 +103789,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -113243,7 +113237,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -138897,6 +138890,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
