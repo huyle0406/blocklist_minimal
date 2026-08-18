@@ -6124,6 +6124,7 @@ ad.us.sinaimg.cn
 ad.usatoday.com
 ad.ust-ad.com
 ad.utop.ir
+ad.velomania.ru
 ad.video-mech.ru
 ad.vidver.to
 ad.vidverto.io
@@ -7771,6 +7772,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -8942,6 +8944,7 @@ advantage.rsabroker.ca
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
+advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -11035,8 +11038,7 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11697,6 +11699,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -19872,7 +19875,6 @@ bhs.absolutepep.com
 bhs.agelessvitalitypeptides.com
 bhs.alohapeptides.com
 bhs.americanpeptideresearch.net
-bhs.aminovault.com
 bhs.apexlabpeptides.com
 bhs.atomixresearch.com
 bhs.aurumpeptidelabs.com
@@ -30607,6 +30609,7 @@ crow.voracious.dev
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -42743,6 +42746,7 @@ dsp.zog.link
 dsp3.adtelligent.com
 dsp5stero.com
 dspapi.bidtellect.com
+dsparking.com
 dspasv.com
 dspbyt.com
 dspchided.com
@@ -52952,6 +52956,7 @@ galactify.unrulymedia.com
 galaksion.com
 galapeequoniam.qpon
 galaxiemedia.fr
+galaxien.com
 galaxymeet.ru
 galaxypush.com
 galeaeevovae.com
@@ -58725,6 +58730,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -86490,6 +86496,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -87429,6 +87436,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -118932,7 +118940,6 @@ server.rafaeldanilo.com
 server.rafaelleandro.com.br
 server.rafaelleandrocop.com.br
 server.rafaelmoraisfotografo.com.br
-server.rafaelvissozo.com.br
 server.rafatreinador.com
 server.raffaecomm.com.br
 server.ragadvogados.com
@@ -123565,7 +123572,6 @@ shoughsluggerstyles.cyou
 shoukigaigoors.net
 shoulderinedible.com
 shoversuersjupard.cyou
-shovon.zelonii.com
 show-creative1.com
 show-sb.com
 show.afrobeatstotheworld.com
@@ -169260,6 +169266,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
