@@ -7769,7 +7769,6 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
-ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -11032,8 +11031,6 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -11694,6 +11691,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -16276,7 +16274,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -19935,6 +19932,7 @@ bhs.novagloresearch.com
 bhs.novapeptidesupply.com
 bhs.nusciencepeptides.com
 bhs.olympexsolutions.com
+bhs.onyxbiolabs.com
 bhs.optimal-pep.com
 bhs.orbitrexpeptide.is
 bhs.orosresearch.com
@@ -23110,7 +23108,6 @@ ca.lijit.pixel.invitemedia.com
 ca.net.jumia.co.ke
 ca.rainblow.xxx
 ca.ssl.holdmybeerconsulting.com
-ca.starwank.com
 ca.thepornstar.com
 ca.transhero.com
 ca.trashreality.com
@@ -30586,6 +30583,7 @@ crow.voracious.dev
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -33536,7 +33534,6 @@ d4a46e4655.700f312054.com
 d4ax0r5detcsu.cloudfront.net
 d4bt5tknhzghh.cloudfront.net
 d4bx2if8xmi89.cloudfront.net
-d4cc84626a.f29c4af968.com
 d4cxdtup9.com
 d4dc5a447c.com
 d4dlgw9mi.com
@@ -39333,7 +39330,6 @@ dd.ukko.hu
 dd.vanharvey.com
 dd133.com
 dd1xbevqx.com
-dd268fdaa5.com
 dd56f6c93d.415f764d57.com
 dd6ym5in4ovm3.cloudfront.net
 dd6zx4ibq538k.cloudfront.net
@@ -42714,6 +42710,7 @@ dsp.zog.link
 dsp3.adtelligent.com
 dsp5stero.com
 dspapi.bidtellect.com
+dsparking.com
 dspasv.com
 dspbyt.com
 dspchided.com
@@ -48802,7 +48799,9 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -56092,7 +56091,6 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
-grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -86326,7 +86324,6 @@ mas.hronboard.me
 mas.nth.ch
 mas.sector.sk
 masakeku.com
-masasaudi.com
 masbpi.com
 mascara21.top
 mascaraowners.com
@@ -103800,7 +103797,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -106251,7 +106247,6 @@ q2fwgl4q8.com
 q2hno7n37y4.kh6nxzf3ozmebjy2nq.cyou
 q2i8kd5n.de
 q2tqrsh02.com
-q31cwh.5l7kmfxje2933jb8pi1x1cz.cyou
 q3b8j7.uthqnrwntwqxg8h8h1wgx5b.cyou
 q3rlg1flo.com
 q4.senzastressristrutturare.com
@@ -106724,7 +106719,6 @@ qithq.pinsandaces.com
 qitkpdaoujpxu.space
 qituduwios.com
 qiujntgyhbgog.website
-qiuxl11.cn
 qiv532lr6.com
 qivaiw.com
 qivblppvkfdxy.online
@@ -110113,7 +110107,6 @@ rhgxenlijkggd.website
 rhhahzqblcxem.online
 rhhpp.drinkavaline.com
 rhhvkmwlxeyst.store
-rhibllcwm.com
 rhihi.weretheguys.com
 rhinaglauke.cyou
 rhinfyfqtvift.site
@@ -112503,7 +112496,6 @@ s-clk.rmp.rakuten.com
 s-cs.rmp.rakuten.com
 s-data-home360.home360.lt
 s-eu-1.pushpushgo.com
-s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
 s-ia.informatoreagrario.it
 s-img.adskeeper.co.uk
@@ -113251,7 +113243,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -115752,7 +115743,6 @@ securecookiesdustininfo.dustinhome.se
 secured.bitcoinira.com
 secured.online.avon.com
 securedata.aiper.com
-securedata.aiper.store
 securedata.berlook.com
 securedata.bestellen-mijnspar.be
 securedata.bioplanet.be
@@ -127999,7 +127989,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -138908,6 +138897,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -147809,6 +147799,7 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
+sweetslope.com
 sweetsoul.net
 sweetstudents.com
 swelen.com
@@ -162200,7 +162191,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -169151,7 +169141,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
