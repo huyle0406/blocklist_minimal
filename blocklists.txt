@@ -195,6 +195,7 @@
 1.07swz.com
 1.1010pic.com
 1.11130.com.cn
+1.11467.com
 1.201980.com
 1.5000yan.com
 1.51dongshi.com
@@ -4633,6 +4634,7 @@ aa.dyson.de
 aa.dyson.dk
 aa.dyson.es
 aa.dyson.fr
+aa.dyson.ie
 aa.dyson.it
 aa.dyson.nl
 aa.dyson.pt
@@ -6849,7 +6851,6 @@ adhouse.pro
 adhub.digital
 adhub.media
 adhub.porcino-kinoko.workers.dev
-adhub.ru
 adhudg.nec-lavie.jp
 adhunt.net
 adhunter.media
@@ -7273,6 +7274,7 @@ adobe-metrics.zipmortgagefinancing.com
 adobe-nonsecure.cjone.com
 adobe-secure.cjone.com
 adobe-sync.dotomi.com
+adobe-telemetry.bamboohr.com
 adobe.adhaven.com
 adobe.aeonbank.co.jp
 adobe.autoscout24.at
@@ -7770,6 +7772,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -11036,7 +11039,6 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -15544,7 +15546,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -16285,7 +16286,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -25325,7 +25325,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -27134,7 +27133,6 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -32046,7 +32044,6 @@ d.focus-shop.com.ua
 d.footballgadgets.shop
 d.formulafina.com
 d.forwardmarketing.nl
-d.freetable.com
 d.frohnatur.tirol
 d.futureofbiohacking.com
 d.gaertenundmehr.ch
@@ -34054,6 +34051,7 @@ darlingyechs.qpon
 darnobedienceupscale.com
 darnuid.netflix.com
 daro.so
+darren01.oss-cn-beijing.aliyuncs.com
 dart-apac.l.doubleclick.net
 dart.l.doubleclick.net
 darvin-ec.ads.heytapmobi.com
@@ -35532,6 +35530,7 @@ data-bb21a2f11b.myhomebook-magazine.com
 data-bb21a2f11b.myhomebook.de
 data-bb21a2f11b.petbook-magazine.com
 data-bb21a2f11b.petbook.de
+data-bb21a2f11b.sportbild.de
 data-bb21a2f11b.stylebook.de
 data-bb21a2f11b.techbook.de
 data-bb21a2f11b.travelbook.de
@@ -36282,6 +36281,7 @@ data.alerts.business.postbank.de
 data.alerts.deutsche-bank.de
 data.alerts.fyrst.de
 data.alerts.norisbank.de
+data.alerts.postbank.de
 data.algeteknik.dk
 data.alhambraventure.com
 data.alivioproficial.com
@@ -37039,6 +37039,7 @@ data.email.marchesi1824.com
 data.email.mayoclinic.org
 data.email.metro.hu
 data.email.miumiu.com
+data.email.nab.com.au
 data.email.nabtrade.com.au
 data.email.ondemand.sbs.com.au
 data.email.partycity.com
@@ -37447,6 +37448,7 @@ data.info.gobrightline.com
 data.info.infomoney.com.br
 data.info.intuitdome.com
 data.info.lifemiles.com
+data.info.mayoclinic.org
 data.info.metro.fr
 data.info.nordea.dk
 data.info.nordea.fi
@@ -38243,6 +38245,7 @@ data.purple.au
 data.putzen-wie-die-profis.de
 data.qaegift.giftcards.com
 data.qamailing.mcafee.com
+data.qamarketing.giftcards.com
 data.qr.test.ajo.adobe.com
 data.qrgroup.qatarairways.com
 data.quadthera.us
@@ -38485,6 +38488,7 @@ data.stageegift.giftcards.com
 data.stageemails.subway.com
 data.stagemail.galicia.ar
 data.stagemailing.mcafee.com
+data.stagemarketing.giftcards.com
 data.stagemktg.subway.com
 data.stageno.reply.fpl.com
 data.stalmal.olsztyn.pl
@@ -38711,6 +38715,7 @@ data.uat.subscription.research.db.com
 data.uat.test.sparebank1.no
 data.uatbusiness.deutsche-bank.de
 data.uatbusiness.fyrst.de
+data.uatbusiness.postbank.de
 data.uatinvestmentbank.db.com
 data.uatnews.deutsche-bank.de
 data.uatnews.fyrst.de
@@ -40499,7 +40504,6 @@ di2.zooplus.es
 di2e2m1cmrtc9.cloudfront.net
 di2xlfgjbl0v7.cloudfront.net
 di2xwvxz1jrvu.cloudfront.net
-di7stero.com
 diagmon-serviceapi.samsungdm.com
 diagnose.igstatic.com
 diagnosisintriguingorganizer.com
@@ -43357,6 +43361,7 @@ dvxgccnsejtgm.space
 dvymkekwkkgdi.space
 dvypar.com
 dvzycytrxbxav.space
+dw-eu.com.com
 dw.dewa.pl
 dw55pg05c2rl5.cloudfront.net
 dw7u.hotelsbarriere.com
@@ -44701,6 +44706,7 @@ edge.nusalayer.com
 edge.panypedazo.com
 edge.paymypremiums.com
 edge.pictet.co.jp
+edge.postbank.de
 edge.postechnologygroup.com
 edge.power97.com
 edge.prelys-courtage.com
@@ -45462,6 +45468,7 @@ eloqua-tracking.unity3d.com
 eloqua-trackings.unity.com
 eloqua-trackings.unity3d.com
 eloqua.acspubs.org
+eloqua.apexsql.com
 eloqua.cadriamarketing.com
 eloqua.certiport.com
 eloqua.decomworld.com
@@ -45793,6 +45800,7 @@ email.alerts.business.postbank.de
 email.alerts.deutsche-bank.de
 email.alerts.fyrst.de
 email.alerts.norisbank.de
+email.alerts.postbank.de
 email.apexauctions.com
 email.awscloud.com
 email.axisintegrated.ca
@@ -45821,6 +45829,7 @@ email.news.deutsche-bank.de
 email.news.fyrst.de
 email.news.investmentbank.db.com
 email.news.norisbank.de
+email.news.postbank.de
 email.notification.investmentbank.db.com
 email.participaction.com
 email.pcmaconvene.org
@@ -54522,7 +54531,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -56159,7 +56167,6 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
-grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -58750,6 +58757,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -60683,7 +60691,6 @@ gtm.realplancredito.com
 gtm.reathlete.com
 gtm.rebelwalls.com
 gtm.rebranding.multipathprojects.com.ng
-gtm.recebidosagency.app
 gtm.recosrl.net
 gtm.recoveryhousedpn.com
 gtm.recyclingsolution.com.br
@@ -63463,6 +63470,7 @@ hdsrc-a.akamaihd.net
 hdst.benlee.de
 hdst.lonsdale.de
 hdtracker.ru
+hdtu.oss-cn-beijing.aliyuncs.com
 hduolaveybzmo.site
 hduuf.mesotheliomaclaimscenter.info
 hduwzmmomocze.store
@@ -82255,6 +82263,7 @@ log.hm.baidu.com
 log.hotweathers.live
 log.hypebeast.com
 log.idnes.cz
+log.iflytek.com
 log.ifood.tv
 log.info.polostrategiconazionale.it
 log.infonet.vn
@@ -91148,6 +91157,7 @@ mit.deutschewealth.com
 mit.dslbank.de
 mit.dws.com
 mit.dws.de
+mit.postbank.de
 mitbahon.co.il
 mitblcskeqhxr.site
 mite.cotinga.io
@@ -91674,6 +91684,7 @@ mobads-pre-config.cdn.bcebos.com
 mobads.baidu.com
 mobagent.com
 mobalives.com
+mobantong.oss-cn-hangzhou.aliyuncs.com
 mobclix.com
 mobday.com
 mobedmeeters.cfd
@@ -103125,6 +103136,7 @@ plateau77.com
 platesskull.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
+platform-metrics-api.sharethis.com
 platform.33across.com
 platform.adcannyads.com
 platform.artilleryads.com
@@ -104703,6 +104715,7 @@ private4.com
 privatecash.com
 privateclient.hubinternational.com
 privateseiten.net
+privatestats.whatsapp.net
 privatewebseiten.com
 privatproxy-blog.com
 privatproxy-cdn.com
@@ -107942,6 +107955,7 @@ r.wowreality.info
 r.yabancidizi.in
 r.z2.fm
 r.z3.fm
+r.zpnlh2qkvxzqjkln8yv1k4tq97ppozo4izi.cyou
 r0.adstag0102.xyz
 r0.mail.ru
 r0.mradx.net
@@ -110508,7 +110522,6 @@ riverhit.com
 riverlead.ru
 riveter29.com
 riveter35.top
-rivne.space
 riwkmo.spacemarket.com
 riwnmh.novasol.co.uk
 rixengine.com
@@ -112294,6 +112307,7 @@ rum-metrics.bunny.net
 rum-openway.guance.com
 rum-reporter-prod.exp.bn.nr
 rum-static.pingdom.net
+rum.aliyuncs.com
 rum.api.intuit.com
 rum.azion.com
 rum.azioncdn.net
@@ -113396,7 +113410,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -113429,7 +113442,6 @@ s.widgren.com
 s.wlink1.com
 s.wlink2.com
 s.wrebit.se
-s.wtliquidators.com
 s.x47b2v9.com
 s.xansrv.com
 s.xd-design.com
@@ -128146,7 +128158,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -128672,6 +128683,7 @@ smetrics.telecel.com.gh
 smetrics.telegraph.co.uk
 smetrics.telenet.be
 smetrics.telenor.dk
+smetrics.telenor.se
 smetrics.teletoon.com
 smetrics.telustvplus.com
 smetrics.ten.com.au
@@ -128724,6 +128736,7 @@ smetrics.thrifty.com
 smetrics.thrivent.com
 smetrics.thriventfinancial.com
 smetrics.thymes.com
+smetrics.tiaa-cref.org
 smetrics.tiaa.org
 smetrics.tiangandpartners.com
 smetrics.ticket.dk
@@ -129330,6 +129343,7 @@ sms.apac.coca-cola.com
 sms.bartelldrugs.com
 sms.business.deutsche-bank.de
 sms.business.fyrst.de
+sms.business.postbank.de
 sms.campaigns.cbussuper.com.au
 sms.campaigns.jobs.army.mod.uk
 sms.cantire.ca
@@ -136201,6 +136215,7 @@ sst.casinorecht.at
 sst.cassaros.fr
 sst.castalie.com
 sst.castellani.eu
+sst.catolicabs.porto.ucp.pt
 sst.catrindecor.com
 sst.cavefencing.co.uk
 sst.cavernhold.com
@@ -139052,6 +139067,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -145723,6 +145739,7 @@ stats.te.com
 stats.tedbaker.com
 stats.tehila.gov.il
 stats.telecom.co.nz
+stats.telenor.se
 stats.temptcdn.com
 stats.tena.ch
 stats.tena.cl
@@ -147412,6 +147429,7 @@ support.ricoh.de
 support.ricoh.fr
 support.tbllprem.com
 support.tenten.vn
+support2.flex.com
 support3.flex.com
 supportedbailednotions.com
 supporters.redbankgreen.com
@@ -150222,6 +150240,7 @@ tags.voatibetan.com
 tags.voatiengviet.com
 tags.voaturkce.com
 tags.voazimbabwe.com
+tags.vodafone.de
 tags.vodafone.pt
 tags.voluntariadocaixabank.org
 tags.votvot.tv
@@ -151869,7 +151888,6 @@ tfzzy4objtvy6.hlzn71bh261zzgrtx8vklvgp3q.cyou
 tg.coffeeandbibletime.com
 tg.dr.socdm.com
 tg.minfin.com.ua
-tg.mybb.ru
 tg.vartesan.com.br
 tg0val4vb.com
 tg1.adservrs.com
@@ -156724,6 +156742,7 @@ tracking.destacame.com.mx
 tracking.dev2.pepsicopartners.com
 tracking.dfinsolutions.com
 tracking.di.se
+tracking.diet.mayoclinic.org
 tracking.diginetica.net
 tracking.digitalid.co.uk
 tracking.digitalocean.com
@@ -161709,6 +161728,7 @@ unrvfdnjigyms.space
 unrzmszjmldfr.website
 uns.comunicaciones.santander.cl
 uns.comunicaciones.santander.com.ar
+uns.stageegift.giftcards.com
 unsafebernice.cyou
 unsaltyrisala.qpon
 unsawedetypicbevies.cyou
@@ -161739,6 +161759,7 @@ unstopsstencil.qpon
 unstripsawmont.com
 unsub.crm-edm.thsrc.com.tw
 unsub.markadsmal.islandsbanki.is
+unsubscirbe-email.stagemarketing.giftcards.com
 unsubscribe.cp.pt
 unsubscribe.datadelivers.com
 unsubscribe.e.ambetterhealth.com
@@ -162352,7 +162373,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -166094,6 +166114,7 @@ wa.tjmaxx.tjx.com
 wa.tribe.dk
 wa.ui-portal.de
 wa.vodafone.cz
+wa.vodafone.de
 wa.vodafone.nl
 wa.vodafone.pt
 wa.wawlabs.com
@@ -172219,6 +172240,7 @@ xpfpctnclgruq.online
 xpgqx.teds.com.au
 xphrpolxrhqqf.website
 xpj08.oss-cn-beijing.aliyuncs.com
+xpjcg.oss-accelerate.aliyuncs.com
 xpjelhadgvkhc.space
 xpjfvzoqznrpg.site
 xpjtjsfbnxorq.site
