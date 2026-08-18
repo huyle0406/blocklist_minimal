@@ -6512,6 +6512,7 @@ adcamp.ru
 adcannyxml.com
 adcash.com
 adcast.deviantart.com
+adcast.ru
 adcct.advancecctvbd.com
 adcdn.gamemeca.com
 adcdn.goo.ne.jp
@@ -11031,6 +11032,9 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11690,7 +11694,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15534,6 +15537,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -15656,7 +15660,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -16273,6 +16276,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -16443,7 +16447,6 @@ asiacpx.com
 asiafriendfinder.com
 asiamarketing.sedgwick.com
 asiangfsex.com
-asianmedia.com
 asiantraffic.net
 asianxhub.com
 asimgs.pplive.cn
@@ -24520,7 +24523,6 @@ cbfvr.dumasai.co
 cbhadfiwcdgsl.space
 cbhzxctgm.com
 cbihvjploytkp.store
-cbizitmyaprju.com
 cbjflptthbjnb.space
 cbjk6j85d.com
 cbjs.baidu.com
@@ -29406,7 +29408,6 @@ convtrack.bitsacademy.com.br
 convtrack.canguru.life
 convtrack.legaldesignbits.com
 convtrackapi.hiperbold.com.br
-conyz.cn
 coobuo.pinkpanda.cz
 cooch.tv
 coochdiswitmurral.cfd
@@ -30585,7 +30586,6 @@ crow.voracious.dev
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -38393,7 +38393,6 @@ data.simdigitalgoias.com.br
 data.simdigitalrs.com.br
 data.simitajai.psi.br
 data.simriograndedosul.com.br
-data.sirlinksalot.co
 data.sk.golden1center.com
 data.sk.kingsteamstore.com
 data.sk.sacramentokings.com
@@ -42715,7 +42714,6 @@ dsp.zog.link
 dsp3.adtelligent.com
 dsp5stero.com
 dspapi.bidtellect.com
-dsparking.com
 dspasv.com
 dspbyt.com
 dspchided.com
@@ -48804,9 +48802,7 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -52918,7 +52914,6 @@ galactify.unrulymedia.com
 galaksion.com
 galapeequoniam.qpon
 galaxiemedia.fr
-galaxien.com
 galaxymeet.ru
 galaxypush.com
 galeaeevovae.com
@@ -60935,7 +60930,6 @@ gtm.shifastore.com.sa
 gtm.shigoto.me
 gtm.shinsenshop.com
 gtm.shockproof.se
-gtm.shoestime.com.br
 gtm.shop-goodvibesonly.com
 gtm.shop-islandroots.com
 gtm.shop-luminate.com
@@ -71517,7 +71511,6 @@ joetec.net
 joeyesfavn.cfd
 jofbu.com
 jofddomgfztan.website
-jofyaljkygvbqh.com
 jogca.nautica.com
 joggeddefoam.com
 joggingavenge.com
@@ -83643,7 +83636,6 @@ lxadqdidnsnzd.online
 lxbwquyuoovrx.space
 lxckra.lottemart.com
 lxfiflqhawqzr.space
-lxgiykiqe.com
 lxgnfvnuagkua.website
 lxhwfufvlksxl.site
 lxisvvxfdqozy.site
@@ -86429,7 +86421,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -96362,7 +96353,6 @@ nuquds.citizenwatch.com
 nuqwe.com
 nuqxpulhjilij.space
 nur.gratis
-nur.lavueltaesdioss1.com
 nurabreeze-ss.offeroshop.com
 nuracam-ss.checkoutera.com
 nuracoat-ss.checkoutera.com
@@ -103810,6 +103800,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -110122,6 +110113,7 @@ rhgxenlijkggd.website
 rhhahzqblcxem.online
 rhhpp.drinkavaline.com
 rhhvkmwlxeyst.store
+rhibllcwm.com
 rhihi.weretheguys.com
 rhinaglauke.cyou
 rhinfyfqtvift.site
@@ -117163,7 +117155,6 @@ server.clubedodescontobrasil.com.br
 server.cmmaiadigitalmarketing.com.br
 server.cncmachineschool.com
 server.coachescollective.com.au
-server.coalafestival.pt
 server.coastclothing.com
 server.cocktail-joe.de
 server.colegiopresbiterianodobras.com
@@ -138917,7 +138908,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -143590,6 +143580,7 @@ stape.superbetgirouganhou.online
 stape.superganhobet.com
 stape.superhot.com.br
 stape.supporthealth.com.br
+stape.supremoconsorcios.com.br
 stape.surgicalrepublic.com
 stape.surveysme.io
 stape.suspeitovinho.com.br
@@ -147818,7 +147809,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetsoul.net
 sweetstudents.com
 swelen.com
@@ -162210,6 +162200,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -169297,7 +169288,6 @@ www.as1131.online
 www.asadcdn.com
 www.aservice.tools
 www.asiacpx.com
-www.asianmedia.com
 www.askingpoint.com
 www.assoc-amazon.com
 www.atad.gofokus.com
