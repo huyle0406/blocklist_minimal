@@ -1023,7 +1023,6 @@
 3347.wolf-gordon.com
 3347.wolfgordon.com
 33648b3a5d.ee30f51e20.com
-33773a42d8.944ef08b40.com
 338023da13.39d929a029.com
 338c72b7a4.b0f01ce38a.com
 3399beca29.com
@@ -2077,7 +2076,6 @@
 79xmz3lmss.com
 7a0bb92c6b.0c174010e1.com
 7a1d2e7b26.a0948db4ee.com
-7a1e06349c.4f9fbf3477.com
 7a3a4ea153.6a7eac2034.com
 7a3c825c8f.com
 7a8fb920fc.com
@@ -8947,6 +8945,7 @@ advantage.rsabroker.ca
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
+advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -11041,7 +11040,6 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
@@ -16293,6 +16291,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -18552,6 +18551,7 @@ banners.bol.com.br
 banners.cams.com
 banners.cincinnatimagazine.com
 banners.copyscape.com
+banners.czi.cz
 banners.defenceweb.co.za
 banners.dfbanners.com
 banners.direction-x.com
@@ -23033,7 +23033,6 @@ c20700ec5a.com
 c212.net
 c22x1.xcdn.ovh
 c2505048e9.com
-c280897e66.6c32ad026d.com
 c296565d82.f32bcceea3.com
 c2a7e16670.3bc2a6115d.com
 c2b92903fa.com
@@ -25346,6 +25345,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -27154,6 +27154,7 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -30638,7 +30639,6 @@ crow.voracious.dev
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -46654,7 +46654,6 @@ ep.umobile.pl
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
-epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -50238,7 +50237,6 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -86568,7 +86566,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -87510,7 +87507,6 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -95116,7 +95112,6 @@ ngksmiemlxfik.website
 nglmedia.com
 nglqmotpfinwq.website
 ngmamfwwpqzny.site
-ngmco.net
 ngmdyqmrfvdzp.space
 ngoahotanglong.vn
 ngpao.mesotheliomaveterans.org
@@ -103983,6 +103978,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -107537,7 +107533,6 @@ quatangskin1.weebly.com
 quatetff2020.weebly.com
 quaybeware.com
 qubaa.tnuck.com
-quber.ru
 qubhjnodheizn.site
 qubisticss.com
 qubitanalytics.appspot.com
@@ -118487,6 +118482,7 @@ server.mailcaptain.io
 server.mairanaestetica.com
 server.maisplataforma.com.br
 server.maisquevoceimagina.visitepomerode.com.br
+server.majestobd.com
 server.makefire.fr
 server.makeupbox.xerobd.com
 server.malabismenswear.com
@@ -148037,7 +148033,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetsoul.net
 sweetstudents.com
 swelen.com
@@ -169407,7 +169402,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
