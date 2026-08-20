@@ -7809,7 +7809,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -11049,6 +11048,7 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -20437,7 +20437,6 @@ bizzclick.com
 bj.imp.voiceads.cn
 bj2550.com
 bj2rrrjb.xyz
-bj6535jz.xyz
 bj9zvb5ih.com
 bja2.destinia.cz
 bjads.bejbej.ca
@@ -25361,6 +25360,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -27164,7 +27164,6 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -30836,6 +30835,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -39285,7 +39285,6 @@ dc9xwpjprguup.cloudfront.net
 dcai7bdiz5toz.cloudfront.net
 dcapugcaiirxs.site
 dcavixmtxjxra.site
-dcaynjhiywz.com
 dcazkddmpuwkw.website
 dcb.dannyclosetboutique.com.br
 dcb33ef688.6e7e9acff5.com
@@ -43515,7 +43514,6 @@ dwga.magnuminsurance.com
 dwga.marcaria.com
 dwga.mercatointeriors.com
 dwga.minkadinklondon.com
-dwga.mycleantra.com
 dwga.myhealthyreviews.com
 dwga.myhealthyshape.com
 dwga.myhealthyskins.com
@@ -56040,7 +56038,6 @@ grablanguid.qpon
 grace.shareaholic.com
 gracefulmilk.com
 graciamediaweb.com
-gracious-parent.pro
 gracioushaircut.com
 graciousprofit.pro
 graciousunique.com
@@ -66540,6 +66537,7 @@ iivt.com
 iiwkyrrdmmbvw.site
 iiwlirgydeexl.online
 iiwvrnwxtr.com
+iixaroencqzhnh.com
 iixeerzpuevou.online
 iixjse.nvisioncenters.com
 iixyftmpnljnz.space
@@ -87519,7 +87517,6 @@ mediaiqdigital.com
 mediakraft.se
 medialand.ru
 medialets.com
-medialytics.com
 mediamath.com
 mediameter.by
 mediametrics.mpsa.com
@@ -90747,7 +90744,6 @@ mfzjiodzpsjdk.space
 mfzrr.mixperfume.com
 mg.32r.com
 mg.adskeeper.co.uk
-mg.dt00.net
 mg.glwxw.net
 mg.info.averydennison.com
 mg.maisons-begi.fr
@@ -109004,7 +109000,6 @@ redir.juicyads.com
 redir.lowtid.xyz
 redir.ownpage.fr
 redir.summerwaveadventures.com
-redir.sunnyshore.xyz
 redir.tradedoubler.com
 redir.tropicalsands.club
 redir.tropicalsummer.xyz
@@ -112677,6 +112672,7 @@ s-clk.rmp.rakuten.com
 s-cs.rmp.rakuten.com
 s-data-home360.home360.lt
 s-eu-1.pushpushgo.com
+s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
 s-ia.informatoreagrario.it
 s-img.adskeeper.co.uk
@@ -113424,7 +113420,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -128163,7 +128158,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -149686,7 +149680,6 @@ tag.unifyintent.com
 tag.userreport.com
 tag.vezzi.pl
 tag.vitallsportsclassics.com
-tag.viva-cruises.com
 tag.vlitag.com
 tag.voice.zetacx.net
 tag.waterworldmedford.com
@@ -152329,6 +152322,7 @@ ticketssponge.com
 ticketswinning.com
 tickleinclosetried.com
 ticklesign.com
+tics.com
 tictacfrison.com
 tictoc.live
 tictocsquare.cyou
@@ -169663,6 +169657,7 @@ www.getpublica.com
 www.ggsfq.com
 www.glf.mt.com
 www.globalinfoportal.com
+www.google-analytics.com
 www.googleadservices.com
 www.googleanalytics.com
 www.googlecommerce.com
@@ -170533,7 +170528,6 @@ x9.shinobi.jp
 x94pjnejo.com
 x9flqeptn.com
 x9lxz5bz.i9czfiyk9rrylbw48l.cyou
-x9t78gmg37.wnkox16mercn2zxu.cyou
 xa38.xyz
 xaaaluzygbrgc.space
 xaaitpzcofwdm.site
