@@ -7809,7 +7809,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -11050,6 +11049,7 @@ alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11712,7 +11712,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -16309,6 +16308,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -25363,6 +25363,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -26334,7 +26335,6 @@ chorgilaxly.cfd
 choribitrowane.qpon
 choristlibget.cfd
 chortenurocele.qpon
-chorumebbbbgoza.xyz
 chorwatortygan.cfd
 choseing.com
 chosesmahoes.cfd
@@ -27726,6 +27726,7 @@ cmp.myaudi.be
 cmp.myvolkswagen.be
 cmp.myway.be
 cmp.optad360.io
+cmp.osano.com
 cmp.porsche.be
 cmp.seat.be
 cmp.seatfinance.be
@@ -48901,7 +48902,6 @@ falcon.useinsider.com
 falconduties.shop
 falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -51878,7 +51878,6 @@ free-counters.net
 free-datings.com
 free-surfers.com
 free.srcdn.xyz
-freeavalanche.ru
 freebanner.com
 freebestgames2025.com
 freebiesurveys.com
@@ -54725,7 +54724,6 @@ globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalstars.ru
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -55275,7 +55273,6 @@ go.maxkorzh.eu
 go.maxkorzh.live
 go.mbci.com
 go.mcdermottlaw.com
-go.media-x.ru
 go.mediaz.vn
 go.mejoresapuestas.net
 go.melhoresbets.com
@@ -58805,7 +58802,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -70765,7 +70761,6 @@ jarwressaraced.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
-jasim.luxurydor.com
 jaskhuczzexoh.site
 jasmine33.top
 jasmonebubas.cyou
@@ -79786,7 +79781,6 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
-load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -84288,7 +84282,6 @@ magicalvassal.cyou
 magiceyes.igealasanitaria.it
 magicianboundary.com
 magicianmost.com
-magicintim.ru
 magicminibox.com
 magicplayer-api.torrentstream.org
 magicplayer-s.acestream.net
@@ -87502,7 +87495,6 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -88149,7 +88141,6 @@ metrica.maxis.plus
 metricas.agzero.com.br
 metricas.classytricot.com.br
 metricas.coachmarlonreis.com
-metricas.espacioaic.com
 metricas.haloqring.com
 metricas.legjur.com
 metricas.marketing.russellbedford.com.br
@@ -89187,7 +89178,6 @@ metrics.hawaii.aaa.com
 metrics.hawthorn.com
 metrics.hayesandjarvis.co.uk
 metrics.hbogo.com
-metrics.hbogola.com
 metrics.hbr.org
 metrics.hbs.edu
 metrics.hctra.com
@@ -93666,7 +93656,6 @@ mzaecupkjfnxx.online
 mzafanowhdcpc.space
 mzb60mu3z7.com
 mzcgpmpygdoer.site
-mzenug.z-dama.ru
 mzenze.linio.com.co
 mzgcaatryecyd.website
 mzgpfa.brics.it
@@ -94965,7 +94954,6 @@ next.maispassagens.com.br
 next.nextdoorbaby.com
 next.nurapeptide.com
 next.shoppingdemaquininhas.com.br
-next.sogolaco.com.br
 next.viajarpraonde.com.br
 nextacdn.com
 nextacdn.top
@@ -117081,7 +117069,6 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
-server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -119261,7 +119248,6 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
-server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -122932,6 +122918,7 @@ sgtm.urmishop.com
 sgtm.us.puremama.com
 sgtm.usaccidentlawyer.com
 sgtm.usimmigrationassistance.com
+sgtm.uwex.com.br
 sgtm.v10.ch
 sgtm.v5capi.site
 sgtm.valamamentacao.com
@@ -123562,7 +123549,6 @@ shopgamelq.com
 shopgamere.com
 shopgamerobux.com
 shopgcaothu.vn
-shopgem.net
 shophaoquang.com
 shophkt294.weebly.com
 shophungakira.com
@@ -123644,7 +123630,6 @@ shoughsluggerstyles.cyou
 shoukigaigoors.net
 shoulderinedible.com
 shoversuersjupard.cyou
-shovon.zelonii.com
 show-creative1.com
 show-sb.com
 show.afrobeatstotheworld.com
@@ -128168,7 +128153,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -139070,7 +139054,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -161460,7 +161443,6 @@ unddeliv.com
 undefined.fls.doubleclick.net
 underclick.ru
 underdog.media
-underdone.ru
 undere.com
 underestimateomelettesimilar.com
 undergobuffalowharf.com
@@ -164158,6 +164140,7 @@ vfwpaocvysbpo.site
 vfxcdhckojsqd.store
 vfxinv.terraelements.de
 vfyfldhdthlin.space
+vfyhkoqjxnvwn.space
 vfymgla.com
 vfzfkmeq.byaagaard.com
 vfzfkmeq.bychristina.com
@@ -164673,7 +164656,6 @@ vipwfa.footway.ch
 vipwqpsoxnmwt.site
 vipyou.bulkpowders.es
 viqonnkopkkjp.site
-vira.ru
 viraginjasyruths.cyou
 viral-cdn.ru
 viral.mediaz.vn
@@ -169330,7 +169312,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
