@@ -6872,6 +6872,7 @@ adhouse.pro
 adhub.digital
 adhub.media
 adhub.porcino-kinoko.workers.dev
+adhub.ru
 adhudg.nec-lavie.jp
 adhunt.net
 adhunter.media
@@ -7791,7 +7792,6 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
-ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -8259,6 +8259,7 @@ ads1.virtual-nights.com
 ads10.speedbit.com
 ads13.exoticads.com
 ads15.exoticads.com
+ads180.com
 ads2-adnow.com
 ads2.contentabc.com
 ads2.hsoub.com
@@ -11056,9 +11057,7 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -16320,7 +16319,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -25386,7 +25384,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -27194,6 +27191,7 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -30874,7 +30872,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -40584,6 +40581,7 @@ di2.zooplus.es
 di2e2m1cmrtc9.cloudfront.net
 di2xlfgjbl0v7.cloudfront.net
 di2xwvxz1jrvu.cloudfront.net
+di7stero.com
 diagmon-serviceapi.samsungdm.com
 diagnose.igstatic.com
 diagnosisintriguingorganizer.com
@@ -46423,7 +46421,6 @@ engine.fxempire.com
 engine.fyber.com
 engine.gettopple.com
 engine.instaheadshots.com
-engine.partylemons.com
 engine.phn.doublepimp.com
 engine.spotscenered.info
 engine.supersonicrealtors.com
@@ -48955,7 +48952,9 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -54633,6 +54632,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -54787,6 +54787,7 @@ globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalstars.ru
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -60808,6 +60809,7 @@ gtm.refazenda.com.br
 gtm.reffinatomarmoresegranitos.com
 gtm.refillgenie.com
 gtm.refinedbycass.com
+gtm.reflowcenter.com
 gtm.reflowservice.it
 gtm.refoamed.com
 gtm.refocus-awards.com
@@ -64064,6 +64066,7 @@ hi.mybollsen.com
 hi.psiakaloria.pl
 hi.recensioni-prodotti-europeo.it
 hi.uk-consumer-review-company.com
+hi.xiunm.cn
 hi.xiunm.com
 hi.xn--europenne-tests-de-produits-foc.fr
 hi.zaufanarecenzja.pl
@@ -67925,6 +67928,7 @@ indulgeassortmentdone.com
 indulgencelate.com
 indulgencemolly.com
 indulgenceslangringer.com
+indulinotomilaen.cfd
 indulinpentailhews.cfd
 indulinrayful.com
 indultofirma.com
@@ -70822,6 +70826,7 @@ jarwressaraced.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
+jasim.luxurydor.com
 jaskhuczzexoh.site
 jasmine33.top
 jasmonebubas.cyou
@@ -103238,7 +103243,6 @@ plateau77.com
 platesskull.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
-platform-metrics-api.sharethis.com
 platform.33across.com
 platform.adcannyads.com
 platform.artilleryads.com
@@ -104041,7 +104045,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -107596,6 +107599,7 @@ quatarambonglabella.qpon
 quatetff2020.weebly.com
 quaybeware.com
 qubaa.tnuck.com
+quber.ru
 qubhjnodheizn.site
 qubisticss.com
 qubitanalytics.appspot.com
@@ -110629,6 +110633,7 @@ riverhit.com
 riverlead.ru
 riveter29.com
 riveter35.top
+rivne.space
 riwkmo.spacemarket.com
 riwnmh.novasol.co.uk
 rixengine.com
@@ -110942,6 +110947,7 @@ roadwaspfang.com
 roagrofoogrobo.com
 roamedtiffie.com
 roamhousing.com
+roanokebkcypasso.cfd
 roar.com
 roas-service.store-services-prod.remarkable.com
 roastap.sixor.it
@@ -115806,6 +115812,7 @@ searedtoast.com
 searforsear.online
 seasideunevenbowl.com
 seasonendued.cyou
+seatbaizesnoiler.cfd
 seatedsaintinsist.com
 seatslaurelblemish.com
 seatsmoke.com
@@ -124292,6 +124299,7 @@ situationsparkler.com
 situduiacvaek.site
 situratite.com
 situremelt.com
+sitztoluyllikens.cfd
 siugoy.monbento.co.uk
 siusmv.coraltravel.pl
 siutaodka.com
@@ -124492,6 +124500,7 @@ skibobsbucket.shop
 skiddylands.cyou
 skidwaverorigin.com
 skierjollyobsolete.com
+skiffwooledpenni.cfd
 skilfulsaturatematters.com
 skill.officetechskill.com
 skilledview.com
@@ -131655,6 +131664,7 @@ srv.honwari.com
 srv.imonomy.com
 srv.innere-staerke-trainieren.de
 srv.jaime-higuera.com
+srv.javierbotia.com
 srv.journal-der-gesundheit.com
 srv.kimonoecia.com.br
 srv.kitchen.eu
@@ -136323,7 +136333,6 @@ sst.casinorecht.at
 sst.cassaros.fr
 sst.castalie.com
 sst.castellani.eu
-sst.catolicabs.porto.ucp.pt
 sst.catrindecor.com
 sst.cavefencing.co.uk
 sst.cavernhold.com
@@ -139168,6 +139177,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -143238,6 +143248,7 @@ stape.oninversionesbrasil.com
 stape.onnibank.com.br
 stape.onovocreator.com.br
 stape.onovoinconsciente.com.br
+stape.onovomercado.com
 stape.onovosalario.com.br
 stape.ontheroadstyle.com
 stape.onyxacademy.it
@@ -149042,7 +149053,6 @@ t.helpingamericatoday.com
 t.helsingo.com
 t.helsingo.fi
 t.helsingo.se
-t.hentaivox.com
 t.herceptin.com
 t.herdzone.com
 t.herfinances.com
@@ -162483,7 +162493,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -173578,6 +173587,7 @@ yklgge.oc.hu
 ykmsxu.vitalabo.ch
 yknbqe.marinobus.it
 yknhfifccqozk.space
+yko.yogakledingonline.nl
 ykokfoyc1v.v6fxgcjj6wk58ftiytm.cyou
 ykowel.muscat.pl
 ykozvjybzuctr.website
