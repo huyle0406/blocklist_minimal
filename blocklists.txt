@@ -8963,6 +8963,7 @@ advantage.rsabroker.ca
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
+advariant.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
 advbroker.ru
@@ -11055,7 +11056,7 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.all.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -15694,6 +15695,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -27190,6 +27192,7 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -38184,7 +38187,6 @@ data.oitoinvest.com.br
 data.okay.be
 data.olamhaprachim.co.il
 data.ole.net.br
-data.oliverandco.co.uk
 data.onakshop.com
 data.onboarding.clear.com.br
 data.onboarding.rico.com.vc
@@ -48953,9 +48955,7 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -54634,6 +54634,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -54788,7 +54789,6 @@ globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalstars.ru
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -58866,6 +58866,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -61478,7 +61479,6 @@ gtm.thestore.org
 gtm.thesuperweekender.com
 gtm.theupkeep.com
 gtm.thevantagegroupauto.com
-gtm.thevintagearcade.com
 gtm.thewafflehouse.com.co
 gtm.thewhittydesigns.com
 gtm.thewoodenbedcompany.com
@@ -86641,7 +86641,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -87583,6 +87582,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -104050,6 +104050,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -139181,7 +139182,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -147123,6 +147123,7 @@ sub.siddhiyoga.com
 sub.snoomi.de
 sub.snusmart.com
 sub.spicyraju.com
+sub.studio-fragment.com
 sub.stylecartel.wuaze.com
 sub.takeoffcph.dk
 sub.taxisautolux.be
@@ -156850,7 +156851,6 @@ tracking.damac.it
 tracking.dantri.com.vn
 tracking.darksecretcosmetics.com
 tracking.dataprobe.com
-tracking.dealeranalytics.com
 tracking.dentalclinicglendale.com
 tracking.dermage.com.ec
 tracking.destacame.cl
@@ -162500,6 +162500,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
