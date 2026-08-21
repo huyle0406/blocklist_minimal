@@ -6867,7 +6867,6 @@ adhouse.pro
 adhub.digital
 adhub.media
 adhub.porcino-kinoko.workers.dev
-adhub.ru
 adhudg.nec-lavie.jp
 adhunt.net
 adhunter.media
@@ -11053,7 +11052,8 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -16478,6 +16478,7 @@ asia-pnrt-stsdk.vivoglobal.com
 asia-prt-stsdk.vivoglobal.com
 asia-stsdk.vivoglobal.com
 asia.adform.net
+asia.com
 asia.creativecdn.com
 asia.marketo.com
 asiacpx.com
@@ -27045,6 +27046,7 @@ click.eclkxopteam.com
 click.ecxclk.com
 click.elker.com
 click.exclk.com
+click.exclplatmain.com
 click.execrank.com
 click.exmainclck.com
 click.exmainclckback.com
@@ -58855,6 +58857,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -78342,7 +78345,6 @@ load.gtm.forsikringstjek.nu
 load.gtm.fragranza.sk
 load.gtm.francecroquettes.com
 load.gtm.francocicerchia.com
-load.gtm.franquiacredfacil.com.br
 load.gtm.fratellicontorno.com
 load.gtm.freiheitglow.com
 load.gtm.frilandskoed.dk
@@ -86532,6 +86534,7 @@ mas.hronboard.me
 mas.nth.ch
 mas.sector.sk
 masakeku.com
+masasaudi.com
 masbpi.com
 mascara21.top
 mascaraowners.com
@@ -87569,6 +87572,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -104034,6 +104038,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -116641,6 +116646,7 @@ serve-pl.acuityplatform.com
 serve-static.cheqzone.com
 serve-west.acuityplatform.com
 serve.adclixx.net
+serve.adnet-2.oncustomer.asia
 serve.adspruce.com
 serve.adtrackers.net
 serve.affiliate.heurekashopping.sk
@@ -130388,7 +130394,6 @@ somtrdc.jobstreet.co.id
 somtrdc.jobstreet.com
 somtrdc.jobstreet.com.ph
 somtrdc.jobstreet.vn
-son-in-lawmorbid.com
 sonabudsshop-ss.checkoutera.com
 sonabudsshop-sst.shopboosta.com
 sonantpoufedgaucher.cyou
@@ -144902,6 +144907,7 @@ static.light-point.com
 static.livingmagonline.com
 static.lot-tissimo.com
 static.made-bid.com
+static.mannixmarketing.com
 static.masoffer.net
 static.masterfr-bid.com
 static.matchads.net
@@ -147514,6 +147520,7 @@ support.ricoh.de
 support.ricoh.fr
 support.tbllprem.com
 support.tenten.vn
+support2.flex.com
 support3.flex.com
 supportedbailednotions.com
 supporters.redbankgreen.com
@@ -162602,7 +162609,9 @@ utiq.20minutos.es
 utiq.24auto.de
 utiq.24books.de
 utiq.24hamburg.de
+utiq.24rhein.de
 utiq.24royal.de
+utiq.24vita.de
 utiq.3djuegos.com
 utiq.3djuegosguias.com
 utiq.3djuegospc.com
@@ -169436,7 +169445,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -175394,7 +175402,6 @@ zmvvg.tunedintokyo.com
 zmvwfd.icu
 zmyodzglqdaox.site
 zmyopn.babadotop.com.br
-zmyvawmwezr.com
 zmyzqcinzyixm2e.cfd
 zmzkyj.agrieuro.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
