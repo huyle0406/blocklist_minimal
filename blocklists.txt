@@ -1,3 +1,4 @@
+0.0.0.b-cdn.net
 0.avmarket.rs
 0.myikas.com
 0.net.easyjet.com
@@ -7588,7 +7589,6 @@ adright.co
 adright.com
 adright.xml-eu.ak-is2.net
 adright.xml-v6.ak-is2.net
-adrino.cloud
 adrino.io
 adrino.pl
 adrise.de
@@ -9150,7 +9150,6 @@ adwist.ru
 adwitserver.com
 adwmab.card-db.com
 adwmg.com
-adwo.com
 adwolf.ru
 adwooo.fs.ak-is2.net
 adword.ge
@@ -11063,7 +11062,7 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -11728,6 +11727,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15705,7 +15705,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -18935,7 +18934,6 @@ bc0f9d6545.com
 bc2.fivecdm.com
 bc2268747f.com
 bc48fa9adc.com
-bc6dc48b743dc5d01.clicknplay.to
 bcabf93fa6.com
 bcanl.bca-autoveiling.nl
 bcash4you.com
@@ -24792,7 +24790,6 @@ cdcptuedzjxal.site
 cdctwm.com
 cddjj.kachava.com
 cddtsecure.com
-cde497d52a.com
 cdeatz.spartoo.it
 cdend.com
 cdfaq.deako.com
@@ -49014,6 +49011,7 @@ fam-ad.com
 fam.adingo.jp
 famhe.westandwillow.com
 familia-data.faculdademaratlantico.com.br
+familialsimulation.com
 familiarduchessfrequent.com
 familiarpyromaniasloping.com
 familiarrod.com
@@ -50982,7 +50980,6 @@ fls-cn.amazon-adsystem.com
 fls-eu.amazon-adsystem.com
 fls-fe.amazon-adsystem.com
 fls-fe.amazon-adsystems.com
-fls-na.amazon-adsystem.com
 fls.doubleclick.net
 fls.uk.doubleclick.net
 flsjgpqtrtzhn.site
@@ -54661,7 +54658,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -67174,7 +67170,6 @@ images.learn.follett.com
 images.learn.hitachiconsulting.com
 images.learn.internationalsosfoundation.org
 images.learn.pharmacyclics.com
-images.learn.queenslibrary.org
 images.learn.shredit.com
 images.learn.unisourceworldwide.com
 images.learn.vmware.com
@@ -104099,6 +104094,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -104215,7 +104211,6 @@ ppao.usw.coherentbody.com
 ppbbhvizrkryo.website
 ppbtdj.icu
 ppc-direct.com
-ppcent.org
 ppcmate.com
 ppcnt.org
 ppcnt.pro
@@ -106370,7 +106365,6 @@ px.mountain.com
 px.onlygal.es
 px.pocpoc.io
 px.quantserve.com
-px.sharethis.com
 px.srvcs.tumblr.com
 px.staticfiles.at
 px.steelhousemedia.com
@@ -106536,6 +106530,7 @@ pzyzpohudsgnl.space
 pzzdhj.rockyboots.com
 q-counter.com
 q-stats.nl
+q.11ghqextfougerengtx5gyueby4.cyou
 q.addthis.com
 q.adrta.com
 q.azcentral.com
@@ -113583,7 +113578,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -136391,6 +136385,7 @@ sst.casinorecht.at
 sst.cassaros.fr
 sst.castalie.com
 sst.castellani.eu
+sst.catolicabs.porto.ucp.pt
 sst.catrindecor.com
 sst.cavefencing.co.uk
 sst.cavernhold.com
@@ -156341,7 +156336,6 @@ track.wattpad.com
 track.waura.com.br
 track.wbamedia.com
 track.webgains.com
-track.webgeniusbd.com
 track.weflatables.com
 track.weltura.com
 track.weposters.com
