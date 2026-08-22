@@ -8887,6 +8887,7 @@ aduniv.nesin.com
 adup-tech.com
 adups.cn
 adups.com
+aduu.cn
 adux.com
 adv-adserver.com
 adv-analytics-collector.videograph.ai
@@ -11053,7 +11054,6 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -11720,7 +11720,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15574,7 +15573,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -23162,7 +23160,6 @@ c9pgryrmt4.com
 ca-api.cafe24data.com
 ca-g2.gumgum.com
 ca-log.cafe24data.com
-ca.429men.com
 ca.4wank.com
 ca.careercapital.coach
 ca.clcknads.pro
@@ -27198,6 +27195,7 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -30684,7 +30682,6 @@ crosspromo.voodoo.io
 crosspromo.zeptolab.com
 crosspromotion-us.avosapps.us
 crosspromotion.weplayer.cc
-crosswalkmail.com
 crottalcontoid.cfd
 crouchedmonarch.com
 crouteintendersinbringer.monster
@@ -30697,7 +30694,6 @@ crowbarrinds.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -48969,7 +48965,9 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -54792,6 +54790,7 @@ globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalstars.ru
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -58870,6 +58869,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -64134,7 +64134,6 @@ highcpmcreativeformat.com
 highcpmgate.com
 highcpmrevenuegate.com
 highcpmrevenuenetwork.com
-highercldfrev.com
 higherengine.com
 highestslided.cyou
 highfalutinbox.com
@@ -67146,7 +67145,6 @@ images.learn.follett.com
 images.learn.hitachiconsulting.com
 images.learn.internationalsosfoundation.org
 images.learn.pharmacyclics.com
-images.learn.queenslibrary.org
 images.learn.shredit.com
 images.learn.unisourceworldwide.com
 images.learn.vmware.com
@@ -70830,6 +70828,7 @@ jarwressaraced.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
+jasim.luxurydor.com
 jaskhuczzexoh.site
 jasmine33.top
 jasmonebubas.cyou
@@ -79625,7 +79624,6 @@ load.server.venndesign.co
 load.server.verhuisboxen.nl
 load.server.wanderleyoliveira.com.br
 load.server.wendellcarvalho.com.br
-load.server.yogupay.com
 load.server.zenmaitri.com
 load.server.zimamedia.com
 load.serverevents.kyurestaurants.com
@@ -79875,6 +79873,7 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
+load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -86655,7 +86654,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -87596,7 +87594,6 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -103268,7 +103265,6 @@ plateau77.com
 platesskull.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
-platform-metrics-api.sharethis.com
 platform.33across.com
 platform.adcannyads.com
 platform.artilleryads.com
@@ -104072,7 +104068,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -106510,7 +106505,6 @@ pzyzpohudsgnl.space
 pzzdhj.rockyboots.com
 q-counter.com
 q-stats.nl
-q.11ghqextfougerengtx5gyueby4.cyou
 q.addthis.com
 q.adrta.com
 q.azcentral.com
@@ -112811,7 +112805,6 @@ s-clk.rmp.rakuten.com
 s-cs.rmp.rakuten.com
 s-data-home360.home360.lt
 s-eu-1.pushpushgo.com
-s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
 s-ia.informatoreagrario.it
 s-img.adskeeper.co.uk
@@ -113559,7 +113552,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -117220,6 +117212,7 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
+server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -119395,6 +119388,7 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
+server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -122775,7 +122769,6 @@ sgtm.soliteboots.uk
 sgtm.solutions2share.com
 sgtm.soluzionetasse.com
 sgtm.solvis.de
-sgtm.somosrevelion.com
 sgtm.sonicbook.ai
 sgtm.soonbody.com
 sgtm.soundware.io
@@ -123775,6 +123768,7 @@ shoughsluggerstyles.cyou
 shoukigaigoors.net
 shoulderinedible.com
 shoversuersjupard.cyou
+shovon.zelonii.com
 show-creative1.com
 show-sb.com
 show.afrobeatstotheworld.com
@@ -124443,6 +124437,7 @@ skadnetwork.singular.net
 skadnetworks.fyber.com
 skadsdk.appsflyer.com
 skadsdk.appsflyersdk.com
+skadsdk.appsflyersdk.com.com
 skaldicclat.cfd
 skaqaz.witt-weiden.ch
 skarhkcpnjaky.website
@@ -125082,7 +125077,6 @@ smetric.vw.com.tr
 smetric.wellcarefindaprovider.com
 smetric.worldcat.org
 smetric.yardhouse.com
-smetricas.fgv.br
 smetrics-cns.panasonic.com
 smetrics-ieeexplore.ieee.org
 smetrics-mh.find-your-pensions.service.gov.uk
@@ -128309,6 +128303,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -139210,6 +139205,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
