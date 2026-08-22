@@ -2710,6 +2710,7 @@ a.ants.vn
 a.apkpure.com
 a.apkpures.xyz
 a.appbaqend.com
+a.applovin.com
 a.applvn.com
 a.arbadah.com
 a.arbona.hr
@@ -7807,6 +7808,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -8953,7 +8955,6 @@ advantage.rsabroker.ca
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
-advariant.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
 advbroker.ru
@@ -11050,6 +11051,7 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -12166,6 +12168,7 @@ analytics.fnni.com
 analytics.fnsouthwest.com
 analytics.fontanka.ru
 analytics.foodanddrinkstyling.com
+analytics.football360.ir
 analytics.foresee.com
 analytics.formstack.com
 analytics.foxgreen.eu
@@ -15569,6 +15572,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -16314,6 +16318,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -25375,6 +25380,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -25965,7 +25971,6 @@ cgctsw.mytour.vn
 cgcutav.kitaskin.com
 cgczs.murfreesborodogtraining.com
 cgel9.9n3b7jip47h296m41mx.cyou
-cgf6tm44.mlm51ezrwbo2beq9.cyou
 cgfqz.1energyshot.com
 cgga.crdbag.com
 cggrinkqbazwe.site
@@ -27184,7 +27189,6 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -30684,7 +30688,6 @@ crowbarrinds.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -30866,6 +30869,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -46711,7 +46715,6 @@ ep.umobile.pl
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
-epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -50302,7 +50305,6 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -56255,7 +56257,6 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
-grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -86619,7 +86620,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -87560,7 +87560,6 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -103228,7 +103227,6 @@ plateau77.com
 platesskull.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
-platform-metrics-api.sharethis.com
 platform.33across.com
 platform.adcannyads.com
 platform.artilleryads.com
@@ -104146,7 +104144,6 @@ ppao.usw.coherentbody.com
 ppbbhvizrkryo.website
 ppbtdj.icu
 ppc-direct.com
-ppcent.org
 ppcmate.com
 ppcnt.org
 ppcnt.pro
@@ -112764,7 +112761,6 @@ s-clk.rmp.rakuten.com
 s-cs.rmp.rakuten.com
 s-data-home360.home360.lt
 s-eu-1.pushpushgo.com
-s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
 s-ia.informatoreagrario.it
 s-img.adskeeper.co.uk
@@ -113512,7 +113508,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -148066,7 +148061,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetsoul.net
 sweetstudents.com
 swelen.com
@@ -169454,7 +169448,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
