@@ -6136,7 +6136,6 @@ ad.us.sinaimg.cn
 ad.usatoday.com
 ad.ust-ad.com
 ad.utop.ir
-ad.velomania.ru
 ad.video-mech.ru
 ad.vidver.to
 ad.vidverto.io
@@ -11049,7 +11048,6 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -11637,6 +11635,7 @@ analyse.bcovery.com
 analyse.hs-furtwangen.de
 analyse.united-cloud.com
 analyse.united-hoster.de
+analysis-test.sozialversicherung.at
 analysis.adinsight.co.kr
 analysis.aws.locondo.jp
 analysis.chatglm.cn
@@ -11644,6 +11643,7 @@ analysis.fi
 analysis.mcw.nz
 analysis.polarisoffice.com
 analysis.sooplive.com
+analysis.sozialversicherung.at
 analysis.vesync.com
 analysis.wangtwothree.com
 analystic.365av.net
@@ -15567,6 +15567,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -27180,7 +27181,6 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -27591,7 +27591,6 @@ clprfkljfcmnm.site
 clprr.com
 clpx.l2l11bqg1myq1ytu2jck3.cyou
 clrci.canadagoose.com
-clrpdhptoddatj49.pro
 clrqbqtonradt.online
 clrstm.com
 cls.vrvm.com
@@ -54609,7 +54608,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -67121,6 +67119,7 @@ images.learn.follett.com
 images.learn.hitachiconsulting.com
 images.learn.internationalsosfoundation.org
 images.learn.pharmacyclics.com
+images.learn.queenslibrary.org
 images.learn.shredit.com
 images.learn.unisourceworldwide.com
 images.learn.vmware.com
@@ -80808,6 +80807,7 @@ load.sst.chicome.co.uk
 load.sst.chivonygardens.com
 load.sst.cilantro.london
 load.sst.cinderellaeco.se
+load.sst.claireetmia.com
 load.sst.clearviewservices.co.uk
 load.sst.clementcombes.com
 load.sst.clementi-vuurovens.nl
@@ -96018,7 +96018,6 @@ novaonx.com
 novaseekers.com
 novazen.net
 novedades.telecomfibercorp.com.ar
-novel-cross.pro
 novel-inevitable.com
 novellekamichi.cfd
 novelpair.com
@@ -103221,7 +103220,6 @@ plateau77.com
 platesskull.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
-platform-metrics-api.sharethis.com
 platform.33across.com
 platform.adcannyads.com
 platform.artilleryads.com
@@ -107576,7 +107574,6 @@ quatarambonglabella.qpon
 quatetff2020.weebly.com
 quaybeware.com
 qubaa.tnuck.com
-quber.ru
 qubhjnodheizn.site
 qubisticss.com
 qubitanalytics.appspot.com
@@ -107861,7 +107858,6 @@ qxuebkyiexuez.online
 qxummanifgrjp.site
 qxvqhy.miliboo.es
 qxwoiv.com
-qxx8j3z2vnu1e3.e4obp715nx9rlp.cyou
 qxyvvfwjiqonx.online
 qxzfdeagblwys.space
 qyatej.bocage.fr
@@ -112758,7 +112754,6 @@ s-clk.rmp.rakuten.com
 s-cs.rmp.rakuten.com
 s-data-home360.home360.lt
 s-eu-1.pushpushgo.com
-s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
 s-ia.informatoreagrario.it
 s-img.adskeeper.co.uk
@@ -128259,6 +128254,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -152263,6 +152259,7 @@ thirstybunch.pro
 thirstyquiet.com
 thirteenpun.com
 thirty-good.lugg.com
+this.com
 thiscdn.com
 thisiswaldo.com
 thisrocks.top
@@ -156734,7 +156731,6 @@ tracking.byggindustrin.se
 tracking.c.mercedes-benz.co.in
 tracking.c.mercedes-benz.com.cn
 tracking.c.mercedes-benz.de
-tracking.caffecorretto.ro
 tracking.calculojuridico.com.br
 tracking.calmdc.com
 tracking.campaigns.drax.com
@@ -157391,7 +157387,6 @@ tracking.pressalit.com
 tracking.pressalit.group
 tracking.presswayy.com
 tracking.prismpartner.smt.docomo.ne.jp
-tracking.produse-moldovenesti.ro
 tracking.profource.com
 tracking.project2deal.com
 tracking.propellerads.com
@@ -162486,6 +162481,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
