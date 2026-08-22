@@ -251,7 +251,6 @@
 100008436.collect.igodigital.com
 100widgets.com
 1017.cn
-101m3.com
 1024mzs.pw
 1025default.cadriamarketing.com
 103092804.com
@@ -751,6 +750,7 @@
 2501may2024.com
 250f0ma86.de
 2514june2024.com
+2516june2024.com
 2518june2024.com
 2520june2024.com
 2524june2024.com
@@ -7779,7 +7779,6 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
-ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -7805,7 +7804,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -8408,7 +8406,6 @@ adserver.kozoom.com
 adserver.lag.vn
 adserver.mgsex.com
 adserver.muaban.net
-adserver.ngz-network.de
 adserver.nydailynews.com
 adserver.o2.pl
 adserver.oddschecker.com
@@ -11049,7 +11046,8 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -15569,7 +15567,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -16312,6 +16309,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -19653,7 +19651,6 @@ betacdn.autoads.asia
 betads.xyz
 betahit.click
 betarget.com
-betarget.de
 betazebra.com
 beteelaboiling.cyou
 beterrakionan.com
@@ -25378,6 +25375,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -27844,7 +27842,6 @@ cnkbiotmdnegp.space
 cnlbcn.allforfood.com
 cnlbxi.zoopla.co.uk
 cnlogs.umengcloud.com
-cnlr.thepornstar.com
 cnmdx.legendairymilk.com
 cnmwoxnyxyzhs.website
 cnn.bounceexchange.com
@@ -30870,6 +30867,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -48957,9 +48955,7 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -54779,7 +54775,6 @@ globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalstars.ru
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -58858,6 +58853,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -70819,7 +70815,6 @@ jarwressaraced.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
-jasim.luxurydor.com
 jaskhuczzexoh.site
 jasmine33.top
 jasmonebubas.cyou
@@ -79858,7 +79853,6 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
-load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -103245,7 +103239,7 @@ plateau77.com
 platesskull.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
-platform-metrics-api.sharethis.com
+platform-metrics-api.sharear.com
 platform.33across.com
 platform.adcannyads.com
 platform.artilleryads.com
@@ -104047,6 +104041,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -107884,7 +107879,6 @@ qxuebkyiexuez.online
 qxummanifgrjp.site
 qxvqhy.miliboo.es
 qxwoiv.com
-qxx8j3z2vnu1e3.e4obp715nx9rlp.cyou
 qxyvvfwjiqonx.online
 qxzfdeagblwys.space
 qyatej.bocage.fr
@@ -117192,7 +117186,6 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
-server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -119368,7 +119361,6 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
-server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -121652,6 +121644,7 @@ sgtm.groovyforever.com.br
 sgtm.groovygummy.com
 sgtm.grossiebessaadv.com.br
 sgtm.grow-level.com
+sgtm.growimagine.com
 sgtm.grupposicav2000.com
 sgtm.gseddy.es
 sgtm.guiailhadomel.com
@@ -123716,7 +123709,6 @@ shoptarget.com.br
 shopteufunny.vn
 shopth2.com
 shopthanthoai.com
-shoptienzombie.vn
 shoptoplq.com
 shoptruongstar.com
 shoptule.com
@@ -123749,7 +123741,6 @@ shoughsluggerstyles.cyou
 shoukigaigoors.net
 shoulderinedible.com
 shoversuersjupard.cyou
-shovon.zelonii.com
 show-creative1.com
 show-sb.com
 show.afrobeatstotheworld.com
@@ -139185,7 +139176,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -152295,6 +152285,7 @@ thirstybunch.pro
 thirstyquiet.com
 thirteenpun.com
 thirty-good.lugg.com
+this.com
 thiscdn.com
 thisiswaldo.com
 thisrocks.top
@@ -169492,7 +169483,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
