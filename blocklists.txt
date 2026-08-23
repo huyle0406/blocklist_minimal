@@ -6536,7 +6536,6 @@ adcamp.ru
 adcannyxml.com
 adcash.com
 adcast.deviantart.com
-adcast.ru
 adcct.advancecctvbd.com
 adcdn.gamemeca.com
 adcdn.goo.ne.jp
@@ -11061,7 +11060,6 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -15581,6 +15579,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -25403,7 +25402,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -27633,6 +27631,7 @@ clprfkljfcmnm.site
 clprr.com
 clpx.l2l11bqg1myq1ytu2jck3.cyou
 clrci.canadagoose.com
+clrpdhptoddatj49.pro
 clrqbqtonradt.online
 clrstm.com
 cls.vrvm.com
@@ -56331,7 +56330,6 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
-grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -58921,7 +58919,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -87683,7 +87680,6 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -106624,7 +106620,6 @@ pzyzpohudsgnl.space
 pzzdhj.rockyboots.com
 q-counter.com
 q-stats.nl
-q.11ghqextfougerengtx5gyueby4.cyou
 q.addthis.com
 q.adrta.com
 q.azcentral.com
@@ -117014,7 +117009,6 @@ server.advisi.com.br
 server.advogadamaryannacontratos.com.br
 server.advogadopro.adv.br
 server.advogadosoliveira.com.br
-server.advogadosposicionados.com.br
 server.advprofviniciusmelo.com.br
 server.adwort.de
 server.aecmateriais.com.br
@@ -162708,7 +162702,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -170025,6 +170018,7 @@ www.getpublica.com
 www.ggsfq.com
 www.glf.mt.com
 www.globalinfoportal.com
+www.google-analytics.com
 www.googleadservices.com
 www.googleanalytics.com
 www.googlecommerce.com
