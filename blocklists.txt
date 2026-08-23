@@ -8458,7 +8458,6 @@ adservice.google.de
 adservice.google.se
 adservice.hani.co.kr
 adservice.sbs.co.kr
-adservice.tohsoft.com
 adservicemedia.dk
 adservices.brandcdn.com
 adserving.menatech.net
@@ -11062,6 +11061,8 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -12744,7 +12745,6 @@ analytics.qualityunit.com
 analytics.query.yahoo.com
 analytics.quick-garden.co.uk
 analytics.qushad.com
-analytics.qzs-ksa.com
 analytics.raamwinkel.be
 analytics.radiatemedia.com
 analytics.ratioform.ch
@@ -15581,7 +15581,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -16325,6 +16324,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -25402,6 +25402,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -49010,9 +49011,7 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -50366,6 +50365,7 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -53144,7 +53144,6 @@ galactify.unrulymedia.com
 galaksion.com
 galapeequoniam.qpon
 galaxiemedia.fr
-galaxien.com
 galaxymeet.ru
 galaxypush.com
 galeaeevovae.com
@@ -54842,7 +54841,6 @@ globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalstars.ru
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -66443,7 +66441,6 @@ ievdpg.humanscale.com
 ievtzbqsunqwz.space
 iewjctcinxthi.space
 iexgekxdoqlcn.website
-iexyxnegvztmaf.com
 ieyzrxtaxfqpc.website
 iezxmddndn.com
 if.ctimais.com.br
@@ -70896,7 +70893,6 @@ jarwressaraced.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
-jasim.luxurydor.com
 jaskhuczzexoh.site
 jasmine33.top
 jasmonebubas.cyou
@@ -79961,7 +79957,6 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
-load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -87690,6 +87685,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -104189,7 +104185,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -113697,6 +113692,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -117361,7 +117357,6 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
-server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -119537,7 +119532,6 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
-server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -123917,7 +123911,6 @@ shoughsluggerstyles.cyou
 shoukigaigoors.net
 shoulderinedible.com
 shoversuersjupard.cyou
-shovon.zelonii.com
 show-creative1.com
 show-sb.com
 show.afrobeatstotheworld.com
@@ -133999,7 +133992,6 @@ ss.quokkabeds.com.au
 ss.qzino.cc
 ss.qzino.com
 ss.qzipromo.com
-ss.qzs-ksa.com
 ss.rac.quantior-france.com
 ss.radinatural.com
 ss.ragbagstudio.dk
@@ -139358,7 +139350,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -147226,7 +147217,6 @@ suachuadienmayxanh.com.vn
 suamhsrqfuqle.website
 suantlysnowk.cfd
 suao-defender.pro
-suativinguyenkim.com
 suawddlsmamci.website
 sub.3dmobilemammography.com
 sub.3smultinational.com
@@ -148268,6 +148258,7 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
+sweetslope.com
 sweetsoul.net
 sweetstudents.com
 swelen.com
@@ -151093,6 +151084,7 @@ tarzanbajoccopooli.cyou
 tas.anima-suites.com
 tasah.juiceplus.com
 tasgxk4ia6.com
+task.testolabs.co
 taskageenter.cyou
 taskapi.net
 taskdelight.com
@@ -162715,6 +162707,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -169699,7 +169692,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
