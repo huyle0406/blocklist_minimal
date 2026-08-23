@@ -7789,6 +7789,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -8457,6 +8458,7 @@ adservice.google.de
 adservice.google.se
 adservice.hani.co.kr
 adservice.sbs.co.kr
+adservice.tohsoft.com
 adservicemedia.dk
 adservices.brandcdn.com
 adserving.menatech.net
@@ -16325,6 +16327,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -27639,6 +27642,7 @@ clprfkljfcmnm.site
 clprr.com
 clpx.l2l11bqg1myq1ytu2jck3.cyou
 clrci.canadagoose.com
+clrpdhptoddatj49.pro
 clrqbqtonradt.online
 clrstm.com
 cls.vrvm.com
@@ -30910,6 +30914,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -46777,7 +46782,6 @@ ep.umobile.pl
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
-epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -54701,7 +54705,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -58938,6 +58941,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -66432,7 +66436,6 @@ iekfxxkrpjock.space
 ielabsdg-dc.net.mydays.de
 ieladhfhoiclv.online
 ieliryzgkzlam.website
-iemedyugz.com
 iemiq.com
 iemtz.admsport.com
 ientent.stre4mplay.one
@@ -83019,7 +83022,6 @@ loofiegentman.cyou
 looibkennqryb.space
 look-ahead.nurturemarketing.com
 look.desafio.agentise.ia.br
-look.flowln.com
 look.kfiopkln.com
 look.ufinkln.com
 lookandfind.me
@@ -104217,6 +104219,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -112980,7 +112983,6 @@ s-clk.rmp.rakuten.com
 s-cs.rmp.rakuten.com
 s-data-home360.home360.lt
 s-eu-1.pushpushgo.com
-s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
 s-ia.informatoreagrario.it
 s-img.adskeeper.co.uk
@@ -113728,7 +113730,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -122656,6 +122657,7 @@ sgtm.posternature.com
 sgtm.potencializabrasil.com
 sgtm.poufsacco.it
 sgtm.poulsborv.com
+sgtm.powerrichsports.com
 sgtm.praguedays.com
 sgtm.predeion.it
 sgtm.prefast.nl
@@ -147759,8 +147761,6 @@ support.ricoh.de
 support.ricoh.fr
 support.tbllprem.com
 support.tenten.vn
-support2.flex.com
-support3.flex.com
 supportedbailednotions.com
 supporters.redbankgreen.com
 supportiveinvoicevarnish.com
@@ -162754,6 +162754,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -169739,7 +169740,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
