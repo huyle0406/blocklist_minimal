@@ -7786,6 +7786,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -8958,6 +8959,7 @@ advantage.rsabroker.ca
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
+advariant.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
 advbroker.ru
@@ -11056,8 +11058,7 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.all.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -15577,6 +15578,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -16320,7 +16322,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -27215,7 +27216,6 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -41096,7 +41096,6 @@ directionotterrecharger.com
 directleads.com
 directlycascade.com
 directlysmother.com
-directnative.com
 directnavbt.com
 directoffers.go2cloud.org
 directone.xyz
@@ -46757,6 +46756,7 @@ ep.umobile.pl
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
+epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -49331,6 +49331,7 @@ fbcapi.avent-media.fr
 fbcapi.ayuverabd.com
 fbcapi.blanksboutique.com
 fbcapi.digitalever.com.bd
+fbcapi.ecory.com.bd
 fbcapi.glowhomemart.com
 fbcapi.gonaturebd.com
 fbcapi.halalgiftbd.com
@@ -50353,6 +50354,7 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -54670,7 +54672,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -61507,7 +61508,6 @@ gtm.theresonanceco.com
 gtm.therideside.com
 gtm.thermmaster.ba
 gtm.thermondo.de
-gtm.theroyaldown.com
 gtm.thesinglemaltshop.com
 gtm.thespicehouse.com
 gtm.thestartbr.com.br
@@ -80261,7 +80261,6 @@ load.ss.asaclean.com
 load.ss.asento.dk
 load.ss.athenas.no
 load.ss.atmintiesakademija.lt
-load.ss.aura-stores.com
 load.ss.avalon.com.ua
 load.ss.avalonriskmanagement.com
 load.ss.aystudios.dk
@@ -87653,7 +87652,6 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -94457,6 +94455,7 @@ ndpro.akbd.site
 ndpro.grammofood.com
 ndpro.primbd.org
 ndpro.swaponsworld.com
+ndpro.texoutfit.com
 ndprocesosfultr.org
 ndprooo.cleatsbd.com
 ndqdxm.thehyundai.com
@@ -109234,6 +109233,7 @@ redirectbandarxlsafest.com
 redirectbisnis4dsafest.com
 redirecthitnspin.com
 redirectingat.com
+redirectnative.com
 redirectpopads.com
 redirectvoluum.com
 redistats.com
@@ -113650,6 +113650,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -116958,6 +116959,7 @@ server.ad.logic-test.viasat.io
 server.ad.logic.viasat.io
 server.adapta.org
 server.adcplasp.com.br
+server.addtocart.com.bd
 server.adeisemarcondes.com.br
 server.adform.net
 server.adiyatbd.com
@@ -121128,7 +121130,6 @@ sgtm.bluebeni.com.br
 sgtm.blume2000.de
 sgtm.blurbmedia.co
 sgtm.bnbspecialistconveronica.it
-sgtm.boardsox.com.au
 sgtm.bobgerace.com
 sgtm.bohomoon.com
 sgtm.boletea.com.mx
@@ -162657,7 +162658,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -169637,6 +169637,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
