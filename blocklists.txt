@@ -7814,6 +7814,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -8960,6 +8961,7 @@ advantage.rsabroker.ca
 advantageroughplay.com
 advantagesclotblend.com
 advard.com
+advariant.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
 advbroker.ru
@@ -11060,9 +11062,6 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11728,7 +11727,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15583,6 +15581,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -15705,6 +15704,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -19804,7 +19804,6 @@ bftbphjlcefsk.site
 bftvpp.icu
 bfvlgp.appstory.co.kr
 bfwnbnerccsor.space
-bfwzpynoz.com
 bfxszq.miliboo.com
 bfxytxdpnk.com
 bfyaqriuvwrqo.site
@@ -23974,7 +23973,6 @@ capicst.rodrigorafael.com.br
 capidm.cocoons.com
 capifb.eyefixerbd.com
 capifb.kidzfunbd.com
-capifb.menvarse.com
 capig.10fitness.com
 capig.aaronjayyoungstudio.com
 capig.activeherb.com
@@ -25404,7 +25402,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -50369,7 +50366,6 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -53148,6 +53144,7 @@ galactify.unrulymedia.com
 galaksion.com
 galapeequoniam.qpon
 galaxiemedia.fr
+galaxien.com
 galaxymeet.ru
 galaxypush.com
 galeaeevovae.com
@@ -54691,7 +54688,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -58927,7 +58923,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -65129,7 +65124,6 @@ hqfhspz.com
 hqgkgvxhdlzba.store
 hqgkmj.marine-deals.co.nz
 hqhnb.red-equipment.ca
-hqhxfrcxxky.com
 hqiozkugrprzc.site
 hqitrefgxtwvb.space
 hqivmamgiwbhv.site
@@ -108096,7 +108090,6 @@ qzdwez.websurfshop.com.br
 qzfrzp.bewooden.cz
 qzfxcf.coastal.com
 qzgn652dp.com
-qzhwkhkpnpjxq.com
 qzizvxzcdvxnd.website
 qzjcjpugwmdda.site
 qzl8.destinia.fi
@@ -113704,7 +113697,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -128462,7 +128454,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -135662,7 +135653,6 @@ ssp.seznam.cz
 ssp.tenmax.io
 ssp.vidverto.io
 ssp.xapads.com
-ssp.zf313.com
 ssp.zog.link
 sspadstrk.adpopcorn.com
 sspapi-prd.samsungrs.com
@@ -148278,7 +148268,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetsoul.net
 sweetstudents.com
 swelen.com
@@ -162726,7 +162715,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -169711,6 +169699,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
