@@ -11066,7 +11066,6 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -15585,6 +15584,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -16329,7 +16329,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -25411,7 +25410,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -27233,7 +27231,6 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -49029,7 +49026,9 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -49648,6 +49647,7 @@ feed.adrelayer.com
 feed.aservice.tools
 feed.clickmenia.com
 feed.moneyoyo.org
+feed.pushtimize.coads.com
 feed.pushtimize.com
 feedad.com
 feedads.feedblitz.com
@@ -54863,6 +54863,7 @@ globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalstars.ru
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -55990,7 +55991,6 @@ goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 goshbiopsy.com
 gositego.live
 goskfw.goalstudio.com
-gosp.aniview.com
 gosports.all4fysio.nl
 gosquared.com
 gossamerwing.com
@@ -66790,7 +66790,6 @@ ikronzealu.com
 ikscwzjgxpeqy.site
 ikspzv.fincaraiz.com.co
 ikuaiquwan6.com
-ikubypxrzqjah.store
 ikuljdht.genealogybank.com
 ikuwnk.ibackup.com
 ikvjvw.pharma.mynavi.jp
@@ -70919,6 +70918,7 @@ jarwressaraced.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
+jasim.luxurydor.com
 jaskhuczzexoh.site
 jasmine33.top
 jasmonebubas.cyou
@@ -76168,7 +76168,6 @@ lhxqfxhqwoiiq.site
 lhxsrndtegeuo.online
 lhyioq.domodesign.kr
 lhzntghorkktf.website
-lhzsoiridsumh.space
 lhzulh.tribeamrapali.com
 lhzxdptexntmf.space
 li.blogtrottr.com
@@ -79988,6 +79987,7 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
+load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -84672,7 +84672,6 @@ majoraccounts.solutions.adpinfo.com
 majorad.net
 majorads.site
 majorbarefooted.com
-majorcharacter.com
 majoriklink.com
 majormakeupsuffer.com
 makaraelfkindaiva.cfd
@@ -84763,7 +84762,7 @@ management-itsup.exads.com
 management-slice.exads.com
 management-topple.exads.com
 management-venntro.exads.com
-management-vsmedia.exads.com
+management-vsmedia.exigin-c0.anthill.vn
 management.adxnow.com
 managementgrandpa.com
 manager.eaglecreek.com
@@ -87716,7 +87715,6 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -104226,7 +104224,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -106757,7 +106754,6 @@ qaixhtzsjyipb.store
 qajkvcdzxcqvn.space
 qajnn.green-bubble.com
 qakcceob.com
-qakqvajmhdpzd.store
 qal0.destinia.gr
 qaldatrxnjssm.site
 qalizyiehylan.space
@@ -113739,7 +113735,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -116965,7 +116960,6 @@ servedby.schrotundkorn.de
 servedby.tahoe.com
 servedby.thinkresult.in
 servedby.trackandfieldnews.com
-servedby.walaplusadserver.com
 servedby.xtraa.org
 servedbyadbutler.com
 servedbyopenx.com
@@ -117406,6 +117400,7 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
+server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -119580,6 +119575,7 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
+server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -123959,6 +123955,7 @@ shoughsluggerstyles.cyou
 shoukigaigoors.net
 shoulderinedible.com
 shoversuersjupard.cyou
+shovon.zelonii.com
 show-creative1.com
 show-sb.com
 show.afrobeatstotheworld.com
@@ -135699,6 +135696,7 @@ ssp.seznam.cz
 ssp.tenmax.io
 ssp.vidverto.io
 ssp.xapads.com
+ssp.zf313.com
 ssp.zog.link
 sspadstrk.adpopcorn.com
 sspapi-prd.samsungrs.com
@@ -139404,6 +139402,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -144526,7 +144525,6 @@ stapetest2.staging.paylogic.com
 stapetest3.staging.paylogic.com
 stapetrack.mistyricardo.com
 stapetrk.acquadesigngroup.it
-stapetropi.hangar39.com.br
 stapeusd.yourh.com.br
 stapevox2you.mktdrops.com
 staple.metodointento.com.br
@@ -154395,7 +154393,6 @@ tqmsl.bullymake.com
 tqnogxuqgwlmj.space
 tqoktissnsrqqf.com
 tqpmza.roughcountry.com
-tqpuvxhsrcoon.store
 tqqixldkdkcvi.site
 tqqjk.top
 tqrmlgjertjht.online
@@ -163429,6 +163426,7 @@ utopiaband.net
 utoumine.net
 utppooxusnnzr.online
 utqfh.dermdude.com
+utqoavwu.com
 utqsamjgxtrhv.website
 utrabixfwlgyq.site
 utraff.com
@@ -166002,7 +166000,6 @@ vtuzzlfmnpxdq.website
 vtv24.pro
 vtvay.com
 vtx2r60nuf.com
-vtxnfezsswgbq.website
 vtyhvy.segway.com
 vtytmm.sawary.com
 vtyv83k8gl9h7t3hjvx6.cfd
@@ -166896,7 +166893,6 @@ wbidr.com
 wbihfryznmmkm.space
 wbilvnmool.com
 wbiphu.johnbeerens.com
-wbiskyenhrwvx.website
 wbjolcnlghzac.space
 wbkar038r.com
 wbkcxsdbchyrj.website
@@ -171214,6 +171210,7 @@ xfmybdtedhzel.website
 xfnams.undone.co.jp
 xfobuc.serenaandlily.com
 xfqiwwdxryuvo.website
+xfqvroqnu.com
 xfrguohlskkmq.site
 xfslhh.visureinrete.it
 xfsyuigochwnt.space
