@@ -3175,6 +3175,7 @@ a1webstrategy.com
 a2.adform.net
 a2.americasavingsexperts.com
 a2.arabsex1.com
+a2.avomeen.com
 a2.borgentech.com
 a2.chartboost.com
 a2.consoletarget.com
@@ -7704,7 +7705,6 @@ ads-yallo-production.imgix.net
 ads.123net.jp
 ads.152media.com
 ads.1thegioi.vn
-ads.2mdnsys.com
 ads.360yield.com
 ads.568play.vn
 ads.5ci.lt
@@ -7821,6 +7821,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -11074,8 +11075,6 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -15599,6 +15598,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -15721,6 +15721,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -16347,7 +16348,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -25951,7 +25951,6 @@ cf.rocketquote.com
 cf.wolfclicktrack.com
 cf7xvu3z6z.com
 cfa-js.cafe24.com
-cfa.2mdnsys.com
 cfarvjcutttkn.website
 cfbgxtwssfqah.online
 cfbjod.zooeretz.co.il
@@ -27271,7 +27270,6 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -30962,7 +30960,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -54774,6 +54771,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -55347,7 +55345,6 @@ go.enterprise.spectrum.com
 go.ero-advertising.com
 go.errpgrt.com
 go.esri.fi
-go.estoneworks.com
 go.etoro.com
 go.event.eset.com
 go.exactonline.de
@@ -59005,6 +59002,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -79200,7 +79198,6 @@ load.juboiuler.swissdentalacademy.com
 load.julojo.sinezy.fr
 load.jwix.deregioslotenmaker.nl
 load.ka.kaias.se
-load.kanhuwfa.chairking.com
 load.kb6each0wp.cataloniaholidaylettings.co.uk
 load.kbmoundn.lineaer.dk
 load.kbx.foreverparty.co.uk
@@ -113878,6 +113875,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -136705,6 +136703,7 @@ sst.casinorecht.at
 sst.cassaros.fr
 sst.castalie.com
 sst.castellani.eu
+sst.catolicabs.porto.ucp.pt
 sst.catrindecor.com
 sst.cavefencing.co.uk
 sst.cavernhold.com
@@ -142581,6 +142580,7 @@ stape.fabiodantascursos.com.br
 stape.fabiogiusti.com.br
 stape.fabirochaboutique.com.br
 stape.fabricadesocios.com
+stape.fabriciaperon.com.br
 stape.fabriciodutra.com.br
 stape.fabrilcenter.com.br
 stape.fabulosoatelie.com.br
@@ -145085,7 +145085,6 @@ static-tracking.klaviyo.com
 static-uk.chartbeat.com
 static-v2.trbo.com
 static.100conversions.com
-static.2mdnsys.com
 static.9versemedia.com
 static.a-ads.com
 static.a-mo.net
@@ -145594,7 +145593,6 @@ stats-sg.ganymede.eu
 stats-ssl.mdanderson.org
 stats.123c.vn
 stats.1und1-drillisch.de
-stats.2mdnsys.com
 stats.45rpm.ch
 stats.4travel.jp
 stats.aapt.com.au
@@ -148174,7 +148172,6 @@ svs.bloxearplugs.com
 svs.svamphuset.com
 svsgar.pinkpanda.sk
 svside.trilogo.com.br
-svsmwlfqmj.com
 svst.pubandgo.de
 svstape.hotelfazendariodosfrades.com.br
 svstfplolhlll.website
@@ -150098,7 +150095,6 @@ tag.fastpatchdrywallrepair.com
 tag.flagship.io
 tag.fmscycles.com
 tag.foreverfierce.com
-tag.franquiahomeangels.com.br
 tag.furniture4you.nl
 tag.gammaplatform.com
 tag.geeker.co
@@ -156012,7 +156008,6 @@ track.enzzo.gr
 track.ertha.io
 track.escoladefotografos.com
 track.escoladoinconsciente.com.br
-track.estoneworks.com
 track.eurasc.org
 track.eurogirlsescort.com
 track.europe.nflshop.com
@@ -156343,7 +156338,6 @@ track.mvtcorp.com.br
 track.my.ofpfunding.com
 track.mybioherb.com
 track.mycliplister.com
-track.myclipstone.com
 track.mycustomplannow.com
 track.myiphonebd.shop
 track.myli.io
@@ -162920,7 +162914,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
