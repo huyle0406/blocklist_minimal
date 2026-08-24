@@ -11738,6 +11738,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15592,7 +15593,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -49388,6 +49388,7 @@ fbcapi.avent-media.fr
 fbcapi.ayuverabd.com
 fbcapi.blanksboutique.com
 fbcapi.digitalever.com.bd
+fbcapi.ecory.com.bd
 fbcapi.glowhomemart.com
 fbcapi.gonaturebd.com
 fbcapi.halalgiftbd.com
@@ -51903,7 +51904,6 @@ fr0z3nc0zysm1le.xyz
 fr701hx5vi.com
 fra-01.braze.eu
 fra-02.braze.eu
-fraagesport.com
 fraalb.cebanatural.com
 fraats.atome3d.com
 fraction05.com
@@ -55505,6 +55505,7 @@ go.pearsonvue.com
 go.peppermarketing.com.au
 go.pgx.com
 go.phhlending.com
+go.pinolli.ro
 go.planetnine.com
 go.playlg.com
 go.plygem.com
@@ -58972,7 +58973,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -103067,6 +103067,7 @@ pixel.augsburger-allgemeine.de
 pixel.autoads.asia
 pixel.automateapollo.com
 pixel.aws.pfnetwork.net
+pixel.babbu.com.bd
 pixel.babysleepmethod.online
 pixel.bapi.adsafeprotected.com
 pixel.barion.com
@@ -128558,6 +128559,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -133068,6 +133070,7 @@ ss.gabrielaguth.com
 ss.gacha168win35.store
 ss.gacha168win44.store
 ss.gadgetghotok.com
+ss.gadgetry.ro
 ss.gaia-klangspiele.de
 ss.gaiachimes.co.uk
 ss.gaiachimes.com
@@ -153503,6 +153506,7 @@ tm.shipshape.dk
 tm.stresslessdogs.com
 tm.stresslessdogs.nl
 tm.tastico.com.bd
+tm.tataupavira.com
 tm.teknidan.dk
 tm.tenthmuselondon.com
 tm.tradetracker.net
@@ -162066,7 +162070,6 @@ universalsrc.com
 universe.send.microad.jp
 universe7.top
 universitycleaninglunch.com
-universityofinternetscience.com
 universityonline.marketo.com
 universityroadsidecircumstantial.com
 universityshocksooner.com
@@ -162835,7 +162838,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -166325,6 +166327,7 @@ vyyikx.sixt.ch
 vyykdr.renogy.com
 vyz3nn85ed0e.controlconceptsusa.com
 vz.7vid.net
+vz.winkletimburse.cfd
 vz95953ow5.com
 vzafeclhxfuym.website
 vzal21mooz.hyperwrite.ai
