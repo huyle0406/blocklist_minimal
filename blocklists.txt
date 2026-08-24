@@ -8460,6 +8460,7 @@ adservice.google.de
 adservice.google.se
 adservice.hani.co.kr
 adservice.sbs.co.kr
+adservice.tohsoft.com
 adservicemedia.dk
 adservices.brandcdn.com
 adserving.menatech.net
@@ -11064,8 +11065,6 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -11732,6 +11731,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -25412,7 +25412,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -27235,6 +27234,7 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -41494,7 +41494,6 @@ dk45agakx3yfl.cloudfront.net
 dk4w74mt6naf3.cloudfront.net
 dk57sacpbi4by.cloudfront.net
 dkacs.airvidachambers.com
-dkaktsb.icu
 dkaon1jjeo.com
 dkattqczpqtsi.site
 dkbicq.elektramat.nl
@@ -105858,7 +105857,6 @@ pub.club-internet.fr
 pub.doubleverify.com
 pub.dv.tech
 pub.funshion.com
-pub.hardware.fr
 pub.headerlift.com
 pub.lavamedia.vn
 pub.lavanetwork.net
@@ -106272,7 +106270,6 @@ push-notifications.top
 push-sdk.com
 push-sdk.net
 push-sense.com
-push-subservice.com
 push.aarth.net
 push.adnow.com
 push.bvsrv.com
@@ -122679,6 +122676,7 @@ sgtm.posternature.com
 sgtm.potencializabrasil.com
 sgtm.poufsacco.it
 sgtm.poulsborv.com
+sgtm.powerrichsports.com
 sgtm.praguedays.com
 sgtm.predeion.it
 sgtm.prefast.nl
@@ -147288,6 +147286,7 @@ suachuadienmayxanh.com.vn
 suamhsrqfuqle.website
 suantlysnowk.cfd
 suao-defender.pro
+suativinguyenkim.com
 suawddlsmamci.website
 sub.3dmobilemammography.com
 sub.3smultinational.com
@@ -162786,6 +162785,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
