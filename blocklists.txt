@@ -1,3 +1,4 @@
+0.0.0.021.info
 0.avmarket.rs
 0.myikas.com
 0.net.easyjet.com
@@ -7820,7 +7821,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -9149,7 +9149,6 @@ adwist.ru
 adwitserver.com
 adwmab.card-db.com
 adwmg.com
-adwo.com
 adwolf.ru
 adwooo.fs.ak-is2.net
 adword.ge
@@ -11072,7 +11071,8 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11294,7 +11294,6 @@ alypinsaeume.cyou
 alyres.mybasic.com.br
 alys.bilsyndication.com
 alysson.de
-alytics.com
 alzexa.com
 alzilcohddyyx.online
 alzns.carters.com
@@ -11740,7 +11739,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -16342,7 +16340,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -22691,7 +22688,6 @@ bwmxdg.kimono-365.jp
 bwngwridgzuvl.website
 bwntyd.neuve-a.net
 bwnxh.peaceoutskincare.com
-bwoaqpffevm.in
 bwodskyelhpbn.space
 bwofuzfzhgqnp.website
 bwp.download.com
@@ -27664,6 +27660,7 @@ clprfkljfcmnm.site
 clprr.com
 clpx.l2l11bqg1myq1ytu2jck3.cyou
 clrci.canadagoose.com
+clrpdhptoddatj49.pro
 clrqbqtonradt.online
 clrstm.com
 cls.vrvm.com
@@ -27908,7 +27905,6 @@ cnkbiotmdnegp.space
 cnlbcn.allforfood.com
 cnlbxi.zoopla.co.uk
 cnlogs.umengcloud.com
-cnlr.thepornstar.com
 cnmdx.legendairymilk.com
 cnmwoxnyxyzhs.website
 cnn.bounceexchange.com
@@ -39909,6 +39905,7 @@ delivery.buffetti.it
 delivery.casabito.io
 delivery.cdp.asia
 delivery.congthuong.vn
+delivery.dighty.com
 delivery.doisongphapluat.com.vn
 delivery.g.switchadhub.com
 delivery.gettopple.com
@@ -43200,7 +43197,6 @@ dt71.net
 dta.apploye.com
 dta.eventoslatorre.com
 dta.woest-sport.com
-dtabcyojd.in
 dtadnetwork.com
 dtakdb1z5gq7e.cloudfront.net
 dtashjvcjswq.info
@@ -86928,7 +86924,6 @@ mawptuaz.com
 mawu.azigiheadquarters.xyz
 max-adserv.com
 max.i12.de
-max21.info
 maxbounty.com
 maxconvtrk.com
 maxcruisers.com
@@ -87780,6 +87775,7 @@ mediaiqdigital.com
 mediakraft.se
 medialand.ru
 medialets.com
+medialytics.com
 mediamath.com
 mediameter.by
 mediametrics.mpsa.com
@@ -91008,6 +91004,7 @@ mfzjiodzpsjdk.space
 mfzrr.mixperfume.com
 mg.32r.com
 mg.adskeeper.co.uk
+mg.dt00.net
 mg.glwxw.net
 mg.info.averydennison.com
 mg.maisons-begi.fr
@@ -95285,7 +95282,6 @@ nexus.toyota.com
 nexus.uniten.io
 nexus.virginholidays.co.uk
 nexusbloom.xyz
-nexx360.io
 nexxtv-events.servicebus.windows.net
 nexxxt.biz
 neykax.tappwater.co
@@ -99909,7 +99905,6 @@ ovpukbvfluhnw.site
 ovpwvioj.fdbmobler.dk
 ovrce.aneseskin.com
 ovret.com
-ovrgackuno.in
 ovrsso.gemo.fr
 ovsaopbvoajdn.website
 ovtsn.snagtights.us
@@ -104219,6 +104214,7 @@ pornoheat.com
 pornojux.com
 pornomasse.com
 pornorunet.ru
+pornstar.com
 porntrack.com
 pornvideos.casa
 porojo.net
@@ -105919,7 +105915,6 @@ pub.club-internet.fr
 pub.doubleverify.com
 pub.dv.tech
 pub.funshion.com
-pub.hardware.fr
 pub.headerlift.com
 pub.lavamedia.vn
 pub.lavanetwork.net
@@ -106576,7 +106571,6 @@ px.mountain.com
 px.onlygal.es
 px.pocpoc.io
 px.quantserve.com
-px.sharethis.com
 px.srvcs.tumblr.com
 px.staticfiles.at
 px.steelhousemedia.com
@@ -108092,6 +108086,7 @@ qwikln.com
 qwlmacbmwmtum.online
 qwnizqblmkevc.space
 qwnzzp50x.com
+qwo2megh2y.bj9oo31oomni2o28z.cyou
 qwodmzryxhtss.website
 qwooxrmixmzi.com
 qwpcoi.uaf.com.hk
@@ -112295,6 +112290,7 @@ rtb.mts.ru
 rtb.nowsrv.com
 rtb.nuismak.com
 rtb.openx.net
+rtb.pclick.yahoo.com
 rtb.prnteen.com
 rtb.prod.carbonatixaudio.com
 rtb.recoilnetwork.com
@@ -113067,7 +113063,6 @@ s-clk.rmp.rakuten.com
 s-cs.rmp.rakuten.com
 s-data-home360.home360.lt
 s-eu-1.pushpushgo.com
-s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
 s-ia.informatoreagrario.it
 s-img.adskeeper.co.uk
@@ -128578,6 +128573,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -147471,7 +147467,6 @@ subcoolteenful.cyou
 subdatejutties.com
 subdividecola.com
 subdo.torrentrapid.com
-subdomain.mksteshop.com
 subdomein.stoneybracelets.nl
 subduedetrude.shop
 subfaceunchild.qpon
@@ -148396,7 +148391,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetsoul.net
 sweetstudents.com
 swelen.com
@@ -175043,7 +175037,6 @@ zavnnfijuylnu.site
 zawad.sarnora.com
 zawra9izy3.com
 zaxffxesykzvfs.com
-zaxqcyqhaqcy.in
 zaxxigefrdixn.online
 zay7gs1xkl.com
 zayzkmchtsexp.space
