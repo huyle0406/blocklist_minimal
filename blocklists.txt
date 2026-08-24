@@ -7796,6 +7796,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -11743,7 +11744,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -23874,7 +23874,6 @@ capi.mrbazar.com.bd
 capi.mrmstore.com
 capi.namestories.co.uk
 capi.naturalbangladesh.com.bd
-capi.naturalsbyrakhi.com
 capi.naturalsefa.com
 capi.naturalsmiles.co.uk
 capi.neembaayurvedic.com
@@ -25440,6 +25439,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -27269,6 +27269,7 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -38419,7 +38420,6 @@ data.qamarketing.giftcards.com
 data.qr.test.ajo.adobe.com
 data.qrgroup.qatarairways.com
 data.quadthera.us
-data.queens-aura.com
 data.queryly.com
 data.qurlad.my
 data.r.pl
@@ -94784,7 +94784,6 @@ neoss.eslabglobal.com
 neoss.espaciosrrbienesraices.com
 neoss.falocolombia.com
 neoss.fastpavos.com
-neoss.ganaconshoppy.com
 neoss.hntrendshop.com
 neoss.hondumkt.com
 neoss.hypeimports.com
@@ -109414,7 +109413,6 @@ redir.goraps.com
 redir.hightid.xyz
 redir.jads.co
 redir.juicyads.com
-redir.lowtid.xyz
 redir.ownpage.fr
 redir.summerwaveadventures.com
 redir.tradedoubler.com
@@ -113863,6 +113861,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -119308,6 +119307,7 @@ server.perfumelounge.co.za
 server.perfumiz.com
 server.periciamedicapro.com.br
 server.pericoco.com.br
+server.personalizandocomca.com.br
 server.petalcalyx.com
 server.petcasarao.com.br
 server.pethouse.sk
@@ -123028,6 +123028,7 @@ sgtm.simoahava.com
 sgtm.simonevaccari.it
 sgtm.simpleefly.com
 sgtm.simplelifeatacado.com.br
+sgtm.simplesimplantes.com.br
 sgtm.simplimatch.com
 sgtm.simtop.co.il
 sgtm.sinnerup.de
@@ -124290,6 +124291,7 @@ signal.milleni.com.tr
 signal.stoneward.com
 signal.tryshdad.com
 signal.unitechmaintenance.ae
+signal.wida.sa
 signaladsdirect.top
 signalayer.com
 signaldinge.cfd
@@ -162898,6 +162900,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -165864,7 +165867,6 @@ vpaid.impactify.media
 vpaid.mathtag.com
 vpaid3.adsafeprotected.com
 vpath.net
-vpbank.appvest.vn
 vpbankvn.com
 vpbez.swiglife.com
 vpbhuddvufxvb.space
@@ -169906,6 +169908,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -170343,6 +170346,7 @@ www.lightboxcdn.com
 www.lijit.com
 www.linkonclick.com
 www.linkshare.com
+www.lkqd.net
 www.load.stape.drafernandapsiquiatra.com.br
 www.localytics.com
 www.logly.co.jp
