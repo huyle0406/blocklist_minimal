@@ -7799,6 +7799,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -7824,7 +7825,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -11077,8 +11077,6 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11746,6 +11744,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -16353,7 +16352,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -23336,7 +23334,6 @@ cafeqnugevtpm.website
 cafescampfires.com
 cafewarriors.com
 cafflekiloton.com
-cafi.vinnoshop.com
 cafi.xitbazar.com
 cafnb.easymoneyoutlet.com
 cagaieedrohdv.site
@@ -25449,7 +25446,6 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -42471,7 +42467,6 @@ drankclosed.com
 drankexpertstroll.com
 drankinjectioncircumference.com
 draperyrevolvertiara.com
-dratbeyond.com
 dratetillage.com
 drato.xyz
 drawerexperienceletting.com
@@ -49094,6 +49089,7 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
 falcoware.com
 falhcegbmvooc.site
@@ -50452,7 +50448,6 @@ find.api.micloud.xiaomi.net.iberostar.com
 findandate.com
 findbetterresults.com
 findcalculator.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -54785,7 +54780,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -54940,6 +54934,7 @@ globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalstars.ru
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -58848,7 +58843,6 @@ gtm.fxcg-education.cz
 gtm.fynebody.com.au
 gtm.fynlax.com
 gtm.g-essestore.com
-gtm.g2academy.com.br
 gtm.g7juridico.com.br
 gtm.gabbiesclub.com
 gtm.gabibraitt.com.br
@@ -59014,6 +59008,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -62751,7 +62746,6 @@ gwddp.iltutto.com.au
 gwdsyh.toyotacenter.ru
 gweeonscar.qpon
 gwen.insertcoin.se
-gweqyd.fitadium.com
 gwfyn.ptmassagespringfieldmo.com
 gwguyh.edreams.es
 gwiryqwgylcdq.online
@@ -75274,6 +75268,7 @@ landingpage.cloud.email.ikea.om
 landingpage.emaillpb.adobe.com
 landingpage.healthybluemo.com
 landingpage.mail.unia.ch
+landingpage.novanet.vn
 landingpage.novaonx.com
 landingpagelagi.vn
 landingpages.fedex.dev.ajo.adobe.com
@@ -83422,6 +83417,7 @@ lp.myline.com.br
 lp.news.starbucks.com
 lp.nexity.fr
 lp.northwestern.nm.org
+lp.novanet.vn
 lp.oliveirapro.shop
 lp.opticalcursos.com.br
 lp.outbrain.com
@@ -84806,7 +84802,6 @@ maling.dn.no
 maling.ue.dn.no
 maliva-mcs.byteoversea.com
 malkitelapsed.qpon
-mall0.qiyipic.com
 mallcom.com
 malletthingluxury.com
 malmo.travelafricamag.com
@@ -84917,6 +84912,7 @@ mantasdilluebu.qpon
 mantelagalaxybarky.qpon
 mantelsfanfare.com
 mantis-awx.com
+mantis.autoads.asia
 mantisadnetwork.com
 mantoidvenom.cyou
 manualdiverge.com
@@ -87928,6 +87924,8 @@ meds.savella.com
 meds.viibryd.com
 meds.viibrydhcp.com
 medtargetsystem.com
+medtronicdiabetes.medtronic.com
+medtronicsolutions.medtronic.com
 medusa-api.cbsileads.com
 medusasdewcap.cyou
 medyanative.com
@@ -92060,6 +92058,7 @@ mobile.juicyads.com
 mobile.log.hunantv.com
 mobile.mng-ads.com
 mobile.net.dz.jumia.com
+mobile.novanet.vn
 mobile.slgnt.eu
 mobile.smaato.com
 mobile.smartadserver.com
@@ -99003,6 +99002,7 @@ openhit.com
 openingclutter.com
 openingfridayconsulting.com
 openinstall.io
+openinternetexchange.com
 openinternetexchange.net
 openlinks.ru
 openlog.tapapis.cn
@@ -104360,7 +104360,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -112498,6 +112497,7 @@ rtg.prdredir.com
 rtg.rubiconredirect.com
 rtgej.beacon40.com
 rtgio.co
+rtgtk.medtronic.com
 rthgioiiitlww.space
 rthm.1rx.io
 rthpetahceiol.space
@@ -124319,6 +124319,7 @@ signal.emilyhawkins4u.com
 signal.houndslounge.com
 signal.milleni.com.tr
 signal.stoneward.com
+signal.tryshdad.com
 signal.unitechmaintenance.ae
 signal.wida.sa
 signaladsdirect.top
@@ -128653,6 +128654,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -139561,6 +139563,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -140021,7 +140024,6 @@ sst.telefonarnet.com.br
 sst.teleoutlet.no
 sst.telescoperche.com
 sst.telewealth.com
-sst.temaso.me
 sst.temptation-experience.com
 sst.temptationresorts.com
 sst.tenderresturns.com
@@ -144411,7 +144413,6 @@ stape.vappore.com
 stape.vceliste.cz
 stape.vds.tech
 stape.vectrabroker.com
-stape.vegasgaming.io
 stape.veiko.pro
 stape.veliaramx.com
 stape.vellaclean.com
@@ -149447,6 +149448,7 @@ t.helpingamericatoday.com
 t.helsingo.com
 t.helsingo.fi
 t.helsingo.se
+t.hentaivox.com
 t.herceptin.com
 t.herdzone.com
 t.herfinances.com
@@ -150300,6 +150302,7 @@ tagging.numafa.com
 tagging.o2.fr
 tagging.oceansideseafood.com
 tagging.omix.nl
+tagging.on-route.nl
 tagging.paintedforever.com
 tagging.plissehordeurenwebshop.nl
 tagging.poederbaas.com
@@ -168146,7 +168149,6 @@ welovedata.go2cloud.org
 welshedshills.shop
 welshedwaywort.shop
 welsscrewer.qpon
-welt-der-links.de
 welte.jp
 weltedsloppypinked.cyou
 weltsgtm.weltausholz.de
@@ -169943,6 +169945,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
