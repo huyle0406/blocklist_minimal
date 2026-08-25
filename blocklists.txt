@@ -61,7 +61,6 @@
 058d79990c.com
 05b9daf35c.com
 05e76a16b8.5e3d5f480f.com
-05f3b6b187.com
 0628ba07b4.com
 063rpyn37z.com
 064kk.com
@@ -135,7 +134,6 @@
 0e091251b2.com
 0e176a58eb.com
 0e1y8x7ft.com
-0e4a4c9e4e.com
 0e7mnbmbb.com
 0e9knynfb.com
 0eab70c429.a567dda4c2.com
@@ -2137,7 +2135,6 @@
 7c11c184e6.com
 7c23586009.com
 7c2vd9kr4pt.assugrin.ch
-7c37119d9d.2533555ba6.com
 7c52629d53.com
 7c5cf38728.548f23e472.com
 7c9215c578.cb260f4651.com
@@ -2493,7 +2490,6 @@
 93819zqt6epxrhz2tv15p.zf97x7hgi8gm8u.cyou
 93a72bfca9.com
 93a83c07e9.7c1569a605.com
-93febf18c6.com
 93gtx4pc2w.com
 93jdm.zx7mcnbcw.bond
 93txjw4rt2.com
@@ -7827,7 +7823,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -11079,7 +11074,8 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11747,6 +11743,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -25446,6 +25443,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -27879,7 +27877,6 @@ cmzno.fabtab.com
 cn-go.experian.com
 cn.adpinfo.com
 cn.bidushe.com
-cn.hotclips.click
 cn.lucasfinanzas.cl
 cn.mywd.com
 cn4.animehdl.net
@@ -30963,6 +30960,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -59001,7 +58999,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -91283,6 +91280,7 @@ milestonebreathdilate.com
 milestoneintegerathletics.com
 militantrelieve.com
 militantwitnessfelon.com
+milk.supertool.stunnermedia.com
 milk.yesky.com.cn
 milkencarajas.cfd
 milkenfr.com
@@ -108140,7 +108138,6 @@ qwikln.com
 qwlmacbmwmtum.online
 qwnizqblmkevc.space
 qwnzzp50x.com
-qwo2megh2y.bj9oo31oomni2o28z.cyou
 qwodmzryxhtss.website
 qwooxrmixmzi.com
 qwpcoi.uaf.com.hk
@@ -113120,7 +113117,6 @@ s-clk.rmp.rakuten.com
 s-cs.rmp.rakuten.com
 s-data-home360.home360.lt
 s-eu-1.pushpushgo.com
-s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
 s-ia.informatoreagrario.it
 s-img.adskeeper.co.uk
@@ -113868,6 +113864,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -122792,6 +122789,7 @@ sgtm.posternature.com
 sgtm.potencializabrasil.com
 sgtm.poufsacco.it
 sgtm.poulsborv.com
+sgtm.powerrichsports.com
 sgtm.praguedays.com
 sgtm.predeion.it
 sgtm.prefast.nl
@@ -124759,7 +124757,6 @@ skadnetwork.singular.net
 skadnetworks.fyber.com
 skadsdk.appsflyer.com
 skadsdk.appsflyersdk.com
-skadsdk.appsflyersdk.comol.stunnermedia.com
 skaldicclat.cfd
 skaqaz.witt-weiden.ch
 skarhkcpnjaky.website
@@ -162905,7 +162902,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
