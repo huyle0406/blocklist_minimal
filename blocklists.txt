@@ -387,6 +387,7 @@
 17de4c16.akstat.io
 17de4c17.akstat.io
 17do048qm.de
+17mjq.gci4htc7y58on2btb1i.cyou
 17mmc5g1n.com
 17ryi4j3qb.com
 18.afs.googleadservices.com
@@ -6162,6 +6163,7 @@ ad.us.sinaimg.cn
 ad.usatoday.com
 ad.ust-ad.com
 ad.utop.ir
+ad.velomania.ru
 ad.video-mech.ru
 ad.vidver.to
 ad.vidverto.io
@@ -11079,7 +11081,6 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
@@ -11749,7 +11750,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -16357,7 +16357,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -30990,7 +30989,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -49120,7 +49118,9 @@ falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -54813,6 +54813,7 @@ gl-adsrv.rtbsuperhub.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla3sr9r1m.com
 gla63a4l.de
@@ -54967,6 +54968,7 @@ globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalstars.ru
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -104396,7 +104398,6 @@ possibilities.theajinetwork.com
 possibilityfoundationwallpaper.com
 possibilityteddefensive.com
 possibleboats.com
-possiblefinish.pro
 possiblepencil.com
 posst.co
 possyacetals.shop
@@ -104410,7 +104411,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -118551,7 +118551,6 @@ server.hongsonbd.com
 server.honoor.co.uk
 server.honydiyar.com
 server.hoophello.com
-server.hoorpori.com
 server.hops.es
 server.hospedin.com
 server.hossainbrothers.com.bd
@@ -122570,7 +122569,6 @@ sgtm.munch.co.za
 sgtm.munksgaard.dk
 sgtm.museerne.dk
 sgtm.mushkeez.com
-sgtm.muslimfashionbd.com
 sgtm.muurbloempjes.com
 sgtm.myadu360.com
 sgtm.myareadesign.com
@@ -125316,8 +125314,6 @@ smartclip.com
 smartclip.net
 smartcpatrack.com
 smartctr.com
-smarterhq.io
-smarterremarketer.net
 smartico.one
 smartlify.com
 smartlink.adpia.vn
@@ -128696,6 +128692,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -139604,6 +139601,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -162986,7 +162984,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
@@ -170001,6 +169998,7 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
