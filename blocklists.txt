@@ -11084,7 +11084,6 @@ allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfreecounter.com
 alliancefurs.com
 alliedrebelcreative.com
@@ -11752,7 +11751,6 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
-analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15610,6 +15608,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -15732,7 +15731,6 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
-app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -16359,7 +16357,6 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -23601,6 +23598,7 @@ cane.intel.co.jp
 cane.intel.co.kr
 cane.intel.co.uk
 cane.intel.com
+cane.intel.com.au
 cane.intel.com.br
 cane.intel.com.tr
 cane.intel.com.tw
@@ -23608,6 +23606,7 @@ cane.intel.de
 cane.intel.es
 cane.intel.fr
 cane.intel.in
+cane.intel.it
 cane.intel.la
 cane.intel.pl
 canekilttantrum.com
@@ -27145,7 +27144,6 @@ click.eclk.club
 click.eclkxopteam.com
 click.ecxclk.com
 click.elker.com
-click.exclk.com
 click.exclplatmain.com
 click.execrank.com
 click.exmainclck.com
@@ -27276,6 +27274,7 @@ clickguardian.app
 clickhere.ru
 clickhereforcellphones.com
 clicki.cn
+clickigin-c0.anthill.vn
 clickinc.com
 clickintext.com
 clickintext.net
@@ -30799,6 +30798,7 @@ crowbarrinds.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -46864,6 +46864,7 @@ ep.umobile.pl
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
+epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -59541,7 +59542,6 @@ gtm.kenit.com.br
 gtm.kenomania.club
 gtm.kesseloutfits.com
 gtm.kettlebellevolution.com.br
-gtm.kfcgutscheine.de
 gtm.kglteater.dk
 gtm.khapsu.com
 gtm.kidsa.com
@@ -60410,6 +60410,7 @@ gtm.nostalgia.retrobox.app.br
 gtm.notarypro.ca
 gtm.notazz.com
 gtm.novadigy.com
+gtm.novaiflex.com.br
 gtm.novakute.com
 gtm.novavisaooftalmo.com.br
 gtm.novayorkevoce.com
@@ -65087,7 +65088,6 @@ hotbcivuya.today
 hotbedsleafdom.com
 hotbkegora.today
 hotboysnearby.net
-hotbxocajo.today
 hotdate.co.il
 hotel-marketing.hrs.com
 hotelscombined.com.au
@@ -69444,7 +69444,6 @@ insights-jobs-ingress.prod.leanplum.com
 insights-mxp.coursecareers.com
 insights-tag.convertkit.com
 insights.academy.com
-insights.accessiblu.com
 insights.aiu.edu.au
 insights.aiu.sg
 insights.algolia.io
@@ -86907,6 +86906,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -87850,6 +87850,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -92291,7 +92292,6 @@ molavedoors.cfd
 mole.bteam.co
 mole.dansksejlunion.dk
 mole.getfamealy.com
-mole.gostartupco.com
 mole.venturini.dev
 molebjeivsqwq.online
 moleconcern.com
@@ -104414,6 +104414,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -106804,7 +106805,6 @@ pyrkxp.novafotograf.com
 pyrzoa.kolonnenull.com
 pysdvwrawkwjz.space
 pysfn.benchclearers.com
-pysvfggnwzzf.com
 python.casuallyprivate.com
 python.jukejuke.app
 pytkdwpsaghfp.site
@@ -118377,7 +118377,6 @@ server.fountainful.com
 server.fourlabnutri.com.br
 server.fragataprivatebrokers.com.br
 server.francesconolivier.com
-server.franquiasd.com
 server.franveiculosbb.com.br
 server.freelanz.app
 server.freitastcg.com.br
@@ -120369,6 +120368,7 @@ serverb.vitasono.com.br
 serverbid.com
 serverbodyjewelry.piercedtribal.com
 serverbrasil.bingo12.com
+servercontainer.insightquill.com
 serverdata.amplacontainers.com.br
 serverdata.tratamentocanabinoides.com.br
 serverdraanasorrentino.unifast.com.br
@@ -128712,6 +128712,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
 smetrics.saxxanlage.ostsaechsische-sparkasse-dresden.de
@@ -136781,7 +136782,6 @@ sst.casinorecht.at
 sst.cassaros.fr
 sst.castalie.com
 sst.castellani.eu
-sst.catolicabs.porto.ucp.pt
 sst.catrindecor.com
 sst.cavefencing.co.uk
 sst.cavernhold.com
@@ -143298,7 +143298,6 @@ stape.lp.agentesdesonhos.com.br
 stape.lp.amdpromocionais.com.br
 stape.lp.ameliacostura.com.br
 stape.lp.assegura.com.br
-stape.lp.biossegurancasemstress.com.br
 stape.lp.caveo.com.br
 stape.lp.fausp.edu.br
 stape.lp.houseimobiliariadigital.com
@@ -149010,6 +149009,7 @@ sys.institutolapalabra.com
 sys.jumpeducacao.com.br
 sys.refocus.ru
 sys.vidsrev.com
+sysmeasuring.net
 sysmon.kakaku.com
 sysomos.com
 sysoutvariola.com
@@ -150148,7 +150148,6 @@ tag.conciergeriefrenchy.com
 tag.contactatonce.co.uk
 tag.contentanalytics.jp
 tag.contextweb.com
-tag.craftmartbd.com
 tag.cribnotes.jp
 tag.crsspxl.com
 tag.cygnetgroup.com
@@ -170019,7 +170018,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
