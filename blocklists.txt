@@ -7804,6 +7804,7 @@ ads.blogherads.com
 ads.bluemountain.com
 ads.botbanhang.vn
 ads.boylesports.com
+ads.brazzers.com
 ads.bulldogcpi.com
 ads.bullionyield.com
 ads.businessstyle.vn
@@ -11751,6 +11752,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -15608,7 +15610,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -15731,6 +15732,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -16357,6 +16359,7 @@ as-dmpsync.3lift.com
 as-eb2.3lift.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -23598,7 +23601,6 @@ cane.intel.co.jp
 cane.intel.co.kr
 cane.intel.co.uk
 cane.intel.com
-cane.intel.com.au
 cane.intel.com.br
 cane.intel.com.tr
 cane.intel.com.tw
@@ -23606,7 +23608,6 @@ cane.intel.de
 cane.intel.es
 cane.intel.fr
 cane.intel.in
-cane.intel.it
 cane.intel.la
 cane.intel.pl
 canekilttantrum.com
@@ -25455,6 +25456,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprysmile.com
 cdn.starseed.fr
@@ -30797,7 +30799,6 @@ crowbarrinds.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdsubsequentadmire.com
@@ -46863,7 +46864,6 @@ ep.umobile.pl
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
-epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -49367,7 +49367,6 @@ fathmurskewed.cfd
 fathomderelict.com
 fathomdns.com
 fathomexplodedreluctant.com
-fathomseo.com
 fatigueboisterousrequisite.com
 fatiguemataspiration.com
 fatiguerecipes.com
@@ -53474,6 +53473,7 @@ gateway.cloud.sbs.co.kr
 gateway.craftinfocus.com
 gateway.cybertransform.com
 gateway.dbandit.com
+gateway.denso-am.eu
 gateway.euvou.events
 gateway.exoqarys.com
 gateway.five-am.com
@@ -59040,7 +59040,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -65758,7 +65757,6 @@ hvrhgt.thescottishsun.co.uk
 hvrhgt.thesun.co.uk
 hvrhgt.thesun.ie
 hvrzig.e-domizil.ch
-hvsfbiflxxx.com
 hvteqk.snowleader.com
 hvuihu.undiz.com
 hvuuvjdlqdtwo.space
@@ -68250,7 +68248,6 @@ info.aranzadilaley.es
 info.archerdx.com
 info.arclogics.com
 info.ardentsolutionsllc.aleragroup.com
-info.arp.com
 info.arrowheadtownecenter.com
 info.ascassociation.org
 info.asce.org
@@ -86910,7 +86907,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -87854,7 +87850,6 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -104419,7 +104414,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postaffiliatepro.com
@@ -113954,6 +113948,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -120374,7 +120369,6 @@ serverb.vitasono.com.br
 serverbid.com
 serverbodyjewelry.piercedtribal.com
 serverbrasil.bingo12.com
-servercontainer.insightquill.com
 serverdata.amplacontainers.com.br
 serverdata.tratamentocanabinoides.com.br
 serverdraanasorrentino.unifast.com.br
@@ -120621,7 +120615,6 @@ service-dev.idsync.analytics.yahoo.com
 service.arredamentopari.com
 service.athlon.com
 service.bambus-parkett.de
-service.bechtle.com
 service.charitiesaidfoundation.org.uk
 service.e-volution.ai
 service.fastaxol.net
@@ -149008,7 +149001,6 @@ sypuhe.thelittlegreenbag.nl
 syqhvv.vivense.com
 syrcaufle.cfd
 syrdgbyaktgsw.space
-syrhftrrhcll.com
 syriacgrumose.com
 syringesornerssimars.cyou
 syrupimmediate.com
@@ -150267,7 +150259,6 @@ tag.unifyintent.com
 tag.userreport.com
 tag.vezzi.pl
 tag.vitallsportsclassics.com
-tag.viva-cruises.com
 tag.vlitag.com
 tag.voice.zetacx.net
 tag.waterworldmedford.com
@@ -163013,6 +163004,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.quantumgraph.com
 usersasa.com
 usersegment.wpdigital.net
