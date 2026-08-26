@@ -6217,7 +6217,6 @@ ad1.girls-affiliate.com
 ad1.kde.cz
 ad1.missyusa.com
 ad1.on.cc
-ad1.ru
 ad1.sportschosun.com
 ad1.udn.com
 ad11.adfarm1.adition.com
@@ -11088,7 +11087,7 @@ allergy.thermofisher.com
 allergybellowneck.com
 alleviatepracticableaddicted.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 alliancefurs.com
@@ -15616,7 +15615,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -15739,6 +15737,7 @@ app.woopra.com
 app.wootric.com
 app.wsucougars.com
 app.wvusports.com
+app.xdrig.com
 app.xtreamarena.com
 app.your.csc.com
 app.your.level3.com
@@ -27323,6 +27322,7 @@ clickmediahub.com
 clickmerkez.com
 clickmeter.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clicknano.com
@@ -38537,7 +38537,6 @@ data.rmsocio.realmadrid.com
 data.roast-restaurant.com
 data.roboservice.io
 data.robotimeonline.ro
-data.rodrigopioto.com.br
 data.ronniecoleman.net
 data.rototank.co.za
 data.roverkob.dk
@@ -42262,7 +42261,6 @@ doswwi.caringlasses.com
 dot-com-stats.sladewatkins.net
 dot.texastribune.org
 dot.wp.pl
-dotandad.com
 dotaudiences.com
 dotcounter.douyucdn.cn
 dotdotlab.com
@@ -44895,7 +44893,6 @@ edge.barretostrapfestival.com.br
 edge.bell.ca
 edge.bestbrilliance.com
 edge.betagammabox.ai
-edge.bigbrothercanada.ca
 edge.boom1019.com
 edge.boom997.com
 edge.boomerang-tv.ca
@@ -53386,7 +53383,6 @@ gameteaser.ru
 gamfqcmtvplca.space
 gamigoads.com
 gaming-adult.com
-gaming001.site
 gamingadlt.com
 gamingfun.me
 gamma.cachefly.net
@@ -56504,6 +56500,7 @@ grfpr.com
 grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
+grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -60011,7 +60008,6 @@ gtm.marciavieira.com
 gtm.marcioliver.com
 gtm.marciopedrico.com.br
 gtm.marciotomazela.com.br
-gtm.marcosrox.com.br
 gtm.marechalveiculoscl.com.br
 gtm.margarethsignorelli.com.br
 gtm.mariaeluisa.com
@@ -60492,7 +60488,6 @@ gtm.numercontabilidade.com.br
 gtm.nuovatopolin.it
 gtm.nursingnotes.org
 gtm.nutricionistajoana.com.br
-gtm.nutricionistamarinatinoco.com.br
 gtm.nutrideiamatos.com.br
 gtm.nutriinnovative.com
 gtm.nutrinic.dk
@@ -70401,7 +70396,6 @@ is-gateway.supersonicads.com
 is-log.furunavi.jp
 is-vvhatsapp.com
 is.accesstrade.net
-is.com
 is.conermoocher.com
 is.ptinusmufasal.com
 is.yllix.com
@@ -70515,7 +70509,6 @@ it.zachdavis.de
 it3c4jmx.xyz
 itabelog.blog
 itacistdirndl.cyou
-itad.linetv.tw
 itadapi.ithome.com.tw
 itag.ads.linkedin.com
 itagpro-sst.dealshopa.com
@@ -78103,7 +78096,6 @@ load.dt.waterdrop.nl
 load.dterm.colorsathome.nl
 load.dts.docu-tools.com
 load.dtwfcizn.konner-sohnen.uk
-load.duper.superfoodstore.nl
 load.dvboost.coylecbg.com
 load.dvboost.coyledeals.com
 load.dvboost.coylenissan.com
@@ -86966,6 +86958,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -106768,7 +106761,6 @@ px.mountain.com
 px.onlygal.es
 px.pocpoc.io
 px.quantserve.com
-px.sharethe-analytics.herokuapp.com
 px.sharethis.com
 px.srvcs.tumblr.com
 px.staticfiles.at
@@ -109607,7 +109599,6 @@ redirectbandarxlsafest.com
 redirectbisnis4dsafest.com
 redirecthitnspin.com
 redirectingat.com
-redirectnative.com
 redirectpopads.com
 redirectvoluum.com
 redistats.com
@@ -114031,6 +114022,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usenix.org
@@ -115970,7 +115962,6 @@ scripts.opti-digital.com
 scripts.prdredir.com
 scripts.psyma.com
 scripts.simpleanalyticscdn.com
-scripts.static-od.com
 scripts.stay22.com
 scripts21.com
 scriptscalumnychirp.com
@@ -156950,6 +156941,7 @@ tracker.cdnbye.com
 tracker.citicsinfo.com
 tracker.convead.io
 tracker.corporalacademy.com.br
+tracker.costurecommarcia.com.br
 tracker.creativecdn.com
 tracker.curama.jp
 tracker.dalso.org
@@ -170121,7 +170113,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -170874,6 +170865,7 @@ www.triplelift.com
 www.truoptik.com
 www.trustaffs.com
 www.trustx.org
+www.tsyschoicebusiness.com
 www.tubeadvertising.eu
 www.turn.com
 www.twiago.com
@@ -173630,7 +173622,6 @@ y2ehvxgs.xyz
 y2ej3xxfve.com
 y2j5emrkfrm9htbouguh.cfd
 y2o57pzzx.com
-y2vfr9mzx7wxqlxvfu.3jgyicowryr7kcm.cyou
 y2vorexg2u.com
 y35wrujasg-ldap.net.mydays.de
 y4.o2v2nj7l366i9ihty6oq2ofrixm1fly.cyou
@@ -175718,7 +175709,6 @@ zgumwv.stepstone.de
 zgusk.easytogrowbulbs.com
 zgvaicjdorgqa.website
 zgvyjrzusfonn.site
-zgwhzkuntffa.com
 zgwoziiwdhuhi.online
 zgwxoy.autoscout24.ro
 zgxzeicunptms.store
