@@ -42,7 +42,6 @@ jobs:
             https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt \
             https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \
             https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain-VN.txt \
-            https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts \
           | awk '{
               if (/^[[:space:]]*$/ || /^[!#;]/) next
               line = tolower($0)
