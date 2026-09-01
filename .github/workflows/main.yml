@@ -43,6 +43,7 @@ jobs:
             https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \
             https://raw.githubusercontent.com/bigdargon/hostsVN/refs/heads/master/hosts \
             https://raw.githubusercontent.com/ProgramComputer/Easylist_hosts/refs/heads/main/EasyListChina%2BEasyList/hosts \
+            https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts \
           | awk '{
               if (/^[[:space:]]*$/ || /^[!#;]/) next
               line = tolower($0)
