@@ -45,7 +45,7 @@ jobs:
             https://raw.githubusercontent.com/ProgramComputer/Easylist_hosts/refs/heads/main/EasyListChina%2BEasyList/hosts \
             https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts \
             https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts \
-          | awk '{
+            | awk '{
               if (/^[[:space:]]*$/ || /^[!#;]/) next
               line = tolower($0)
               sub(/^@@\|\|?/, "", line); sub(/^\|\|?/, "", line)
